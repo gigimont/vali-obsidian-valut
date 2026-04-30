@@ -47,8 +47,39 @@ Organically grown SMEs are running on expertise that was never written down, and
 
 ---
 
+---
+
+## Three Deal-Breaker Hypotheses
+
+These are go/no-go tests — distinct from the directional assumptions above. If any of these prove false, the product concept fails at its core.
+
+### 1. The Priority Problem
+**Hypothesis:** Founders and successors actually blame *trapped knowledge and undocumented processes* as the cause of their succession or transfer difficulties — not "the economy," "lazy young people," or "bad brokers."
+
+**Why it's a deal-breaker:** If they don't see trapped knowledge as the problem, they will never buy a solution to it. We need them to name the problem themselves before we name the solution.
+
+**How to test:** In interviews, ask about the last time they tried to hand over a client account, onboard a senior hire, or enter a sale process. Count how many unprompted name "dependency on me/my senior staff" or "unclear processes" as the reason it stalled or failed.
+
+### 2. The Data Access Problem
+**Hypothesis:** Tech-resistant SME owners who fear data sharing will grant a trusted third party access to their emails, workflows, and daily operations to document them.
+
+**Why it's a deal-breaker:** Our extraction methodology requires access to exactly what these founders protect most: their systems, their people's habits, their "secret sauce." If privacy fear or competitive sensitivity blocks access, the methodology cannot work.
+
+**How to test:** Ask about past behavior — how does their accountant access financial records? Have they ever had an external consultant review operations? What access did they give? If 80%+ already give full access to a local IT managed service provider (MSP), the channel might be to sell through those MSPs.
+
+### 3. The Digital Footprint Problem
+**Hypothesis:** Enough of the operational knowledge we need to extract exists in digital or capturable form — emails, documents, observable workflows — rather than being *purely* verbal and unrecorded.
+
+**Why it's a deal-breaker:** If a business runs entirely on paper notebooks, verbal instructions, and whiteboard conversations with zero digital trace, AI-assisted extraction produces nothing. The methodology requires some minimal digital footprint to anchor the documentation.
+
+**How to test:** Observe or ask founders to walk through a specific recent process step-by-step. Measure the "digital vs. analog ratio" — out of 10 steps in fulfilling an order, how many touch a computer, email, or digital system?
+
+---
+
 ## Related
 - [[Council Verdict]] — where the thesis was first pressure-tested
 - [[Interview 001 — Successor]] — the interview that moved us from v2 to v3
 - [[Four Sub-Problems]] — the structural breakdown from First Principles advisor
 - [[Open Questions]] — what still needs validating
+- [[Product Methodology]] — how the thesis translates into an extraction methodology
+- [[Origin Story]] — where the deal-breaker hypotheses were first articulated

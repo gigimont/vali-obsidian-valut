@@ -53,6 +53,25 @@ Three forces converging in 2026:
 | Italian or global? | Italy-first (know market + regulation), international later country-by-country |
 | What's your N? | 1 interview done, 15+ planned. Presenting hypothesis, not finding. |
 | What would kill this? | If founders universally refuse shadowing, or tacit knowledge is irreducibly personal |
+| Haven't you heard of Celonis? | Celonis is our role model, not our competitor. They need digital event logs; our market runs on paper, heads, and WhatsApp. Celonis built a $10B company proving process transparency is valuable — we're doing that for the businesses Celonis can't touch. See [[Competitors]]. |
+| Why aren't you just consultants? | Consultants are disruptive, opinionated, and expensive. We observe passively, make no recommendations, and charge a fraction. A 60-year-old founder hears "consultant" and hears "someone telling me how to run my business." We're a neutral mirror. |
+| Why should society care? | SMEs are 99% of EU businesses, 100M employees, 56–58% of GDP. Europe loses ~150,000 firms and 600,000 jobs every year from failed business transfers. We're not helping founders retire comfortably — we're preserving economic infrastructure. See [[Market Data]]. |
+| Can you scale this to CEE? | The succession cliff is hitting Poland, Hungary, Italy, Romania simultaneously — same aging founder cohort, same knowledge-trapping problem. We start with Germany + Italy (market knowledge, regulation) and expand country-by-country as case studies build. Country data in [[Market Data]]. |
+
+---
+
+## Messaging Principles
+
+These apply to all pitch contexts — founder conversations, investor pitches, outreach materials.
+
+| Avoid | Use instead | Why |
+|---|---|---|
+| "M&A" | "Buyer-ready" / "Valuation-protected" | "M&A" signals bankers and deal complexity to traditional founders |
+| "Surveillance" / "monitoring" | "Passive shadowing" / "workflow observation" | GDPR and employee privacy triggers; Works Council / Betriebsrat concerns |
+| "AI tool" / "platform" | "Tech-enabled service" / "done-for-you" | Founders don't want another software subscription |
+| "Bottlenecks" / "inefficiencies" | "How the business actually runs" | Never critique the founder's decisions |
+| "Digitalization" | "Documenting your operations" | Buzzword fatigue in traditional industries |
+| "Consulting" | "Documentation service" / "neutral mirror" | Consultants tell you what to change; we just write down what you do |
 
 ---
 

@@ -14,6 +14,10 @@
 - [[Council Verdict]] — LLM Council pressure-test of the problem space
 - [[Four Sub-Problems]] — matching, readiness, emotional, deal-structuring
 - [[Upstream vs Downstream]] — the biggest unresolved strategic question
+- [[Market Data]] — country-level succession statistics with sources
+- [[Business Model]] — revenue model analysis and GTM strategy
+- [[Product Methodology]] — three-pillar extraction framework and Neutral Mirror philosophy
+- [[Origin Story]] — how the project started (5H bootcamp)
 - ### Weekly Check-ins
 - [[1 to 1s — Week 3]]
 
