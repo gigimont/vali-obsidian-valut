@@ -164,6 +164,61 @@ The interview worked if:
 
 ---
 
+## Version History
+
+### v0 — Original Questions (pre-Mom Test)
+
+The first set of questions sent to SMEs before the current methodology was developed. Broad and partially leading — replaced once the Mom Test principle was applied.
+
+> A glimpse into your vision of an ideal future
+>
+> 1. What are your top 3 issues that need to be solved right now?
+> 2. Presently (including 2025), what are the 3 main overarching pains in running your business?
+> 3. What are your main concerns regarding securing your business future (next 5-10 years)?
+>    - How happy are you with your company's degree of: Digitalisation / Automation / AI integration?
+>    - What's your biggest hurdle to reaching satisfaction in this respect?
+> 4. What considerations have you had regarding succession?
+>    - What feelings does succession evoke?
+>    - Are you delegating this responsibility? If so, to who?
+>
+> Give us a glimpse of what a beautiful vision looks like to you regarding your future.
+
+**Why replaced:** "What feelings does succession evoke?" asked cold is leading — it names the emotional territory before the founder does. "Top 3 issues" is too generic to surface knowledge-dependency pain. The vision framing invited aspirational answers rather than concrete stories about past behavior.
+
+---
+
+### v1 — Intermediate "Final" Draft (pre-elaboration)
+
+The version documented as "Final Questions" — structurally identical to the current guide, but without the rationale, Mom Test notes, cross-links, or post-interview protocol. The current guide elaborated each question from this foundation.
+
+**To be sent prior:**
+1. What are the top 2–3 immediate operational challenges you are focusing on right now?
+2. Looking at the next 5–10 years, what are your main concerns regarding securing the future and stability of the business?
+3. What considerations or preliminary steps have you taken regarding eventual succession or stepping back from daily operations?
+4. If everything goes perfectly over the next few years, what does a successful transition and a "beautiful vision" for your future look like?
+
+**To be asked live (with trigger scenarios):**
+
+1. **The Emotional Question:** "What feelings does succession actually evoke for you?"
+   - *Trigger:* The founder gives a rehearsed, robotic answer about their 5-year exit timeline. Or body language shifts — they sigh, look tired, or seem stressed when talking about letting go of the reins.
+
+2. **The Delegation Question:** Are you delegating this responsibility? If so, to whom?
+   - *Trigger:* The founder talks about the overwhelming amount of work required to prepare for a sale, or mentions a son/daughter/junior partner who's supposed to take over but "isn't quite ready yet."
+
+3. **The Tech Friction Question:** How happy are you with your current degree of automation? When you've tried to implement new software recently, did it fail because the software couldn't handle your team's unwritten rules?
+   - *Trigger:* The founder brings up a previous, expensive IT project (like an ERP integration).
+
+4. **The "Bus Test" (The Trap):** If your top two veteran employees were unreachable for a month, which specific daily operations would completely grind to a halt?
+   - *Trigger:* The founder complains about a specific employee being overworked, says something like "Klaus handles all of our logistics," or mentions how hard it is for them or their senior staff to take a proper unplugged vacation.
+
+5. **The Onboarding Question:** If you hired a brilliant new manager tomorrow, how long would it take for them to become fully independent without shadowing you?
+   - *Trigger:* The founder complains about the younger generation ("nobody wants to work"), the lack of skilled labor, or how hard it is to hire good middle management nowadays.
+
+6. **The Fragmentation Question:** If I wanted to understand how your team handles a non-standard client request, how many different places (emails, notebooks, heads) would I have to look?
+   - *Trigger:* The founder boasts about their "flexibility" or "customized service," OR they complain about a recent mistake, a miscommunication between departments, or an order that took way too long to process.
+
+---
+
 ## Related
 
 - [[One-Pager]] — send alongside Phase 1 questions

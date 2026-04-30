@@ -30,7 +30,8 @@
 
 ### Deliverables
 - [[Pitch Deck Content]] — 6-slide cohort presentation (slide-by-slide)
-- [[One-Pager]] — designed HTML/PDF for founders and experts
+- [[One-Pager]] — designed HTML/PDF for founders and experts (all content versions)
+- [[One-Pager — German (v3)]] — German translation of content v3
 - [[Council Report]] — full HTML report from the council session
 
 ### Open Questions

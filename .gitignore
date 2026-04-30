@@ -1,5 +1,11 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
 .obsidian/graph.json
+.obsidian/backlink.json
+.obsidian/bookmarks.json
+.obsidian/canvas.json
+.obsidian/core-plugins-migration.json
 .trash/
-.DS_Store
