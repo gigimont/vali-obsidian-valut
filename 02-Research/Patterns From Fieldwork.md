@@ -50,6 +50,11 @@ Frame the deliverable as "we wrote down how your business works" not "here's wha
 - **Source:** [[Interview 004 - Prisma Founder (Digital Agency, Romania)]]+ Wolf's pitch framing
 - **Strength:** Moderate — validated by expert reaction, not yet by founder reaction
 
+### 12. Delegation through verticalisation as a partial solution
+Some owners solve the day-to-day problem by hiring vertical specialists (in-house lawyer, dedicated marketing) and externalising technical verticals they cannot build internally. This reduces operational chaos but does NOT solve succession: relational and decision-making knowledge remains concentrated, and when a senior figure is absent, decisions become "irreplicable." For well-structured companies, the product value proposition shifts from "document your processes" (already done) to "capture the decision-making and relational knowledge that still lives in a few heads."
+- **Source:** [[Interview 005 — Real Estate Agency (Italy)]]
+- **Strength:** Single source but very concrete — 25 years of activity, mature structure, explicit admission
+
 ---
 
 ## Emerging Hypotheses (need more data)

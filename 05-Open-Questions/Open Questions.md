@@ -7,6 +7,8 @@
 ---
 ## Customer & Buyer
 
+- [ ] Should ICP distinguish between "chaotic SMEs" and "structured SMEs with still-tacit knowledge"? Are these two different segments with different willingness to pay?
+- [ ] For an already-structured company, is "capturing decision-making knowledge" a differentiating position versus "documenting processes"?
 - [ ] Is the successor always the right buyer, or does the founder need to champion this?
 - [ ] Can the successor commission the work without founder's blessing?
 - [ ] Is the sibling-already-inside the real customer (not the one entering)?

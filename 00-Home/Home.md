@@ -24,6 +24,7 @@
 ### Research & Interviews
 - [[Interview 001 — Successor]] — first interview synthesis
 - [[Interview 004 - Prisma Founder (Digital Agency, Romania)]] - first interview synthesis
+- [[Interview 005 — Real Estate Agency (Italy)]] — positive outlier: structured Italian SME
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -50,6 +51,7 @@
 | 1-2  | Problem space exploration, LLM Council           | ✅ Done    |
 | 2-3  | Interviews (successors, founders, experts)       | ✅ Done    |
 | 3    | Cohort presentation, one-pager                   | ✅ Done    |
+| 5    | Interview 005: real estate agency — first positive outlier | ✅ Done |
 | 5-6  | One manual transformation attempt                | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision | ⬜ Planned |
 
