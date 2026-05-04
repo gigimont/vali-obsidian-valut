@@ -1,4 +1,4 @@
-# Interview 006 — Vetreria Rachello (Italy)
+# Interview 007 — Vetreria Rachello (Italy)
 
 #research #interview #sme-owner #manufacturing #italy #succession-crisis
 

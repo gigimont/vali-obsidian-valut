@@ -25,7 +25,7 @@
 - [[Interview 001 — Successor]] — first interview synthesis
 - [[Interview 004 - Prisma Founder (Digital Agency, Romania)]] - first interview synthesis
 - [[Interview 005 — Real Estate Agency (Italy)]] — positive outlier: structured Italian SME
-- [[Interview 006 — Vetreria Rachello (Italy)]] — strongest thesis validation: catastrophic succession lived + imminent, decision-making gap named
+- [[Interview 007 — Vetreria Rachello (Italy)]] — strongest thesis validation: catastrophic succession lived + imminent, decision-making gap named
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 

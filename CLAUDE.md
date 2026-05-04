@@ -61,10 +61,26 @@ Use blockquote metadata at the top of each note (not YAML frontmatter):
 
 ---
 
+## Current Interview Index
+
+| # | File | Interviewee |
+|---|------|-------------|
+| 001 | `Interview 001 — Successor.md` | Successor in family business |
+| 002 | `Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view.md` | Ex-banker / BoD |
+| 003 | `Interview 003 - Merih (Finance Professor).md` | Finance professor |
+| 004 | `Interview 004 - Prisma Founder (Digital Agency, Romania).md` | Prisma founder |
+| 005 | `Interview 005 — Real Estate Agency (Italy).md` | Real estate agency owner, Veneto |
+| 006 | `Interview 006 - John Lynch (Lynka).md` | John Lynch, Lynka |
+| 007 | `Interview 007 — Vetreria Rachello (Italy).md` | Marco Rachello, glass manufacturing |
+
+Next interview: `Interview 008 — ...`
+
+---
+
 ## How to Add a New Interview Note
 
 1. Create file in `02-Research/` named `Interview [NNN] — [Name or Company].md`
-2. Use the structure from existing interview notes (see Interview 001–004 for examples)
+2. Use the structure from existing interview notes (see Interview 001–007 for examples)
 3. Include: Context, Key Quotes, What We Learned, Patterns confirmed/challenged, Action Items, Open Questions, Related links
 4. After creating, update these notes:
    - `02-Research/Patterns From Fieldwork.md` — add or confirm patterns

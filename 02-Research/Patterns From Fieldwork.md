@@ -57,22 +57,22 @@ Some owners solve the day-to-day problem by hiring vertical specialists (in-hous
 
 ### 13. The decision-making gap as the specific succession barrier
 A 19-year employee can do all the operational work but cannot make the judgment calls (pricing, client confrontation, risk assessment). This is not a training gap — it's a decision-confidence gap. Documentation of processes is necessary but not sufficient. The real value is capturing HOW the founder decides and creating decision-support for the successor.
-- **Source:** [[Interview 006 — Vetreria Rachello (Italy)]] (Lisa, 19-year employee afraid of decisions)
+- **Source:** [[Interview 007 — Vetreria Rachello (Italy)]] (Lisa, 19-year employee afraid of decisions)
 - **Strength:** Strong — specific, named, with founder's own assessment that she could learn if supported
 
 ### 14. Family emotion as a deal-killer
 A fully agreed, lawyered business sale was blocked by family emotion ("it was your father's"). This is not irrational but it means any succession solution that ignores the emotional dimension will fail even when business logic is clear.
-- **Source:** [[Interview 006 — Vetreria Rachello (Italy)]] (sale blocked by brother-in-law and mother)
+- **Source:** [[Interview 007 — Vetreria Rachello (Italy)]] (sale blocked by brother-in-law and mother)
 - **Strength:** Strong — concrete deal with specific numbers (€550K) that fell through
 
 ### 15. Value erosion without succession
 Enterprise value declines measurably every month without a succession plan. €550K offer in 2024, estimated €0 in 3 years by the founder's own assessment. The cost of inaction is quantifiable.
-- **Source:** [[Interview 006 — Vetreria Rachello (Italy)]]
+- **Source:** [[Interview 007 — Vetreria Rachello (Italy)]]
 - **Strength:** Strong — specific numbers, founder's own projection
 
 ### 16. The successor pool shrinks by choice, not demographics
 Children CAN work but refuse because they've seen the life. Key employee CAN take over but refuses because she fears the decisions. The bottleneck isn't finding people — it's making the role survivable and the transition supportable.
-- **Source:** [[Interview 006 — Vetreria Rachello (Italy)]] (3 children refusing, Lisa afraid)
+- **Source:** [[Interview 007 — Vetreria Rachello (Italy)]] (3 children refusing, Lisa afraid)
 - **Strength:** Strong — three independent refusals within one family business
 
 ---
