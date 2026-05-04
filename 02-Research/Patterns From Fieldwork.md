@@ -85,6 +85,16 @@ Post-acquisition knowledge transfer is handled through 1-5 year consulting agree
 - **Source:** [[Interview 008 — Antonio Rizza (M&A)]]
 - **Strength:** Strong — standard industry practice described by practitioner
 
+### 19. The 80% succession failure rate (field estimate)
+A hardware store owner who interacts with hundreds of artisan SMEs daily estimates "forse il 20% riesce a trasferire a qualcuno" — roughly 80% of established businesses fail to successfully transfer. First field-level quantitative estimate. If validated by macro data, this is a headline number for the pitch deck.
+- **Source:** [[Interview 009 — Colusso Hardware (Italy)]]
+- **Strength:** Moderate — informed by decades of observation but single source. Needs cross-referencing.
+
+### 20. The advice-not-products shift
+Traditional SMEs that historically sold physical goods are increasingly selling knowledge and advice as their primary value. "Stiamo sempre più offrendo il consiglio." The tacit knowledge IS the product. This makes knowledge capture even more critical — you are preserving the core value proposition of the business itself, not just operational procedures.
+- **Source:** [[Interview 009 — Colusso Hardware (Italy)]]
+- **Strength:** Single source but directionally strong for retail/wholesale businesses
+
 ---
 
 ## Emerging Hypotheses (need more data)

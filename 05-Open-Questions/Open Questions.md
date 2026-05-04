@@ -18,6 +18,7 @@
 
 ## Knowledge Extraction
 
+- [ ] For businesses where product knowledge (65,000 articles) is the primary tacit asset, does our approach change vs decision-making or relationship capture?
 - [ ] Can decision replication (AI mirroring founder judgment) give a successor the confidence to take over? Or does confidence only come from lived experience?
 - [ ] Should the product have two distinct outputs (process docs + decision-support) or one integrated output?
 - [ ] Can tacit knowledge actually be extracted, or is it irreducibly personal?
@@ -27,6 +28,8 @@
 
 ## Market & Economics
 
+- [ ] Does the "20% succession success rate" hold across sectors? Can it be validated with ISTAT/Eurostat macro data?
+- [ ] Is the "advice-not-products" shift universal in traditional SME retail/wholesale?
 - [ ] Is the M&A buyer (PE fund, corporate acquirer) a more viable paying customer than the SME owner?
 - [ ] Can we build a "documentation completeness score" mapped to expected price improvement?
 - [ ] Should we evolve into a sell-side advisory model (documentation + deal brokering)?

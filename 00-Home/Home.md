@@ -27,6 +27,7 @@
 - [[Interview 005 — Real Estate Agency (Italy)]] — positive outlier: structured Italian SME
 - [[Interview 007 — Vetreria Rachello (Italy)]] — strongest thesis validation: catastrophic succession lived + imminent, decision-making gap named
 - [[Interview 008 — Antonio Rizza (M&A)]] — first buyer-side M&A perspective, documentation → price validation
+- [[Interview 009 — Colusso Hardware (Italy)]] — 20% succession rate field estimate, advice-not-products shift, 2-year onboarding confirmed
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -56,6 +57,7 @@
 | 5    | Interview 005: real estate agency — first positive outlier | ✅ Done    |
 | 5    | Interview 006: Vetreria Rachello — strongest validation, 4 new patterns | ✅ Done |
 | 5    | Interview 008: Antonio Rizza — M&A buyer-side, Patterns 17-18 (documentation→price, consulting bridge) | ✅ Done |
+| 5    | Interview 009: Colusso Hardware — field succession rate, Patterns 19-20 | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
