@@ -27,6 +27,9 @@
 
 ## Market & Economics
 
+- [ ] Is the M&A buyer (PE fund, corporate acquirer) a more viable paying customer than the SME owner?
+- [ ] Can we build a "documentation completeness score" mapped to expected price improvement?
+- [ ] Should we evolve into a sell-side advisory model (documentation + deal brokering)?
 - [ ] Is value erosion without succession quantifiable across SMEs? Could we build a "succession value calculator"?
 - [ ] Is "protect the value of what you built" a stronger pitch than "digital due diligence"?
 - [ ] Does the financial-health-as-obstacle pattern generalize across sectors?
@@ -40,6 +43,8 @@
 
 ## Strategic
 
+- [ ] Is the AI-enabled virtual data room a product to build or a feature of the larger offering?
+- [ ] Can we quantify: "our product compresses the 3-5 year post-acquisition consulting agreement to X months"?
 - [ ] [[Upstream vs Downstream]] — which timing produces better unit economics?
 - [ ] Which of [[Four Sub-Problems]] is most painful AND most willing-to-pay?
 - [ ] Is the product seller-side, buyer-side, or two-sided?

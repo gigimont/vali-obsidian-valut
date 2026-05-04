@@ -75,6 +75,16 @@ Children CAN work but refuse because they've seen the life. Key employee CAN tak
 - **Source:** [[Interview 007 — Vetreria Rachello (Italy)]] (3 children refusing, Lisa afraid)
 - **Strength:** Strong — three independent refusals within one family business
 
+### 17. Documentation completeness directly determines deal price
+Acquirers use ~100-item operational checklists. 20% documented = no offer submitted. 50% = conservative offer with heavy risk discount. 100% = willingness to pay premium price. Our product's M&A value proposition is not "nice to have" — it is the difference between getting an offer and not getting one.
+- **Source:** [[Interview 008 — Antonio Rizza (M&A)]]
+- **Strength:** Strong — direct from an M&A professional who runs these processes
+
+### 18. The consulting-agreement bridge is the current (bad) solution
+Post-acquisition knowledge transfer is handled through 1-5 year consulting agreements with founders + retention bonuses for key employees. Expensive, slow, creates governance tension, breaks if founder doesn't cooperate. Our product could compress or replace this period.
+- **Source:** [[Interview 008 — Antonio Rizza (M&A)]]
+- **Strength:** Strong — standard industry practice described by practitioner
+
 ---
 
 ## Emerging Hypotheses (need more data)
