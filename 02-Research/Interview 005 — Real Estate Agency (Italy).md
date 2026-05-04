@@ -155,10 +155,10 @@ When prompted with the bus test, he first minimises ("I hope they're absent as l
 
 ## Related
 - [[Interview 001 — Successor]] — successor in an unstructured company; this is the structural opposite
-- [[Interview 002 — Prisma Founder]] — Prisma confirmed €5–20M ICP with open-minded CEO; this company fits that profile
-- [[Interview 004 — John Lynch (Linka)]] — Linka invested in ERP; here the structure is organisational not technological — different paths to the same problem
+- [[Interview 004 - Prisma Founder (Digital Agency, Romania)]] — Prisma confirmed €5–20M ICP with open-minded CEO; this company fits that profile
+- [[Interview 005 - John Lynch (Lynka)]] — Linka invested in ERP; here the structure is organisational not technological — different paths to the same problem
 - [[Interview Prep — Agenzia Immobiliare]] — the preparation guide used for this interview
-- [[Interview Guide — SME Owners]] — Mom Test framework
+- [[Interview Guide]] — Mom Test framework
 - [[Patterns From Fieldwork]] — Pattern 12 added from this interview
 - [[Problem Statement]] — possible evolution: ICP segmented into chaotic vs structured
 - [[Four Sub-Problems]] — this owner has partially solved Problem 2 (Readiness) but Problem 3 (Emotional transition) is completely avoided

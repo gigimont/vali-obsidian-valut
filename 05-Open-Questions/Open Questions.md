@@ -7,6 +7,7 @@
 ---
 ## Customer & Buyer
 
+- [ ] How common is "family blocks the sale" as a succession failure mode? Italy-specific or universal?
 - [ ] Should ICP distinguish between "chaotic SMEs" and "structured SMEs with still-tacit knowledge"? Are these two different segments with different willingness to pay?
 - [ ] For an already-structured company, is "capturing decision-making knowledge" a differentiating position versus "documenting processes"?
 - [ ] Is the successor always the right buyer, or does the founder need to champion this?
@@ -17,6 +18,8 @@
 
 ## Knowledge Extraction
 
+- [ ] Can decision replication (AI mirroring founder judgment) give a successor the confidence to take over? Or does confidence only come from lived experience?
+- [ ] Should the product have two distinct outputs (process docs + decision-support) or one integrated output?
 - [ ] Can tacit knowledge actually be extracted, or is it irreducibly personal?
 - [ ] Do employees resist or welcome having their knowledge captured?
 - [ ] Has anyone tried this before? (Consultants, internal documentation, coaches — what worked?)
@@ -24,6 +27,8 @@
 
 ## Market & Economics
 
+- [ ] Is value erosion without succession quantifiable across SMEs? Could we build a "succession value calculator"?
+- [ ] Is "protect the value of what you built" a stronger pitch than "digital due diligence"?
 - [ ] Does the financial-health-as-obstacle pattern generalize across sectors?
 - [ ] Are most founder-centric SMEs profitable-and-stuck, or declining-and-stuck?
 - [ ] What would founders/successors actually pay for this? (Range, willingness, structure)
