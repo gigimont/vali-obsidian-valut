@@ -95,6 +95,11 @@ Traditional SMEs that historically sold physical goods are increasingly selling 
 - **Source:** [[Interview 009 — Colusso Hardware (Italy)]]
 - **Strength:** Single source but directionally strong for retail/wholesale businesses
 
+### 21. The retroactive vs prospective capture divide
+A search fund investor who records 100% of his own meetings objects that retroactive knowledge capture from 20-30 years of unrecorded founder decisions is not feasible. His objection is specifically about retroactive extraction, not about knowledge capture in general. Product implication: position TWO modes — prospective capture (start recording now, uncontroversial) and retroactive extraction (structured interviews to recover what can be surfaced, acknowledged as partial). The honest answer is probably 60-70% capture, not 100%. The question is whether that's enough to meaningfully reduce transition risk.
+- **Source:** [[Interview 010 — Newton Campos (Search Fund)]]
+- **Strength:** Strong — from an investor who has seen dozens of transitions and practices prospective capture himself
+
 ---
 
 ## Emerging Hypotheses (need more data)

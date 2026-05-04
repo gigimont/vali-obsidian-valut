@@ -7,6 +7,8 @@
 ---
 ## Customer & Buyer
 
+- [ ] Are search fund searchers (young CEOs post-acquisition) a viable customer segment?
+- [ ] How many search funds operate in Europe and what's the typical knowledge-transfer budget per deal?
 - [ ] How common is "family blocks the sale" as a succession failure mode? Italy-specific or universal?
 - [ ] Should ICP distinguish between "chaotic SMEs" and "structured SMEs with still-tacit knowledge"? Are these two different segments with different willingness to pay?
 - [ ] For an already-structured company, is "capturing decision-making knowledge" a differentiating position versus "documenting processes"?
@@ -18,6 +20,8 @@
 
 ## Knowledge Extraction
 
+- [ ] What % of founder decision-logic can realistically be extracted retroactively? Is 60-70% defensible?
+- [ ] Should we position with TWO explicit modes: prospective capture + retroactive extraction?
 - [ ] For businesses where product knowledge (65,000 articles) is the primary tacit asset, does our approach change vs decision-making or relationship capture?
 - [ ] Can decision replication (AI mirroring founder judgment) give a successor the confidence to take over? Or does confidence only come from lived experience?
 - [ ] Should the product have two distinct outputs (process docs + decision-support) or one integrated output?
