@@ -43,6 +43,9 @@
 - [[One-Pager — German (v3)]] — German translation of content v3
 - [[Council Report]] — full HTML report from the council session
 
+### Daily Standups
+- [[Standup — 2026-05-04]] — first recorded standup: ICP sizing, knowledge mining vs process mining, M&A pivot discussion
+
 ### Open Questions
 - [[Open Questions]] — what we need the next 15 interviews to answer
 
@@ -60,6 +63,7 @@
 | 5    | Interview 008: Antonio Rizza — M&A buyer-side, Patterns 17-18 (documentation→price, consulting bridge) | ✅ Done |
 | 5    | Interview 009: Colusso Hardware — field succession rate, Patterns 19-20 | ✅ Done |
 | 6    | Interview 010: Newton Campos — feasibility pushback, Pattern 21 (retroactive vs prospective) | ✅ Done |
+| 5    | First recorded daily standup — ICP debate, M&A angle, knowledge mining framing | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

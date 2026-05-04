@@ -18,6 +18,7 @@ This is an Obsidian knowledge base for an incubation project at the Vali Entrepr
 04-Deliverables/      → Pitch deck content, one-pager, council report
 05-Open-Questions/    → Master checklist of what to validate
 06 - 1 to 1s/         → Weekly mentor check-in notes
+07-Daily-Standup/     → Daily co-founder standup notes (Giuseppe + Wolf)
 Templates/            → Reusable templates for meetings and check-ins
 ```
 
@@ -96,6 +97,12 @@ Same as interview but file goes in `02-Research/` as `Feedback [NNN] — [Name].
 1. Create in `06 - 1 to 1s/` as `1-1 — Week [N].md`
 2. Use template from `Templates/1-1 Template.md`
 3. Update `00-Home/Home.md` timeline
+
+## How to Add a Daily Standup
+1. Create in `07-Daily-Standup/` as `Standup — YYYY-MM-DD.md`
+2. Use template from `Templates/Daily Standup Template.md`
+3. Extract: decisions, insights, interview debriefs, to-dos (split by person), open threads
+4. Link to any interview notes or strategy docs discussed
 
 ---
 
