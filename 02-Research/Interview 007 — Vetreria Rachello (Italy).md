@@ -111,7 +111,7 @@ This is also the first interview where the interviewee explicitly named the deci
 - What she CANNOT do: make pricing decisions, confront clients, decide to take or refuse a job
 - This is not a training problem — it is a confidence-in-judgment problem
 - Marco's assessment: she could learn if pushed, but "the first times she'd make mistakes"
-- This maps perfectly to the "decision replication" concept from [[Interview 003 — Mary]] / Clonable
+- This maps perfectly to the "decision replication" concept from [[Interview 003 - Merih (Finance Professor)]] / Clonable
 
 ### On emotional barriers to succession
 - The failed sale was blocked by family emotion, not business logic
@@ -148,7 +148,7 @@ This is also the first interview where the interviewee explicitly named the deci
 ### New Patterns
 
 **Pattern 13 — The decision-making gap as the specific succession barrier**
-Lisa can do the work. She cannot make the judgment calls. This is not a knowledge gap (she's seen it done for 19 years) — it's a decision-confidence gap. The product implication: documenting processes is necessary but not sufficient. The real value is capturing HOW the founder decides (pricing, client management, risk assessment) and creating a system that supports decision-making for the successor. This directly validates the Clonable / "decision replication" direction from [[Interview 003 — Mary]].
+Lisa can do the work. She cannot make the judgment calls. This is not a knowledge gap (she's seen it done for 19 years) — it's a decision-confidence gap. The product implication: documenting processes is necessary but not sufficient. The real value is capturing HOW the founder decides (pricing, client management, risk assessment) and creating a system that supports decision-making for the successor. This directly validates the Clonable / "decision replication" direction from [[Interview 003 - Merih (Finance Professor)]].
 
 **Pattern 14 — Family emotion as a deal-killer**
 The sale was agreed, lawyered, priced. Family blocked it for purely emotional reasons. This is not irrational — it's the most human thing in the world. But it means: any succession solution that doesn't address the emotional dimension will fail even when the business logic is clear. The [[Council Verdict]] flagged this as Sub-Problem 3 (Emotional Transition). This interview proves it's not separable from the other sub-problems.
@@ -216,7 +216,7 @@ This company is squarely in the ICP. And the succession timeline (3 years) means
 
 ## Related
 - [[Interview 001 — Successor]] — successor afraid of taking over; Lisa is the same pattern from the other side (insider, not outsider)
-- [[Interview 003 — Mary]] — Clonable / decision replication is exactly what Lisa would need
+- [[Interview 003 - Merih (Finance Professor)]] — Clonable / decision replication is exactly what Lisa would need
 - [[Interview 005 — Real Estate Agency (Italy)]] — also Veneto, also structured, but the real estate owner solved delegation; Marco did not
 - [[Patterns From Fieldwork]] — Patterns 13, 14, 15, 16 added
 - [[Problem Statement]] — strongest validation yet; may warrant v4 update

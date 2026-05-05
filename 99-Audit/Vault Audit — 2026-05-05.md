@@ -378,9 +378,6 @@ These two documents directly contradict each other on a core product claim.
 Home.md timeline table has row: `| 5 | Interview 006: Vetreria Rachello — strongest validation, 4 new patterns | ✅ Done |`
 Vetreria Rachello is **Interview 007**, not 006. This is a relic of the numbering before John Lynch's note was renumbered from 005 to 006.
 
-### Interview 009 links to John Lynch as Interview 004
-"[[Interview 004 — John Lynch (Linka)]]" — wrong number (should be 006) and misspelled company name ("Linka" vs "Lynka"). Same error appears in Interview 005's Related section.
-
 ---
 
 ## 7. Home.md State

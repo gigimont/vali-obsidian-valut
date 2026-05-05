@@ -84,7 +84,7 @@ These are NEVER sent in advance. They only work live because they need to land i
 
 **Trigger:** The founder brings up a previous expensive IT project. Especially an ERP integration, a CRM rollout, or any system that was supposed to "fix everything."
 
-**What you're listening for:** The phrase "it didn't fit how we work." The distinction between what the software captures (transactions, workflows) and what it doesn't (judgment, relationships, unwritten rules). The ERP ceiling — see [[Interview 005 - John Lynch (Lynka)]].
+**What you're listening for:** The phrase "it didn't fit how we work." The distinction between what the software captures (transactions, workflows) and what it doesn't (judgment, relationships, unwritten rules). The ERP ceiling — see [[Interview 006 - John Lynch (Lynka)]].
 
 **Connects to:** [[Patterns From Fieldwork]] Pattern 10 — The ERP ceiling. [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]] — Celonis/process mining tools that don't scale to SMEs.
 
@@ -226,4 +226,4 @@ The version documented as "Final Questions" — structurally identical to the cu
 - [[Patterns From Fieldwork]] — where interview outputs accumulate
 - [[Open Questions]] — what we're specifically trying to answer
 - [[Interview 001 — Successor]] — first interview, informed several trigger scenarios
-- [[Interview 005 - John Lynch (Lynka)]] — ERP ceiling triggered the tech friction question design
+- [[Interview 006 - John Lynch (Lynka)]] — ERP ceiling triggered the tech friction question design

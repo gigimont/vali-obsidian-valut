@@ -111,7 +111,7 @@ This is the most direct competitive category surfaced to date. These are firms p
 
 ### Omnivisor
 
-**Surfaced via:** [[Interview 006 — John Lynch (Lynka)]]. Lynka has been in active conversation with them; they have proposed concrete AI projects but Lynka has not yet pulled the trigger.
+**Surfaced via:** [[Interview 006 - John Lynch (Lynka)]]. Lynka has been in active conversation with them; they have proposed concrete AI projects but Lynka has not yet pulled the trigger.
 
 **What we know:**
 
@@ -158,7 +158,7 @@ SAP, Microsoft Dynamics, Sage. They systematize transactions and workflows — b
 
 ---
 
-## Flagged for Research (Giuseppe's list — uncategorized)
+## Flagged for Research (Giuseppe's list)
 
 These were flagged by Giuseppe as potentially relevant. Each needs a category assessment and positioning note before they can be properly placed above.
 

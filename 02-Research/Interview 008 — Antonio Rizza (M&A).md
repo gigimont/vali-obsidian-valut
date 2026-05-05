@@ -159,9 +159,9 @@ Post-acquisition knowledge transfer is currently handled through 1-5 year consul
 - [[Council Verdict]] — peer review said "the buyer side is missing from every analysis." This interview fills that gap.
 - [[Interview 007 — Vetreria Rachello (Italy)]] — Marco's failed sale at €550K + value erosion is the seller-side mirror of what Antonio describes from the buyer side
 - [[Interview 001 — Successor]] — successor's inability to take over is the same problem acquirers solve through expensive consulting agreements
-- [[Interview 003 — Mary]] — Clonable's "decision replication" aligns with Antonio's description of the shadowing/consulting period acquirers need
-- [[Feedback 001 — Carl]] — Carl's competitive landscape (Celonis, etc.) is adjacent to the VDR gap Antonio identified
+- [[Interview 003 - Merih (Finance Professor)]] — Clonable's "decision replication" aligns with Antonio's description of the shadowing/consulting period acquirers need
+- [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]] — Carl's competitive landscape (Celonis, etc.) is adjacent to the VDR gap Antonio identified
 - [[Patterns From Fieldwork]] — Patterns 17, 18 added
 - [[Problem Statement]] — M&A angle may warrant a dual-track positioning: succession readiness + M&A readiness
 - [[Four Sub-Problems]] — Antonio's perspective touches Problem 1 (Matching) and Problem 4 (Deal Structuring), previously underexplored
-- [[Competitive Landscape]] — add AI-enabled VDR as a product gap to research
+- [[Competitors]] — add AI-enabled VDR as a product gap to research

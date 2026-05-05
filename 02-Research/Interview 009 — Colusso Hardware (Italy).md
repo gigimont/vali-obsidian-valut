@@ -82,7 +82,7 @@
 
 ### On technology and AI
 - **Already using AI for writing and research.** Surprisingly progressive — uses AI for drafting letters to clients, product research via Google AI. His sister (born 1975) and his daughter (25) both use AI tools.
-- **Doesn't know how to bring AI into the business systematically.** "Non so come approcciarmi" — the personal use is there, the business application is missing. Same "under-advised" pattern as [[Interview 004 — John Lynch (Linka)]].
+- **Doesn't know how to bring AI into the business systematically.** "Non so come approcciarmi" — the personal use is there, the business application is missing. Same "under-advised" pattern as [[Interview 006 - John Lynch (Lynka)]].
 - **Resists changing the gestionale.** Knows other businesses have suffered months of crisis during gestionale changes. Prefers to keep "Easy" and modify it incrementally. Risk-averse on core systems.
 
 ### On the market
@@ -148,7 +148,7 @@ SMEs that historically sold physical goods are increasingly selling knowledge/ad
 ## Related
 - [[Interview 005 — Real Estate Agency (Italy)]] — same "te la ricordi" knowledge-by-memory pattern, same gestionale ceiling, same Veneto geography
 - [[Interview 007 — Vetreria Rachello (Italy)]] — same region, same family dynamics around succession, same "children don't want to take over"
-- [[Interview 004 — John Lynch (Linka)]] — same "under-advised on AI" pattern at a much larger scale
+- [[Interview 006 - John Lynch (Lynka)]] — same "under-advised on AI" pattern at a much larger scale
 - [[Patterns From Fieldwork]] — Patterns 19, 20 added
 - [[Problem Statement]] — the 20% stat, if validated, is a pitch deck headline number
 - [[Interview 001 — Successor]] — the nieces entering now are in the same position as Interview 001's successor — early, uncertain, learning by proximity

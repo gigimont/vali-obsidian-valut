@@ -102,32 +102,32 @@ A search fund investor who records 100% of his own meetings objects that retroac
 
 ### 22. The ERP ceiling
 Even sophisticated ERPs (30–40 processes captured end-to-end, replacing email between departments, channeling non-standard requests through new product cards) leave the decision-making, judgment, and relational layers untouched. The gap is real but narrower than the one-pager implies. The untouched roles are marketing, HR, creative, IT, and parts of sales. For a digitally mature SME, the value proposition is not "we capture your processes" — it is "we capture the layer your ERP cannot."
-- **Source:** [[Interview 006 — John Lynch (Lynka)]] (4th ERP, €1M+, 30 months, mid-implementation)
+- **Source:** [[Interview 006 - John Lynch (Lynka)]] (4th ERP, €1M+, 30 months, mid-implementation)
 - **Strength:** Strong — direct observation from CEO mid-implementation
 
 ### 23. Insight without implementation gets sidelined
 Consultants who deliver only diagnosis fail to drive change, even excellent ones. Cost-savings consultants identified real savings (€500K/year on packaging) and Lynka never adopted them. An industry-expert operations consultant has been advising Lynka biweekly for 2–3 years and is great at coaching the CEO, but cannot get changes implemented through the team. **Product implication: the deliverable cannot be a blueprint or document. It must be — or be paired with — an implementation mechanism.** This is potentially a strategic pivot.
-- **Source:** [[Interview 006 — John Lynch (Lynka)]]
+- **Source:** [[Interview 006 - John Lynch (Lynka)]]
 - **Strength:** Strong — three separate consultant relationships described by a former management consultant himself
 
 ### 24. Realistic value-delivery horizon: 3–6 months, not weeks
 Owners who have hired consultants before know that meaningful change takes time. They expect "hint of progress" at 3 months and "confirmed value-add" at 6 months. The two-to-three-week framing is not just unrealistic — it actively signals naïveté and damages credibility with sophisticated buyers. Pricing expectation: "fairly humble amounts of money in the beginning" with proof window in months.
-- **Source:** [[Interview 006 — John Lynch (Lynka)]]
+- **Source:** [[Interview 006 - John Lynch (Lynka)]]
 - **Strength:** Strong — explicit pushback from owner with consulting background
 
 ### 25. The "under-advised on AI" feeling is universal — but differently expressed
 Early adopters who fell behind feel it as "we used to be cutting edge, now we're behind." Founders who never started feel it as "the big players ignore us." Same gap, different emotional charge. Both are tells that the SME segment is underserved by the AI advisory market and aware of it.
-- **Source:** [[Interview 006 — John Lynch (Lynka)]]+ confirms unprompted comment from intro call
+- **Source:** [[Interview 006 - John Lynch (Lynka)]]+ confirms unprompted comment from intro call
 - **Strength:** Moderate — single full source but resonates with [[Interview 003 - Merih (Finance Professor)]] and [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]]
 
 ### 26. Labor scarcity makes knowledge protection more valuable
 Sub-2% unemployment in operating regions (Krakow) means key people cannot be replaced quickly or cheaply. Wages rising, production moving from Western Europe further straining supply. When the labor market is tight, the knowledge in employees' heads becomes a higher-stakes asset and the cost of departure rises. This validates the knowledge-protection angle independently of succession framing.
-- **Source:** [[Interview 006 — John Lynch (Lynka)]]
+- **Source:** [[Interview 006 - John Lynch (Lynka)]]
 - **Strength:** Single source but macro-validated by Polish labor data
 
 ### 27. Onboarding speed as a measurable, universally-valued metric
 Every owner intuitively understands that reducing time-to-independence for new hires is enormous value. Lynka's onboarding takes 6–12 months for a new hire to become net-positive. John's quote: "Even McDonald's, if they can get people up in two weeks instead of one week, it's 400% improvement. It's a no-brainer." This is a more concrete and resonant framing than "documenting tacit knowledge" and may be a better headline metric for the deliverable.
-- **Source:** [[Interview 006 — John Lynch (Lynka)]]
+- **Source:** [[Interview 006 - John Lynch (Lynka)]]
 - **Strength:** Strong — universal logic + specific numbers from one source
 
 ---

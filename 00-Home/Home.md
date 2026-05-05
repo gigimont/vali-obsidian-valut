@@ -23,8 +23,11 @@
 
 ### Research & Interviews
 - [[Interview 001 — Successor]] — first interview synthesis
+- [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]] — 
+- [[Interview 003 - Merih (Finance Professor)]] — 
 - [[Interview 004 - Prisma Founder (Digital Agency, Romania)]] - first interview synthesis
 - [[Interview 005 — Real Estate Agency (Italy)]] — positive outlier: structured Italian SME
+- [[Interview 006 - John Lynch (Lynka)]] — 
 - [[Interview 007 — Vetreria Rachello (Italy)]] — strongest thesis validation: catastrophic succession lived + imminent, decision-making gap named
 - [[Interview 008 — Antonio Rizza (M&A)]] — first buyer-side M&A perspective, documentation → price validation
 - [[Interview 009 — Colusso Hardware (Italy)]] — 20% succession rate field estimate, advice-not-products shift, 2-year onboarding confirmed
@@ -46,9 +49,15 @@
 
 ### Daily Standups
 - [[Standup — 2026-05-04]] — first recorded standup: ICP sizing, knowledge mining vs process mining, M&A pivot discussion
+- [[Daily Standup Template]] — template standard for the following meetings
 
 ### Open Questions
 - [[Open Questions]] — what we need the next 15 interviews to answer
+
+### Audits
+
+[[Vault Audit — 2026-05-05]] — first audit created
+
 
 ---
 

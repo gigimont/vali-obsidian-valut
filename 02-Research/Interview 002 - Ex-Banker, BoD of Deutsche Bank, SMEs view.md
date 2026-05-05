@@ -97,7 +97,7 @@ The temptation will be to promise automation because it sounds more valuable. Ca
 
 - [ ] Research each named competitor: Celonis, Fluxicon, Workfellow, Lucidchart, Kissflow, Adonis
 - [ ] For each: what they do, who they serve, pricing, why they don't work for SMEs
-- [ ] Create a [[Competitive Landscape]] note in `01-Strategy/` with findings
+- [ ] Create a [[Competitors]] note in `01-Strategy/` with findings
 - [ ] Use Carl's 7-point framework as the outline for the Week 5-6 project proposal iteration
 - [ ] Consider the "transferability gap" as a pitch deck slide — enterprise tools that don't scale down
 

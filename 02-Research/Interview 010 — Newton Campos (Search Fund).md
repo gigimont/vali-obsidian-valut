@@ -160,10 +160,10 @@ Newton's own company records 100% of meetings — proving he values knowledge ca
 
 ## Related
 - [[Interview 008 — Antonio Rizza (M&A)]] — same consulting-bridge pattern (1-5 years there, 1 year here); same buyer-side perspective but from corporate M&A vs search fund
-- [[Interview 003 — Mary]] — Clonable's "decision replication" is exactly what Newton says is impossible retroactively. His objection sharpens the Clonable hypothesis.
+- [[Interview 003 - Merih (Finance Professor)]] — Clonable's "decision replication" is exactly what Newton says is impossible retroactively. His objection sharpens the Clonable hypothesis.
 - [[Interview 007 — Vetreria Rachello (Italy)]] — Marco's Lisa problem (fear of decisions) is the human version of Newton's data problem (decisions never recorded). Both point to the same gap from different angles.
 - [[Interview 001 — Successor]] — the successor who can't take over is exactly the person Newton's searchers replace. Our product could serve either path.
 - [[Patterns From Fieldwork]] — Pattern 21 added (retroactive vs prospective)
 - [[Problem Statement]] — Newton's objection may force a v4 that explicitly addresses the "but the data doesn't exist" challenge
 - [[Upstream vs Downstream]] — Newton's objection is weakest in the upstream scenario (prospective capture while founder is still active) and strongest in the downstream scenario (retroactive extraction after founder left)
-- [[Competitive Landscape]] — Campos Equity Partners as a potential distribution partner, not competitor
+- [[Competitors]] — Campos Equity Partners as a potential distribution partner, not competitor

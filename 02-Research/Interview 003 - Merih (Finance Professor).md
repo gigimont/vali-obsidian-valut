@@ -128,7 +128,7 @@ New framing: use AI to **map, document, AND replicate the decision-making expert
 ## Related
 
 - [[Interview 001 — Successor]] — the successor who said "you can't replace the owner and his experience" — Clonable's model says: actually, partially, you can
-- [[Interview 002 — Prisma Founder]] — "knowledge management system" is the category; Clonable is a specific instantiation
+- [[Interview 004 - Prisma Founder (Digital Agency, Romania)]] — "knowledge management system" is the category; Clonable is a specific instantiation
 - [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]] — Carl's "mini-Celonis" frame was the starting point; Clonable goes further
 - [[Problem Statement]] — may need v4 update incorporating decision replication
 - [[Competitors]] — Clonable is the most important competitor to research
