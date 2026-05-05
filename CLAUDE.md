@@ -1,117 +1,38 @@
-# CLAUDE.md — SME Succession Obsidian Vault
+# CLAUDE.md — SME Succession Vault
 
-## What This Is
+## Project
+Giuseppe + Wolf building an AI-powered "digital due diligence" service for SME knowledge transfer. Pre-product, fieldwork phase. Target: family-owned SMEs Germany/Italy, €2-20M revenue. The customer is the successor, not the founder. Obsidian vault tracks all research, strategy, and operations.
 
-This is an Obsidian knowledge base for an incubation project at the Vali Entrepreneurship Hub. The team (Giuseppe + Wolf) is building an AI-powered "digital due diligence" service to extract and document tacit knowledge from SME founders and senior employees.
+## Folder Structure
+00-Home/              → Home.md dashboard (entry point)
+01-Strategy/          → Thesis, ICP, business model, product, competitors
+02-Research/          → All interviews (001-011+), patterns, interview guide
+03-Outreach/          → Email templates, outreach strategy
+04-Deliverables/      → Pitch deck, one-pager, council report
+05-Open-Questions/    → Open Questions.md (living document)
+06 - 1 to 1s/         → Weekly mentor check-ins (filename: 1 to 1s — Week N.md)
+07-Daily-Standup/     → Daily co-founder standups (filename: Standup — YYYY-MM-DD.md)
+99-Audit/             → Vault audit reports
+Templates/            → Meeting Notes Template.md, Daily Standup Template.md
 
-**Stage:** Pre-product, fieldwork phase.
+## Key Conventions
+- Wikilinks: always `[[Note Name]]` without folder prefix
+- Competitors file: `[[Competitors]]` in 02-Research/ (NOT "Competitive Landscape")
+- ICP Definition: planned file at 01-Strategy/ICP Definition.md — does not yet exist
+- Tags: #strategy #research #interview #pattern #standup #check-in #to-validate #confirmed
+- Interview files: `Interview NNN — Name.md` in 02-Research/
+- Check-in files: `1 to 1s — Week N.md` in 06 - 1 to 1s/
+- Every note must have a `## Related` section with wikilinks
 
----
+## Living Documents (update after every interview)
+- `02-Research/Patterns From Fieldwork.md` — patterns 1-27, add new ones here
+- `05-Open-Questions/Open Questions.md` — cross off answered, add new
+- `00-Home/Home.md` — timeline table + navigation links
 
-## Vault Structure
-
-```
-00-Home/              → Dashboard (Home.md)
-01-Strategy/          → Thesis, council verdict, competitive landscape, strategic questions
-02-Research/          → Interview notes, feedback notes, interview guides, patterns
-03-Outreach/          → Outreach strategy, email templates
-04-Deliverables/      → Pitch deck content, one-pager, council report
-05-Open-Questions/    → Master checklist of what to validate
-06 - 1 to 1s/         → Weekly mentor check-in notes
-07-Daily-Standup/     → Daily co-founder standup notes (Giuseppe + Wolf)
-Templates/            → Reusable templates for meetings and check-ins
-```
-
----
-
-## Conventions
-
-### File naming
-- Interviews: `Interview 001 — [Name or Company].md`
-- Feedback (written advisory): `Feedback 001 — [Name].md`
-- Check-ins: `1-1 — Week [N].md`
-- Strategy notes: plain descriptive name, e.g., `Problem Statement.md`
-
-### Linking
-- Always use `[[wikilinks]]` to connect notes
-- Link to related notes at the bottom of every note under a `## Related` section
-- Link inline when mentioning another concept (e.g., "see [[Four Sub-Problems]]")
-
-### Tags
-Core tags: `#strategy`, `#research`, `#interview`, `#feedback`, `#check-in`, `#weekly`, `#outreach`, `#deliverable`, `#pattern`, `#to-validate`, `#confirmed`, `#to-research`, `#core`, `#living-document`, `#mom-test`
-
-Role tags: `#sme-owner`, `#expert`, `#academic`, `#agency`, `#banking`, `#successor`, `#founder`
-
-### Frontmatter style
-Use blockquote metadata at the top of each note (not YAML frontmatter):
-```
-> **Date:** April 2026
-> **Interviewee:** Name — role
-> **Sector:** ...
-```
-
----
-
-## Key Notes (update these frequently)
-
-- `00-Home/Home.md` — Dashboard. Update the timeline table and navigation links when adding new notes.
-- `02-Research/Patterns From Fieldwork.md` — Living document. Add new patterns after every interview.
-- `05-Open-Questions/Open Questions.md` — Living document. Cross off answered questions, add new ones.
-- `01-Strategy/Problem Statement.md` — Thesis with version history. Add new versions as thinking evolves.
-- `01-Strategy/Competitive Landscape.md` — Competitor research. Update as new companies are discovered.
-
----
-
-## Current Interview Index
-
-| # | File | Interviewee |
-|---|------|-------------|
-| 001 | `Interview 001 — Successor.md` | Successor in family business |
-| 002 | `Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view.md` | Ex-banker / BoD |
-| 003 | `Interview 003 - Merih (Finance Professor).md` | Finance professor |
-| 004 | `Interview 004 - Prisma Founder (Digital Agency, Romania).md` | Prisma founder |
-| 005 | `Interview 005 — Real Estate Agency (Italy).md` | Real estate agency owner, Veneto |
-| 006 | `Interview 006 - John Lynch (Lynka).md` | John Lynch, Lynka |
-| 007 | `Interview 007 — Vetreria Rachello (Italy).md` | Marco Rachello, glass manufacturing |
-
-Next interview: `Interview 008 — ...`
-
----
-
-## How to Add a New Interview Note
-
-1. Create file in `02-Research/` named `Interview [NNN] — [Name or Company].md`
-2. Use the structure from existing interview notes (see Interview 001–007 for examples)
-3. Include: Context, Key Quotes, What We Learned, Patterns confirmed/challenged, Action Items, Open Questions, Related links
-4. After creating, update these notes:
-   - `02-Research/Patterns From Fieldwork.md` — add or confirm patterns
-   - `05-Open-Questions/Open Questions.md` — add new questions, check off answered ones
-   - `00-Home/Home.md` — add link under Research & Interviews, update timeline
-
-## How to Add a Feedback Note
-
-Same as interview but file goes in `02-Research/` as `Feedback [NNN] — [Name].md`
-
-## How to Add a Weekly Check-in
-
-1. Create in `06 - 1 to 1s/` as `1-1 — Week [N].md`
-2. Use template from `Templates/1-1 Template.md`
-3. Update `00-Home/Home.md` timeline
-
-## How to Add a Daily Standup
-1. Create in `07-Daily-Standup/` as `Standup — YYYY-MM-DD.md`
-2. Use template from `Templates/Daily Standup Template.md`
-3. Extract: decisions, insights, interview debriefs, to-dos (split by person), open threads
-4. Link to any interview notes or strategy docs discussed
-
----
-
-## Important Context for AI Assistance
-
-- **The customer is the successor, not the founder.** This is a core positioning choice.
-- **"Digital due diligence"** is the current product label (from Interview 002).
-- **"Decision replication"** (from Interview 003 / Clonable) is an emerging but uncommitted direction.
-- **The Mom Test** guides all interview methodology — no leading questions, no loaded framing.
-- The project targets **Germany and Italy**, family-owned SMEs, **€2–20M revenue**.
-- **All text in the one-pager is verbatim from the team's approved docx** — do not rephrase it.
-- When updating existing notes, **append** new content — never delete existing content unless explicitly asked.
+## After Adding a New Interview
+1. Create `02-Research/Interview NNN — Name.md`
+2. Append new patterns to Patterns From Fieldwork.md
+3. Append new open questions to Open Questions.md
+4. Add link + one-line description to Home.md under Research & Interviews
+5. Add row to Home.md timeline table
+6. Run: git add -A && git commit -m "Add Interview NNN" && git push
