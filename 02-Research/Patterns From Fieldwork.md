@@ -50,6 +50,8 @@ Frame the deliverable as "we wrote down how your business works" not "here's wha
 - **Source:** [[Interview 004 - Prisma Founder (Digital Agency, Romania)]]+ Wolf's pitch framing
 - **Strength:** Moderate — validated by expert reaction, not yet by founder reaction
 
+> **Note:** Pattern 9 = Pattern 8 above (neutral mirror). A numbering artifact moved it here. Interview Guide references "Pattern 9" which refers to this same content.
+
 ### 12. Delegation through verticalisation as a partial solution
 Some owners solve the day-to-day problem by hiring vertical specialists (in-house lawyer, dedicated marketing) and externalising technical verticals they cannot build internally. This reduces operational chaos but does NOT solve succession: relational and decision-making knowledge remains concentrated, and when a senior figure is absent, decisions become "irreplicable." For well-structured companies, the product value proposition shifts from "document your processes" (already done) to "capture the decision-making and relational knowledge that still lives in a few heads."
 - **Source:** [[Interview 005 — Real Estate Agency (Italy)]]
@@ -101,6 +103,8 @@ A search fund investor who records 100% of his own meetings objects that retroac
 - **Strength:** Strong — from an investor who has seen dozens of transitions and practices prospective capture himself
 
 ### 22. The ERP ceiling
+> **Note:** Pattern 22 = the concept referenced as "Pattern 10" in Interview 005 and Interview 009. A numbering gap was created when the content was later added as Pattern 22.
+
 Even sophisticated ERPs (30–40 processes captured end-to-end, replacing email between departments, channeling non-standard requests through new product cards) leave the decision-making, judgment, and relational layers untouched. The gap is real but narrower than the one-pager implies. The untouched roles are marketing, HR, creative, IT, and parts of sales. For a digitally mature SME, the value proposition is not "we capture your processes" — it is "we capture the layer your ERP cannot."
 - **Source:** [[Interview 006 - John Lynch (Lynka)]] (4th ERP, €1M+, 30 months, mid-implementation)
 - **Strength:** Strong — direct observation from CEO mid-implementation
@@ -116,6 +120,8 @@ Owners who have hired consultants before know that meaningful change takes time.
 - **Strength:** Strong — explicit pushback from owner with consulting background
 
 ### 25. The "under-advised on AI" feeling is universal — but differently expressed
+> **Note:** Pattern 25 = the concept referenced as "Pattern 11" in Interview 009. A numbering gap was created when the content was later added as Pattern 25.
+
 Early adopters who fell behind feel it as "we used to be cutting edge, now we're behind." Founders who never started feel it as "the big players ignore us." Same gap, different emotional charge. Both are tells that the SME segment is underserved by the AI advisory market and aware of it.
 - **Source:** [[Interview 006 - John Lynch (Lynka)]]+ confirms unprompted comment from intro call
 - **Strength:** Moderate — single full source but resonates with [[Interview 003 - Merih (Finance Professor)]] and [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]]

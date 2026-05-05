@@ -20,6 +20,9 @@
 - [ ] What is the precise digitalization-stage cutoff above which our value proposition breaks down? At what ERP maturity does the gap we target become too narrow to monetize?
 - [ ] Should companies like Lynka (digitally mature, exit-prep, evaluating direct competitors) be excluded from ICP entirely, or treated as a separate "downstream" segment with a different offering?
 - [ ] Does Lynka itself become a beta candidate (in a narrower, post-ERP-stabilization scope), or do we close the door and use John only as a reference voice?
+- [ ] Is "judgment framework capture" a better product name than "decision replication" or "knowledge management"? (from [[Interview 011 — Dairy Chemicals Commercial (Italy)]])
+- [ ] How do we handle the "self-preservation" objection — founders who resist documentation because it reduces their leverage in a sale? (from [[Interview 011 — Dairy Chemicals Commercial (Italy)]])
+- [ ] Can our product address both knowledge AND cultural transition, or only knowledge? (from [[Interview 011 — Dairy Chemicals Commercial (Italy)]])
 
 ## Knowledge Extraction
 
