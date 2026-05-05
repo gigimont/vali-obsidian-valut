@@ -17,6 +17,9 @@
 - [ ] Is the sibling-already-inside the real customer (not the one entering)?
 - [ ] Is "growth ambition in the successor" typical or rare?
 - [ ] What's the founder's actual position? (We only have the successor's read so far)
+- [ ] What is the precise digitalization-stage cutoff above which our value proposition breaks down? At what ERP maturity does the gap we target become too narrow to monetize?
+- [ ] Should companies like Lynka (digitally mature, exit-prep, evaluating direct competitors) be excluded from ICP entirely, or treated as a separate "downstream" segment with a different offering?
+- [ ] Does Lynka itself become a beta candidate (in a narrower, post-ERP-stabilization scope), or do we close the door and use John only as a reference voice?
 
 ## Knowledge Extraction
 
@@ -29,6 +32,8 @@
 - [ ] Do employees resist or welcome having their knowledge captured?
 - [ ] Has anyone tried this before? (Consultants, internal documentation, coaches — what worked?)
 - [ ] What types of knowledge are most extractable vs most resistant?
+- [ ] In a digitally mature SME, the untouched layer is marketing, HR, creative, IT, and parts of sales — is this the right scope for our extraction work, or do we need to go deeper into the judgment layer that sits even above the ERP-captured processes?
+- [ ] Is "onboarding speed" a more concrete and resonant headline metric than "tacit knowledge documentation"? Should the deliverable be measured by time-to-independence for new hires?
 
 ## Market & Economics
 
@@ -47,6 +52,9 @@
 - [ ]  Does the "internal champion" requirement shrink or expand our addressable market?
 - [ ]  Can we bundle due diligence into implementation fees without distorting unit economics?
 - [ ]  Is the €5K–10K price point validated enough to anchor future interviews?
+- [ ] Pricing reality check: is "fairly humble amounts of money" with a 3-month proof window the actual pricing structure for this market, regardless of consultant-tier ambitions?
+- [ ] How does our offering differentiate from Omnivisor (Warsaw-based AI consultancy, founder Radek Miszkont) — same geography, similar positioning, already engaging our prospects?
+- [ ] Has the 25%-of-savings success-fee model been tried and failed in this market? (Lynka's experience: real savings found, never adopted.) What does this tell us about acceptable pricing structures?
 
 ## Strategic
 
@@ -58,11 +66,18 @@
 - [ ] Can we broker one succession/transformation end-to-end manually?
 - [ ] Should we partner with agencies like Prisma for implementation, or build it ourselves?
 - [ ] Is the DACH cost-arbitrage model (Romanian team, German pricing) relevant to our structure?
+- [ ] **Central design question:** Can we reposition from "deliver a blueprint" to "implement the change" without becoming a generic consultancy? What is our implementation mechanism — software, on-site change managers, founder accountability rituals, or something else?
+- [ ] Is the deliverable actually closer to "AI implementation as a service" than to "operations blueprint"?
+- [ ] Two-to-three-week value-delivery framing: drop entirely or reframe as something else? What replaces it?
+- [ ] Does the "insight without implementation gets sidelined" pattern (consultants found €500K savings at Lynka, never adopted) mean we need an explicit adoption mechanism baked into the product?
+- [ ] Even the owner cannot reliably push changes through the team. Does this mean our product needs to bypass organizational resistance somehow, or work around it?
 
 ## Team & Execution
 
 - [ ] Do we have the right networks to reach this market? If not, who is our first hire/advisor?
 - [ ] What does the "one manual transformation" look like concretely?
+- [ ] What does the beta-client case study look like, and who is the right first beta client? (John explicitly said: get a couple beta clients with real success and testifiers before pitching others.)
+- [ ] Can we plan an in-person observational visit to Lynka (John offered) to calibrate what "tacit knowledge" actually looks like in a digitally mature company?
 
 ---
 
