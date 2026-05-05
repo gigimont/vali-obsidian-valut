@@ -29,6 +29,7 @@
 - [[Interview 008 — Antonio Rizza (M&A)]] — first buyer-side M&A perspective, documentation → price validation
 - [[Interview 009 — Colusso Hardware (Italy)]] — 20% succession rate field estimate, advice-not-products shift, 2-year onboarding confirmed
 - [[Interview 010 — Newton Campos (Search Fund)]] — first direct feasibility challenge, search fund model, retroactive vs prospective divide
+- [[Interview 011 — Dairy Chemicals Commercial (Italy)]] — post-acquisition transition case, "judgment framework capture" framing
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -63,6 +64,7 @@
 | 5    | Interview 008: Antonio Rizza — M&A buyer-side, Patterns 17-18 (documentation→price, consulting bridge) | ✅ Done |
 | 5    | Interview 009: Colusso Hardware — field succession rate, Patterns 19-20 | ✅ Done |
 | 6    | Interview 010: Newton Campos — feasibility pushback, Pattern 21 (retroactive vs prospective) | ✅ Done |
+| 6    | Interview 011: dairy chemicals — post-acquisition transition, chiavi di lettura reframe | ✅ Done |
 | 5    | First recorded daily standup — ICP debate, M&A angle, knowledge mining framing | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
