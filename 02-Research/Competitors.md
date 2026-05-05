@@ -105,7 +105,50 @@ Our differentiation: passive (not disruptive), neutral (no recommendations), fas
 
 ---
 
-## ERP Vendors (Adjacent, named by [[Interview 005 - John Lynch (Lynka)]])
+## Direct AI-for-SME Consultancies (Closest Competitors So Far)
+
+This is the most direct competitive category surfaced to date. These are firms positioning AI as a service for mid-market SMEs in our geography — not enterprise process mining, not management consulting, not ERP. They occupy adjacent space to ours.
+
+### Omnivisor
+
+**Surfaced via:** [[Interview 006 — John Lynch (Lynka)]]. Lynka has been in active conversation with them; they have proposed concrete AI projects but Lynka has not yet pulled the trigger.
+
+**What we know:**
+
+| Detail | Value |
+|---|---|
+| Founder | Radek Miszkont |
+| Location | Warsaw, Poland |
+| Approximate revenue | 2–4M PLN/year (under €1M) |
+| Team | Small (fewer than ~10 estimated) |
+| Customer profile | Small/medium enterprises in CEE |
+| Positioning (per John) | "Find very concrete ways to help you save money using AI" |
+| Founder background | Several previous startups |
+| Sales approach | "Very impressive, good sales approach" — direct, in-person, conference-led |
+
+**How they reached Lynka:** Met John at a conference; John invited them to visit; they proposed projects on-site. This mirrors a sales motion we should learn from.
+
+**Why this matters:**
+- **Same problem space.** Per John: *"They're kind of doing something in the same sphere as what you're talking about, but more in AI."*
+- **Same geography.** Poland-based, serving Polish/CEE SMEs — directly overlapping our potential wedge if we expand east.
+- **Same buyer.** Lynka, a digitally mature mid-market SME, is exactly the kind of company they court — and exactly the kind we are still calibrating against.
+- **Already in the market.** Not a stealth startup or a thesis. They have a sales motion, a pitch, and active prospects.
+
+**What we don't yet know (priority research):**
+- [ ] What is their actual deliverable? Implementation? Strategy? Software?
+- [ ] What is their pricing model and price range?
+- [ ] What is their close rate? How many of their proposals like Lynka's actually convert?
+- [ ] Do they target succession / M&A readiness, or pure cost reduction / efficiency?
+- [ ] Do they capture tacit knowledge or work above the existing system layer?
+- [ ] Are they software-led or services-led?
+
+**How to research them:** Start with their website, LinkedIn, Radek Miszkont's profile and prior ventures. Consider an introductory conversation if positioning becomes clearer.
+
+**Provisional differentiation (to validate):** Omnivisor appears to be a generalist AI-for-SME consultancy focused on cost savings and process improvements. Our wedge is more specific — the tacit knowledge and decision-making layer that survives ERP, framed around succession and M&A readiness rather than efficiency. But this differentiation is not yet validated and may collapse on closer inspection.
+
+---
+
+## ERP Vendors (Adjacent, named by [[Interview 006 - John Lynch (Lynka)]])
 
 SAP, Microsoft Dynamics, Sage. They systematize transactions and workflows — but only what's already understood and digital.
 
@@ -142,6 +185,7 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 - [ ] What did Prisma's knowledge management system (built with a partner in Wiesbaden) actually consist of? Is it a competitor or a potential technical reference?
 - [ ] Is there a German-language equivalent to Clonable that already has Mittelstand traction?
 - [ ] Research and categorize all entries in the Flagged for Research table above — especially Memory intelligence and Runeform AI
+- [ ] Research Omnivisor (omnivisor.io / Radek Miszkont) — pricing, deliverables, close rate, deliverable type. Surfaced as the closest competitor via Interview 006.
 
 ---
 
@@ -151,5 +195,5 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 - [[Product Methodology]] — our methodology is specifically designed to work where Celonis fails
 - [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]] — Carl named the process mining competitors
 - [[Interview 003 - Merih (Finance Professor)]] — Clonable and decision replication
-- [[Interview 005 - John Lynch (Lynka)]] — the ERP ceiling pattern
+- [[Interview 006 - John Lynch (Lynka)]] — the ERP ceiling pattern
 - [[1 to 1s — Week 3]] — US competitor raising $5.4M flagged here
