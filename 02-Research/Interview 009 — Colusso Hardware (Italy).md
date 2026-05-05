@@ -152,3 +152,4 @@ SMEs that historically sold physical goods are increasingly selling knowledge/ad
 - [[Patterns From Fieldwork]] — Patterns 19, 20 added
 - [[Problem Statement]] — the 20% stat, if validated, is a pitch deck headline number
 - [[Interview 001 — Successor]] — the nieces entering now are in the same position as Interview 001's successor — early, uncertain, learning by proximity
+- [[Market Data]] — the 80% succession failure rate Luigi estimated directly validates the macro statistics in Market Data.

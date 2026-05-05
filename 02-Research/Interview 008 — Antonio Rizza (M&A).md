@@ -165,3 +165,4 @@ Post-acquisition knowledge transfer is currently handled through 1-5 year consul
 - [[Problem Statement]] — M&A angle may warrant a dual-track positioning: succession readiness + M&A readiness
 - [[Four Sub-Problems]] — Antonio's perspective touches Problem 1 (Matching) and Problem 4 (Deal Structuring), previously underexplored
 - [[Competitors]] — add AI-enabled VDR as a product gap to research
+- [[Market Data]] — the 100-item checklist and documentation→price mapping validates the M&A market data.

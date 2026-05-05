@@ -1,6 +1,6 @@
 # Feedback 001 — Carl (Ex-Banker)
 
-#research #feedback #expert #banking
+#research #interview #feedback #expert #banking
 
 > **Date:** April 2026 **From:** Carl (K.) — ex-banking background **Format:** Written feedback (not a live interview) **Context:** Sent him the project description, received structured written response
 

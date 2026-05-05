@@ -223,3 +223,4 @@ This company is squarely in the ICP. And the succession timeline (3 years) means
 - [[Council Verdict]] — Sub-Problem 3 (Emotional Transition) proven as non-separable from the others
 - [[Four Sub-Problems]] — this interview touches ALL four simultaneously
 - [[Upstream vs Downstream]] — Marco is firmly downstream (3 years to retirement). But if someone had reached him at 40, upstream intervention would have been possible.
+- [[Market Data]] — the value erosion case (€550K→€0) is a concrete instance of the market-level problem.
