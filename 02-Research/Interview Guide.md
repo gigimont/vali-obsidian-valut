@@ -157,7 +157,7 @@ The interview worked if:
 
 ## Post-Interview Protocol
 
-1. Fill in a new interview note using [[Templates/Meeting Notes Template]]
+1. Fill in a new interview note using [[Meeting Notes Template]]
 2. Update [[Patterns From Fieldwork]] — confirm, challenge, or add patterns
 3. Update [[Open Questions]] — cross off answered, add new
 4. Note which live questions were triggered and which weren't — over time this shows which triggers are most common (= most universal pain points)

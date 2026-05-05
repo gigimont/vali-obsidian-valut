@@ -18,16 +18,17 @@
 - [[Business Model]] — revenue model analysis and GTM strategy
 - [[Product Methodology]] — three-pillar extraction framework and Neutral Mirror philosophy
 - [[Origin Story]] — how the project started (5H bootcamp)
+- [[Competitors]] — competitive landscape: Celonis, Clonable, Omnivisor, process mining tools
 - ### Weekly Check-ins
 - [[1 to 1s — Week 3]]
 
 ### Research & Interviews
 - [[Interview 001 — Successor]] — first interview synthesis
-- [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]] — 
-- [[Interview 003 - Merih (Finance Professor)]] — 
+- [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]] — ex-Deutsche Bank, process mining tools named, SME advice gap
+- [[Interview 003 - Merih (Finance Professor)]] — finance professor, decision replication framing, Clonable reference
 - [[Interview 004 - Prisma Founder (Digital Agency, Romania)]] - first interview synthesis
 - [[Interview 005 — Real Estate Agency (Italy)]] — positive outlier: structured Italian SME
-- [[Interview 006 - John Lynch (Lynka)]] — 
+- [[Interview 006 - John Lynch (Lynka)]] — first large SME owner, ERP ceiling, under-advised on AI, Patterns 22-27
 - [[Interview 007 — Vetreria Rachello (Italy)]] — strongest thesis validation: catastrophic succession lived + imminent, decision-making gap named
 - [[Interview 008 — Antonio Rizza (M&A)]] — first buyer-side M&A perspective, documentation → price validation
 - [[Interview 009 — Colusso Hardware (Italy)]] — 20% succession rate field estimate, advice-not-products shift, 2-year onboarding confirmed
@@ -49,6 +50,7 @@
 
 ### Daily Standups
 - [[Standup — 2026-05-04]] — first recorded standup: ICP sizing, knowledge mining vs process mining, M&A pivot discussion
+- [[Standup — 2026-05-05]] — role split, vault audit decision, product anchor, ICP calibration
 - [[Daily Standup Template]] — template standard for the following meetings
 
 ### Open Questions
@@ -69,7 +71,8 @@
 | 2-3  | Interviews (successors, founders, experts)                 | ✅ Done    |
 | 3    | Cohort presentation, one-pager                             | ✅ Done    |
 | 5    | Interview 005: real estate agency — first positive outlier | ✅ Done    |
-| 5    | Interview 006: Vetreria Rachello — strongest validation, 4 new patterns | ✅ Done |
+| 4-5  | Interview 006: John Lynch / Lynka — first SME owner, ERP ceiling, under-advised | ✅ Done |
+| 5    | Interview 007: Vetreria Rachello — strongest validation, 4 new patterns | ✅ Done |
 | 5    | Interview 008: Antonio Rizza — M&A buyer-side, Patterns 17-18 (documentation→price, consulting bridge) | ✅ Done |
 | 5    | Interview 009: Colusso Hardware — field succession rate, Patterns 19-20 | ✅ Done |
 | 6    | Interview 010: Newton Campos — feasibility pushback, Pattern 21 (retroactive vs prospective) | ✅ Done |

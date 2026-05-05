@@ -136,7 +136,7 @@ When prompted with the bus test, he first minimises ("I hope they're absent as l
 ## Action Items
 
 - [ ] Add Pattern 12 to [[Patterns From Fieldwork]]
-- [ ] Add ICP segmentation questions to [[05-Open-Questions/Open Questions]]
+- [ ] Add ICP segmentation questions to [[Open Questions]]
 - [ ] Consider whether the next [[Problem Statement]] iteration should distinguish the two segments
 - [ ] Explore in future interviews: what percentage of Italian SMEs are actually structured like this?
 - [ ] Consider follow-up with this owner in 6 months — if he becomes interested in the product, he is a likely customer
