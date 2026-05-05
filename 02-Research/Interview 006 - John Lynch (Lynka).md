@@ -162,19 +162,19 @@ This is a strong data point for the [[Upstream vs Downstream]] question: our wed
 
 ---
 
-## New Patterns to Add to [[Patterns From Fieldwork]]
+## New Patterns Added to [[Patterns From Fieldwork]]
 
-10. **The ERP ceiling.** Even sophisticated ERPs (30+ processes captured) leave the decision-making, judgment, and relational layers untouched. The gap is real but narrower than our one-pager implies. The untouched roles are marketing, HR, creative, IT, and parts of sales.
+22. **The ERP ceiling.** Even sophisticated ERPs (30+ processes captured) leave the decision-making, judgment, and relational layers untouched. The gap is real but narrower than our one-pager implies. The untouched roles are marketing, HR, creative, IT, and parts of sales.
 
-11. **Insight without implementation gets sidelined.** Consultants who deliver only diagnosis — even excellent ones — fail to drive change. Cost-savings consultants identified real savings (€500K/year on packaging) and Lynka never adopted them. Operations consultants coach but cannot make change happen through the team. **Our deliverable must include an implementation mechanism, not just a blueprint.**
+23. **Insight without implementation gets sidelined.** Consultants who deliver only diagnosis — even excellent ones — fail to drive change. Cost-savings consultants identified real savings (€500K/year on packaging) and Lynka never adopted them. Operations consultants coach but cannot make change happen through the team. **Our deliverable must include an implementation mechanism, not just a blueprint.**
 
-12. **Realistic value-delivery horizon: 3–6 months, not weeks.** Owners who have hired consultants before know that meaningful change takes time. They expect "hint of progress" at 3 months and "confirmed value-add" at 6 months. Our two-to-three-week framing is naïve and damages credibility.
+24. **Realistic value-delivery horizon: 3–6 months, not weeks.** Owners who have hired consultants before know that meaningful change takes time. They expect "hint of progress" at 3 months and "confirmed value-add" at 6 months. Our two-to-three-week framing is naïve and damages credibility.
 
-13. **The "under-advised on AI" feeling is universal — but differently expressed.** Early adopters who fell behind feel it as "we used to be cutting edge, now we're behind." Founders who never started feel it as "the big players ignore us." Same gap, different emotional charge.
+25. **The "under-advised on AI" feeling is universal — but differently expressed.** Early adopters who fell behind feel it as "we used to be cutting edge, now we're behind." Founders who never started feel it as "the big players ignore us." Same gap, different emotional charge.
 
-14. **Labor scarcity makes knowledge protection more valuable.** Sub-2% unemployment in operating regions means key people cannot be replaced quickly or cheaply. When the labor market is tight, the knowledge in employees' heads becomes a higher-stakes asset.
+26. **Labor scarcity makes knowledge protection more valuable.** Sub-2% unemployment in operating regions means key people cannot be replaced quickly or cheaply. When the labor market is tight, the knowledge in employees' heads becomes a higher-stakes asset.
 
-15. **Onboarding speed as a measurable, universally-valued metric.** Every owner intuitively understands that reducing time-to-independence for new hires is enormous value. This is a more concrete and resonant framing than "documenting tacit knowledge."
+27. **Onboarding speed as a measurable, universally-valued metric.** Every owner intuitively understands that reducing time-to-independence for new hires is enormous value. This is a more concrete and resonant framing than "documenting tacit knowledge."
 
 ---
 
@@ -241,5 +241,5 @@ This is a strong data point for the [[Upstream vs Downstream]] question: our wed
 - [[Product Methodology]] — needs major rethink toward implementation mechanism
 - [[Upstream vs Downstream]] — John is the strongest downstream data point yet
 - [[Business Model]] — pricing reality check: humble amounts, 3-6 month proof window
-- [[Patterns From Fieldwork]] — adds patterns 10–15
+- [[Patterns From Fieldwork]] — adds patterns 22–27
 - [[1 to 1s — Week 3]] — closes the "we need real owner conversations" gap
