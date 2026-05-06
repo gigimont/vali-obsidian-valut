@@ -51,6 +51,7 @@
 ### Daily Standups
 - [[Standup — 2026-05-04]] — first recorded standup: ICP sizing, knowledge mining vs process mining, M&A pivot discussion
 - [[Standup — 2026-05-05]] — role split, vault audit decision, product anchor, ICP calibration
+- [[Standup — 2026-05-06]] — outreach coordination, Nora Fehlbaum strategy, pipeline updates
 - [[Daily Standup Template]] — template standard for the following meetings
 
 ### Open Questions
@@ -78,6 +79,7 @@
 | 6    | Interview 010: Newton Campos — feasibility pushback, Pattern 21 (retroactive vs prospective) | ✅ Done |
 | 6    | Interview 011: dairy chemicals — post-acquisition transition, chiavi di lettura reframe | ✅ Done |
 | 5    | First recorded daily standup — ICP debate, M&A angle, knowledge mining framing | ✅ Done |
+| 6    | Standup: outreach blitz — 6+ contacts active, Baris presentation Friday | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
