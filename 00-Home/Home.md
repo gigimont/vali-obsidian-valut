@@ -34,6 +34,7 @@
 - [[Interview 009 — Colusso Hardware (Italy)]] — 20% succession rate field estimate, advice-not-products shift, 2-year onboarding confirmed
 - [[Interview 010 — Newton Campos (Search Fund)]] — first direct feasibility challenge, search fund model, retroactive vs prospective divide
 - [[Interview 011 — Dairy Chemicals Commercial (Italy)]] — post-acquisition transition case, "judgment framework capture" framing
+- [[Interview 012 — Stefan Weiler (Filigran, Germany)]] — first German manufacturing, 3 generations no plan, strong ICP fit, Wolf's family
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -80,6 +81,7 @@
 | 6    | Interview 011: dairy chemicals — post-acquisition transition, chiavi di lettura reframe | ✅ Done |
 | 5    | First recorded daily standup — ICP debate, M&A angle, knowledge mining framing | ✅ Done |
 | 6    | Standup: outreach blitz — 6+ contacts active, Baris presentation Friday | ✅ Done |
+| 6    | Interview 012: Filigran (Germany) — Italian patterns confirmed in German manufacturing | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
