@@ -21,6 +21,7 @@
 - [[Competitors]] — competitive landscape: Celonis, Clonable, Omnivisor, process mining tools
 - ### Weekly Check-ins
 - [[1 to 1s — Week 3]]
+- [[1 to 1s — Week 4]] — Poland fieldwork, M&A angle deepening, ICP parameters discussion
 
 ### Research & Interviews
 - [[Interview 001 — Successor]] — first interview synthesis
@@ -82,6 +83,7 @@
 | 5    | First recorded daily standup — ICP debate, M&A angle, knowledge mining framing | ✅ Done |
 | 6    | Standup: outreach blitz — 6+ contacts active, Baris presentation Friday | ✅ Done |
 | 6    | Interview 012: Filigran (Germany) — Italian patterns confirmed in German manufacturing | ✅ Done |
+| 6    | Week 4 check-in: 4 Polish interviews, Filigran Germany, M&A meeting May 14 | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
