@@ -92,3 +92,4 @@ _(Add any direct feedback or advice from the mentor here after the session)_
 - [[Problem Statement]] — thesis holding, framing sharpening
 - [[Outreach Strategy]] — need to shift from experts to actual SME owners
 - [[Open Questions]] — US competitor is a new research thread
+- [[1 to 1s — Week 4]] — next check-in
