@@ -136,6 +136,21 @@ Every owner intuitively understands that reducing time-to-independence for new h
 - **Source:** [[Interview 006 - John Lynch (Lynka)]]
 - **Strength:** Strong — universal logic + specific numbers from one source
 
+### 28. The campfire method: stories capture what processes can't
+People hate documenting processes but love telling stories. Anecdotes and self-narratives capture tacit knowledge — the "how we do things" and "what makes us us" — more truthfully than structured process mapping. Product implication: frame extraction as nostalgic storytelling, not documentation.
+- **Source:** [[Interview 013 — David (Textile Manufacturing, Germany)]]
+- **Strength:** Strong — tested by the interviewee himself with employees, powerful results
+
+### 29. Tech must not feel like tech
+SMEs have tech fatigue. Even tech-native successors have tech fatigue. "AI," "digitalization," "automation" are trigger words. The product must be invisible as technology. Sell as knowledge preservation, business heritage, transition support. The AI is internal tooling; the customer experience is human conversation.
+- **Source:** [[Interview 013 — David (Textile Manufacturing, Germany)]]
+- **Strength:** Strong — from a former fintech engineer experiencing tech fatigue in his own company
+
+### 30. The 20-year ghost: resistance traces to forgotten history
+Most change resistance in SMEs traces back 10-20 years to events current leadership doesn't know about. Understanding this hidden history makes conflicts solvable and change manageable. The knowledge base isn't just operational — it's a map of the organization's emotional and relational history.
+- **Source:** [[Interview 013 — David (Textile Manufacturing, Germany)]]
+- **Strength:** Moderate — theoretical framing from one source but resonates with Interview 011
+
 ---
 
 ## Emerging Hypotheses (need more data)

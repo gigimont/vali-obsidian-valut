@@ -20,7 +20,7 @@
 
 ## Key Conversations This Week
 
-### 4 Polish SME owners (via Wolf's network)
+### 4 SME owners
 - 3 companies on succession cliff: 2 have successors, 1 selling
 - 1 solo entrepreneur / service middleman
 - Key insight confirmed across all: **human relationships drive SME business operations** — trust between people is the core competitive advantage, everything else (processes, systems) can be copied or learned

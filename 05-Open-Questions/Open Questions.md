@@ -23,6 +23,7 @@
 - [ ] Is "judgment framework capture" a better product name than "decision replication" or "knowledge management"? (from [[Interview 011 — Dairy Chemicals Commercial (Italy)]])
 - [ ] How do we handle the "self-preservation" objection — founders who resist documentation because it reduces their leverage in a sale? (from [[Interview 011 — Dairy Chemicals Commercial (Italy)]])
 - [ ] Can our product address both knowledge AND cultural transition, or only knowledge? (from [[Interview 011 — Dairy Chemicals Commercial (Italy)]])
+- [ ] Is "knowledge preservation" or "business heritage" a better customer-facing frame than "digital due diligence" for the founder-side sale?
 
 ## Knowledge Extraction
 
@@ -37,6 +38,9 @@
 - [ ] What types of knowledge are most extractable vs most resistant?
 - [ ] In a digitally mature SME, the untouched layer is marketing, HR, creative, IT, and parts of sales — is this the right scope for our extraction work, or do we need to go deeper into the judgment layer that sits even above the ERP-captured processes?
 - [ ] Is "onboarding speed" a more concrete and resonant headline metric than "tacit knowledge documentation"? Should the deliverable be measured by time-to-independence for new hires?
+- [ ] Can the "campfire storytelling" method scale, or is it inherently artisanal?
+- [ ] Should the deliverable include a "company story archive" alongside the operational knowledge base?
+- [ ] How do we train AI to extract structured knowledge from unstructured stories?
 
 ## Market & Economics
 

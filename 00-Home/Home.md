@@ -36,6 +36,7 @@
 - [[Interview 010 — Newton Campos (Search Fund)]] — first direct feasibility challenge, search fund model, retroactive vs prospective divide
 - [[Interview 011 — Dairy Chemicals Commercial (Italy)]] — post-acquisition transition case, "judgment framework capture" framing
 - [[Interview 012 — Stefan Weiler (Filigran, Germany)]] — first German manufacturing, 3 generations no plan, strong ICP fit, Wolf's family
+- [[Interview 013 — David (Textile Manufacturing, Germany)]] — strongest successor interview, campfire method, tech fatigue, direct product validation
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -84,6 +85,7 @@
 | 6    | Standup: outreach blitz — 6+ contacts active, Baris presentation Friday | ✅ Done |
 | 6    | Interview 012: Filigran (Germany) — Italian patterns confirmed in German manufacturing | ✅ Done |
 | 6    | Week 4 check-in: 4 Polish interviews, Filigran Germany, M&A meeting May 14 | ✅ Done |
+| 6    | Interview 013: David — campfire method, tech fatigue, Patterns 28-30, follow-up May 21 | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
