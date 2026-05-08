@@ -4,7 +4,8 @@
       "Bash(git add *)",
       "Bash(git commit *)",
       "Bash(git push *)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(chmod 644 /Users/callmepio/Desktop/Vali_Project/.git/logs/refs/heads/main)"
     ]
   }
 }

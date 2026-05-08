@@ -38,6 +38,7 @@
 - [[Interview 012 — Stefan Weiler (Filigran, Germany)]] — first German manufacturing, 3 generations no plan, strong ICP fit, Wolf's family
 - [[Interview 013 — David (Textile Manufacturing, Germany)]] — strongest successor interview, campfire method, tech fatigue, direct product validation
 - [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] — strongest direct product validation: failed self-build of local LLM + vector DB on Filigran archive; €20K-per-forgotten-experiment ROI framing; Fachvereinigung channel
+- [[Interview 015 — Joerg von Weiler (Filigran Poland)]] — origin story, zero knowledge transfer, YPO channel, storytelling confirmation
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -88,6 +89,7 @@
 | 6    | Week 4 check-in: 4 Polish interviews, Filigran Germany, M&A meeting May 14 | ✅ Done |
 | 6    | Interview 013: David — campfire method, tech fatigue, Patterns 28-30, follow-up May 21 | ✅ Done |
 | 6    | Interview 014: Ulrich Bauermeister (Filigran engineer) — failed self-build validates product; Patterns 31-33 (€20K experiments, blocked technical insider, trade-association channel) | ✅ Done |
+| 6    | Interview 015: Joerg (Wolf's father) — origin story, YPO access, Pattern 28 confirmed | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
