@@ -151,6 +151,21 @@ Most change resistance in SMEs traces back 10-20 years to events current leaders
 - **Source:** [[Interview 013 — David (Textile Manufacturing, Germany)]]
 - **Strength:** Moderate — theoretical framing from one source but resonates with Interview 011
 
+### 31. The €20,000 forgotten experiment
+Technically-driven mid-sized firms can quantify the in-period cost of lost institutional knowledge as repeated R&D. A single forgotten test report can cost €20,000 to repeat, plus days of fruitless archive search. Direct, near-term, measurable ROI for Phase 1 knowledge capture, independent of succession framing. For engineering-heavy SMEs, this may be the cleanest sales angle.
+- **Source:** [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
+- **Strength:** Strong — specific numbers from an in-house technical lead
+
+### 32. The motivated technical insider blocked at the build step
+Mid-sized industrial firms increasingly have technically-capable insiders who want to build local AI knowledge bases, get internal approval, and fail at implementation — not because the concept is wrong but because the last 10% (PDF chunking, vector DB plumbing) requires expertise they can't get cheaply. Industrial consortia point them toward commercial licenses they don't want; universities offer forward-modeling, not pragmatic backward-looking tools.
+- **Source:** [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
+- **Strength:** Strong — first-person failed-build account
+
+### 33. Trade-association as GTM channel for German industrial Mittelstand
+A single sale into a Fachvereinigung (sector-specific trade association) provides access to many member firms with shared technical context. German analogue of the Italian commercialisti channel; same warm-multi-customer-via-trusted-aggregator logic.
+- **Source:** [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
+- **Strength:** Moderate — single source, hypothesis-stage, immediately testable via Filigran
+
 ---
 
 ## Emerging Hypotheses (need more data)

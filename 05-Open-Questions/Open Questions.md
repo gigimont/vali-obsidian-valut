@@ -24,6 +24,8 @@
 - [ ] How do we handle the "self-preservation" objection — founders who resist documentation because it reduces their leverage in a sale? (from [[Interview 011 — Dairy Chemicals Commercial (Italy)]])
 - [ ] Can our product address both knowledge AND cultural transition, or only knowledge? (from [[Interview 011 — Dairy Chemicals Commercial (Italy)]])
 - [ ] Is "knowledge preservation" or "business heritage" a better customer-facing frame than "digital due diligence" for the founder-side sale?
+- [ ] How do we package the product so the CEO buys succession protection and the engineer buys archive search, without confusing either about what they're getting? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
+- [ ] Does the engineering-archive use case have different competitive dynamics than the founder-decision-extraction case — different incumbents, pricing, sales cycle? (from [[Interview 014]])
 
 ## Knowledge Extraction
 
@@ -62,6 +64,8 @@
 - [ ] Pricing reality check: is "fairly humble amounts of money" with a 3-month proof window the actual pricing structure for this market, regardless of consultant-tier ambitions?
 - [ ] How does our offering differentiate from Omnivisor (Warsaw-based AI consultancy, founder Radek Miszkont) — same geography, similar positioning, already engaging our prospects?
 - [ ] Has the 25%-of-savings success-fee model been tried and failed in this market? (Lynka's experience: real savings found, never adopted.) What does this tell us about acceptable pricing structures?
+- [ ] Is the "without license costs" preference a temporary cost-sensitivity or a structural pricing ceiling for Mittelstand technical teams? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
+- [ ] Is trade-association sales more efficient than direct-to-founder outreach for German industrial sectors? (from [[Interview 014]])
 
 ## Strategic
 
@@ -78,6 +82,8 @@
 - [ ] Two-to-three-week value-delivery framing: drop entirely or reframe as something else? What replaces it?
 - [ ] Does the "insight without implementation gets sidelined" pattern (consultants found €500K savings at Lynka, never adopted) mean we need an explicit adoption mechanism baked into the product?
 - [ ] Even the owner cannot reliably push changes through the team. Does this mean our product needs to bypass organizational resistance somehow, or work around it?
+- [ ] Do we sell the implementation, or publish a Kochrezept that consortium members can use themselves? Different revenue per customer, different market size. (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
+- [ ] What is the right Phase 1 deliverable for an engineering-archive use case — same methodology different inputs, or a distinct product? (from [[Interview 014]])
 
 ## Team & Execution
 
