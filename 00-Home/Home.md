@@ -39,6 +39,7 @@
 - [[Interview 013 — David (Textile Manufacturing, Germany)]] — strongest successor interview, campfire method, tech fatigue, direct product validation
 - [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] — strongest direct product validation: failed self-build of local LLM + vector DB on Filigran archive; €20K-per-forgotten-experiment ROI framing; Fachvereinigung channel
 - [[Interview 015 — Joerg von Weiler (Filigran Poland)]] — origin story, zero knowledge transfer, YPO channel, storytelling confirmation
+- [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — customer-side analogue to Bauermeister; Standardgrundlage-first framing; digitalization-ceiling paradox (sharpens Pattern 22); unprompted ecosystem-upsell endorsement; warm intro to Herr Grass pending
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -92,6 +93,7 @@
 | 6    | Interview 014: Ulrich Bauermeister (Filigran engineer) — failed self-build validates product; Patterns 31-33 (€20K experiments, blocked technical insider, trade-association channel) | ✅ Done |
 | 6    | Interview 015: Joerg (Wolf's father) — origin story, YPO access, Pattern 28 confirmed | ✅ Done |
 | 6    | Standup: pitch structure agreed, CTO search started, operational user persona identified | ✅ Done |
+| 6    | Interview 016: Bergerhoff (BWB-Gruppe Planungsleiter) — Pattern 22 sharpened (digital-maturity-paradox); Patterns 34-35 added (Standardgrundlage-first, three-trust-thresholds); ICP role-vs-size to-do; Herr Grass intro pending | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

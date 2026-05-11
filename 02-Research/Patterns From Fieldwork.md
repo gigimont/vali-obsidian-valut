@@ -109,6 +109,10 @@ Even sophisticated ERPs (30–40 processes captured end-to-end, replacing email 
 - **Source:** [[Interview 006 - John Lynch (Lynka)]] (4th ERP, €1M+, 30 months, mid-implementation)
 - **Strength:** Strong — direct observation from CEO mid-implementation
 
+**Sharpening (May 2026, from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]]):**
+BWB-Gruppe is fully digitalized — working ERP, automated CAD-to-production, two CAD systems with database parameter pulls, full digital production with machine-level control, automated invoicing including Sonderleistungen, ongoing migration to a more modern ERP. By any reasonable measure, this is a digitally mature company. And yet Bergerhoff (Planungsleiter, 130 internal planners) is still the single human bottleneck for the technical-knowledge layer. The volldigitalisiert layer and the tacit-knowledge layer are orthogonal. **Implication:** Digital maturity does not protect against the tacit-knowledge bottleneck — it may even make it more visible because everything else has been industrialized. This challenges the working ICP exclusion that treats "high digital maturity" as a disqualifier, and adds a strategic to-do on revisiting [[ICP Definition]]. Cross-check needed against [[Interview 006 - John Lynch (Lynka)]].
+- **Strength:** Strong — direct observation from a large, ERP-mature, mid-migration precast group
+
 ### 23. Insight without implementation gets sidelined
 Consultants who deliver only diagnosis fail to drive change, even excellent ones. Cost-savings consultants identified real savings (€500K/year on packaging) and Lynka never adopted them. An industry-expert operations consultant has been advising Lynka biweekly for 2–3 years and is great at coaching the CEO, but cannot get changes implemented through the team. **Product implication: the deliverable cannot be a blueprint or document. It must be — or be paired with — an implementation mechanism.** This is potentially a strategic pivot.
 - **Source:** [[Interview 006 - John Lynch (Lynka)]]
@@ -165,6 +169,16 @@ Mid-sized industrial firms increasingly have technically-capable insiders who wa
 A single sale into a Fachvereinigung (sector-specific trade association) provides access to many member firms with shared technical context. German analogue of the Italian commercialisti channel; same warm-multi-customer-via-trusted-aggregator logic.
 - **Source:** [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
 - **Strength:** Moderate — single source, hypothesis-stage, immediately testable via Filigran
+
+### 34. Standardgrundlage first, Sonderfall layer second
+For technical-domain SMEs, the standard-answers layer must be in place before the judgment-extraction (storytelling) layer adds value. Customers will not see the value of capturing rare exceptions until the routine technical Q&A is automated. Suggests sequenced delivery: ingest normative documents → build standard-answer capability → layer storytelling-extraction for judgment edges. May differ for relational/decision-heavy domains where judgment IS the standard.
+- **Source:** [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]]
+- **Strength:** Strong — explicit pushback when offered campfire-first framing
+
+### 35. Multiple buyers within one company, three distinct trust thresholds
+Within a single ICP-fit company there are typically three distinct stakeholders with three different openness levels to a knowledge-capture product: the technical lead (high openness), the commercial/operations lead (moderate, Personalkosten-driven), and the strategic/ownership lead (low, protective of business-model layer). The product must enter at the technical layer without prematurely activating strategic resistance.
+- **Source:** [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], cross-referenced with [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
+- **Strength:** Moderate — second confirmation within Filigran/BWB; needs testing in non-engineering ICP
 
 ---
 

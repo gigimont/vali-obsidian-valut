@@ -26,6 +26,8 @@
 - [ ] Is "knowledge preservation" or "business heritage" a better customer-facing frame than "digital due diligence" for the founder-side sale?
 - [ ] How do we package the product so the CEO buys succession protection and the engineer buys archive search, without confusing either about what they're getting? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] Does the engineering-archive use case have different competitive dynamics than the founder-decision-extraction case — different incumbents, pricing, sales cycle? (from [[Interview 014]])
+- [ ] Where exactly is the line between "technical knowledge" (shareable) and "business-model knowledge" (protected)? Can we draw it cleanly enough to give technical-layer customers confidence? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
+- [ ] Is the "ecosystem foundation for further AI implementation" framing safe to lead with for technical buyers, even though it would be wrong for founder buyers? How do we tell which framing to use? (from [[Interview 016]])
 
 ## Knowledge Extraction
 
@@ -43,6 +45,7 @@
 - [ ] Can the "campfire storytelling" method scale, or is it inherently artisanal?
 - [ ] Should the deliverable include a "company story archive" alongside the operational knowledge base?
 - [ ] How do we train AI to extract structured knowledge from unstructured stories?
+- [ ] How do we package a Standardgrundlage-first sequenced delivery — is this a different product line from the campfire-first methodology, or the same methodology with a different entry-point per industry? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
 
 ## Market & Economics
 
@@ -84,6 +87,7 @@
 - [ ] Even the owner cannot reliably push changes through the team. Does this mean our product needs to bypass organizational resistance somehow, or work around it?
 - [ ] Do we sell the implementation, or publish a Kochrezept that consortium members can use themselves? Different revenue per customer, different market size. (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] What is the right Phase 1 deliverable for an engineering-archive use case — same methodology different inputs, or a distinct product? (from [[Interview 014]])
+- [ ] **STRATEGIC TO-DO:** Should the ICP be role-based (motivated technical insider with documentation pain in a knowledge-heavy traditional sector under labor pressure) rather than purely size-based (20–100 employees)? Or is one a subset of the other? Does the Pattern 22 sharpening from BWB require us to drop or reframe the ERP-maturity exclusion in [[ICP Definition]]? Cross-check against [[Interview 006 - John Lynch (Lynka)]]. (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
 
 ## Team & Execution
 
