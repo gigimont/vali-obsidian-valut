@@ -59,6 +59,7 @@
 - [[Standup — 2026-05-05]] — role split, vault audit decision, product anchor, ICP calibration
 - [[Standup — 2026-05-06]] — outreach coordination, Nora Fehlbaum strategy, pipeline updates
 - [[Standup — 2026-05-09]] — pitch deck planning, CTO search, 5 new outreach contacts, operational staff insight
+- [[Standup — 2026-05-11]] — week recap, packed Monday ahead, CTO search progressing, outreach delivering
 - [[Daily Standup Template]] — template standard for the following meetings
 
 ### Open Questions
@@ -94,6 +95,7 @@
 | 6    | Interview 015: Joerg (Wolf's father) — origin story, YPO access, Pattern 28 confirmed | ✅ Done |
 | 6    | Standup: pitch structure agreed, CTO search started, operational user persona identified | ✅ Done |
 | 6    | Interview 016: Bergerhoff (BWB-Gruppe Planungsleiter) — Pattern 22 sharpened (digital-maturity-paradox); Patterns 34-35 added (Standardgrundlage-first, three-trust-thresholds); ICP role-vs-size to-do; Herr Grass intro pending | ✅ Done |
+| 6    | Standup: Monday prep — 4 meetings scheduled, CTO lead identified, demo hypothesis | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
