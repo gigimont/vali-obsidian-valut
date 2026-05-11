@@ -57,6 +57,7 @@
 - [[Standup — 2026-05-04]] — first recorded standup: ICP sizing, knowledge mining vs process mining, M&A pivot discussion
 - [[Standup — 2026-05-05]] — role split, vault audit decision, product anchor, ICP calibration
 - [[Standup — 2026-05-06]] — outreach coordination, Nora Fehlbaum strategy, pipeline updates
+- [[Standup — 2026-05-09]] — pitch deck planning, CTO search, 5 new outreach contacts, operational staff insight
 - [[Daily Standup Template]] — template standard for the following meetings
 
 ### Open Questions
@@ -90,6 +91,7 @@
 | 6    | Interview 013: David — campfire method, tech fatigue, Patterns 28-30, follow-up May 21 | ✅ Done |
 | 6    | Interview 014: Ulrich Bauermeister (Filigran engineer) — failed self-build validates product; Patterns 31-33 (€20K experiments, blocked technical insider, trade-association channel) | ✅ Done |
 | 6    | Interview 015: Joerg (Wolf's father) — origin story, YPO access, Pattern 28 confirmed | ✅ Done |
+| 6    | Standup: pitch structure agreed, CTO search started, operational user persona identified | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
