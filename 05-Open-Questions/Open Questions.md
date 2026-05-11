@@ -25,9 +25,9 @@
 - [ ] Can our product address both knowledge AND cultural transition, or only knowledge? (from [[Interview 011 — Dairy Chemicals Commercial (Italy)]])
 - [ ] Is "knowledge preservation" or "business heritage" a better customer-facing frame than "digital due diligence" for the founder-side sale?
 - [ ] How do we package the product so the CEO buys succession protection and the engineer buys archive search, without confusing either about what they're getting? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
-- [ ] Does the engineering-archive use case have different competitive dynamics than the founder-decision-extraction case — different incumbents, pricing, sales cycle? (from [[Interview 014]])
+- [ ] Does the engineering-archive use case have different competitive dynamics than the founder-decision-extraction case — different incumbents, pricing, sales cycle? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] Where exactly is the line between "technical knowledge" (shareable) and "business-model knowledge" (protected)? Can we draw it cleanly enough to give technical-layer customers confidence? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
-- [ ] Is the "ecosystem foundation for further AI implementation" framing safe to lead with for technical buyers, even though it would be wrong for founder buyers? How do we tell which framing to use? (from [[Interview 016]])
+- [ ] Is the "ecosystem foundation for further AI implementation" framing safe to lead with for technical buyers, even though it would be wrong for founder buyers? How do we tell which framing to use? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
 
 ## Knowledge Extraction
 
@@ -68,7 +68,7 @@
 - [ ] How does our offering differentiate from Omnivisor (Warsaw-based AI consultancy, founder Radek Miszkont) — same geography, similar positioning, already engaging our prospects?
 - [ ] Has the 25%-of-savings success-fee model been tried and failed in this market? (Lynka's experience: real savings found, never adopted.) What does this tell us about acceptable pricing structures?
 - [ ] Is the "without license costs" preference a temporary cost-sensitivity or a structural pricing ceiling for Mittelstand technical teams? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
-- [ ] Is trade-association sales more efficient than direct-to-founder outreach for German industrial sectors? (from [[Interview 014]])
+- [ ] Is trade-association sales more efficient than direct-to-founder outreach for German industrial sectors? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 
 ## Strategic
 
@@ -86,7 +86,7 @@
 - [ ] Does the "insight without implementation gets sidelined" pattern (consultants found €500K savings at Lynka, never adopted) mean we need an explicit adoption mechanism baked into the product?
 - [ ] Even the owner cannot reliably push changes through the team. Does this mean our product needs to bypass organizational resistance somehow, or work around it?
 - [ ] Do we sell the implementation, or publish a Kochrezept that consortium members can use themselves? Different revenue per customer, different market size. (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
-- [ ] What is the right Phase 1 deliverable for an engineering-archive use case — same methodology different inputs, or a distinct product? (from [[Interview 014]])
+- [ ] What is the right Phase 1 deliverable for an engineering-archive use case — same methodology different inputs, or a distinct product? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] **STRATEGIC TO-DO:** Should the ICP be role-based (motivated technical insider with documentation pain in a knowledge-heavy traditional sector under labor pressure) rather than purely size-based (20–100 employees)? Or is one a subset of the other? Does the Pattern 22 sharpening from BWB require us to drop or reframe the ERP-maturity exclusion in [[ICP Definition]]? Cross-check against [[Interview 006 - John Lynch (Lynka)]]. (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
 
 ## Team & Execution
