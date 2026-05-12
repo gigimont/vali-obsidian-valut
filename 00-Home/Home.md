@@ -41,6 +41,7 @@
 - [[Interview 015 — Joerg von Weiler (Filigran Poland)]] — origin story, zero knowledge transfer, YPO channel, storytelling confirmation
 - [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — customer-side analogue to Bauermeister; Standardgrundlage-first framing; digitalization-ceiling paradox (sharpens Pattern 22); unprompted ecosystem-upsell endorsement; warm intro to Herr Grass pending
 - [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]] — olive tree framework, Life Book lead, strongest M&A validation, Ariana + Andrea contacts
+- [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]] — tool-making expert bottleneck, pre-transformation GTM angle, AI buddy as CTO lead, "Celonis for analog" validated
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -98,6 +99,7 @@
 | 6    | Interview 016: Bergerhoff (BWB-Gruppe Planungsleiter) — Pattern 22 sharpened (digital-maturity-paradox); Patterns 34-35 added (Standardgrundlage-first, three-trust-thresholds); ICP role-vs-size to-do; Herr Grass intro pending | ✅ Done |
 | 6    | Standup: Monday prep — 4 meetings scheduled, CTO lead identified, demo hypothesis | ✅ Done |
 | 6    | Interview 017: Armin Stuttmeyer — olive tree framework, Life Book methodology lead, M&A validation | ✅ Done |
+| 6    | Interview 018: Hubi / AWW — strongest product resonance ("reading our document"), Pattern 34 confirmed, CTO lead | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
