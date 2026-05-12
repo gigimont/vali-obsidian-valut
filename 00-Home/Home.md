@@ -22,6 +22,7 @@
 - ### Weekly Check-ins
 - [[1 to 1s — Week 3]]
 - [[1 to 1s — Week 4]] — Poland fieldwork, M&A angle deepening, ICP parameters discussion
+- [[1 to 1s — Week 5]] — 3 interviews in one day, Life Book lead, always-on GTM challenge, three-pillar extraction, alpha client strategy
 
 ### Research & Interviews
 - [[Interview 001 — Successor]] — first interview synthesis
@@ -102,6 +103,7 @@
 | 6    | Interview 017: Armin Stuttmeyer — olive tree framework, Life Book methodology lead, M&A validation | ✅ Done |
 | 6    | Interview 018: Hubi / AWW — strongest product resonance ("reading our document"), Pattern 34 confirmed, CTO lead | ✅ Done |
 | 6    | Interview 019: Lorenz / EMH — GTM challenge (always-on vs event-driven), vulnerability mapping validated | ✅ Done |
+| 6    | Week 5 check-in: Armin/Hubi/Lorenz trifecta, Life Book methodology lead, product moving to demo phase | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

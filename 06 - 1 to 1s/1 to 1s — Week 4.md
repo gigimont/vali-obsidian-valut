@@ -112,3 +112,4 @@ However, the mentor observation from [[1 to 1s — Week 3]] still holds: most va
 - [[ICP Definition]] — needs creation, discussed in this check-in
 - [[Problem Statement]] — thesis holding, ICP parameters tightening
 - [[Patterns From Fieldwork]] — human relationships as core value confirmed across Polish interviews
+- [[1 to 1s — Week 5]]
