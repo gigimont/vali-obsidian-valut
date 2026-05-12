@@ -98,6 +98,14 @@
 
 ---
 
+## Product & GTM
+
+- [ ] Should the product be always-on (continuous monitoring) or event-driven (M&A moments)? Or entry via M&A, retention via always-on? (from [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
+- [ ] How do we quantify "information vulnerability" as a metric? (from [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
+- [ ] Does guarantee/indemnity reduction resonate as a value proposition at our ICP deal size? (from [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
+
+---
+
 ## Competitors & Market
 
 - [ ] Is Life Book (YPO company, story harvesting + AI) a competitor, partner, or methodology source? (from [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]])

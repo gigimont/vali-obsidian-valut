@@ -42,6 +42,7 @@
 - [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — customer-side analogue to Bauermeister; Standardgrundlage-first framing; digitalization-ceiling paradox (sharpens Pattern 22); unprompted ecosystem-upsell endorsement; warm intro to Herr Grass pending
 - [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]] — olive tree framework, Life Book lead, strongest M&A validation, Ariana + Andrea contacts
 - [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]] — tool-making expert bottleneck, pre-transformation GTM angle, AI buddy as CTO lead, "Celonis for analog" validated
+- [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]] — PE perspective, "event-driven not M&A-only" challenge, information vulnerability mapping, Okio case study
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -100,6 +101,7 @@
 | 6    | Standup: Monday prep — 4 meetings scheduled, CTO lead identified, demo hypothesis | ✅ Done |
 | 6    | Interview 017: Armin Stuttmeyer — olive tree framework, Life Book methodology lead, M&A validation | ✅ Done |
 | 6    | Interview 018: Hubi / AWW — strongest product resonance ("reading our document"), Pattern 34 confirmed, CTO lead | ✅ Done |
+| 6    | Interview 019: Lorenz / EMH — GTM challenge (always-on vs event-driven), vulnerability mapping validated | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
