@@ -40,6 +40,7 @@
 - [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] — strongest direct product validation: failed self-build of local LLM + vector DB on Filigran archive; €20K-per-forgotten-experiment ROI framing; Fachvereinigung channel
 - [[Interview 015 — Joerg von Weiler (Filigran Poland)]] — origin story, zero knowledge transfer, YPO channel, storytelling confirmation
 - [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — customer-side analogue to Bauermeister; Standardgrundlage-first framing; digitalization-ceiling paradox (sharpens Pattern 22); unprompted ecosystem-upsell endorsement; warm intro to Herr Grass pending
+- [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]] — olive tree framework, Life Book lead, strongest M&A validation, Ariana + Andrea contacts
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -96,6 +97,7 @@
 | 6    | Standup: pitch structure agreed, CTO search started, operational user persona identified | ✅ Done |
 | 6    | Interview 016: Bergerhoff (BWB-Gruppe Planungsleiter) — Pattern 22 sharpened (digital-maturity-paradox); Patterns 34-35 added (Standardgrundlage-first, three-trust-thresholds); ICP role-vs-size to-do; Herr Grass intro pending | ✅ Done |
 | 6    | Standup: Monday prep — 4 meetings scheduled, CTO lead identified, demo hypothesis | ✅ Done |
+| 6    | Interview 017: Armin Stuttmeyer — olive tree framework, Life Book methodology lead, M&A validation | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

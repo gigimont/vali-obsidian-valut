@@ -178,6 +178,17 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 
 ---
 
+## Life Book (YPO Company)
+- **What they do:** Professionally interview people and write their life stories as physical books. Now integrating AI. Mostly wealthy Americans.
+- **Founded by:** Roy Moer (sp?)
+- **Pricing:** $10,000-20,000 per book
+- **Relevance:** They have already solved "how to harvest stories efficiently" — the exact extraction methodology we need. Their interview technology is the professional implementation of Pattern 28 (campfire method).
+- **Relationship:** Armin Stuttmeyer's sister-in-law Andrea manages it. Armin offered to connect us.
+- **Threat level:** Low as direct competitor (they make books for individuals, not business knowledge systems). High as methodology source or partner.
+- **Source:** [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]]
+
+---
+
 ## Open Questions
 
 - [x] Who exactly is the US competitor raising $5.4M (from [[1 to 1s — Week 3]])? Is it Clonable?

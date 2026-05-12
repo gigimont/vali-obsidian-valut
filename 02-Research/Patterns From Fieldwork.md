@@ -193,6 +193,9 @@ Within a single ICP-fit company there are typically three distinct stakeholders 
 - [ ]  €5K–10K is a viable price point for the diagnostic
 - [ ]  An internal champion (one digital-responsible person) is a prerequisite for engagement
 - [ ]  Agency partnerships (like Prisma) could be the implementation layer
+- [ ] The "olive tree" framework (cut irreplaceable roles into pieces, don't try to replace 1:1) could be a core product deliverable — "olive tree mapping" (from [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]])
+- [ ] Life Book (YPO company, professional story harvesting + AI) may be a competitor, partner, or methodology source — investigate immediately (from [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]])
+- [ ] "Boomerang successors" (left the business, came back for a specific role) may be a distinct customer sub-segment (from [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]])
 
 ---
 

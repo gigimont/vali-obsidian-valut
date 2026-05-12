@@ -98,6 +98,13 @@
 
 ---
 
+## Competitors & Market
+
+- [ ] Is Life Book (YPO company, story harvesting + AI) a competitor, partner, or methodology source? (from [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]])
+- [ ] Could "olive tree mapping" (splitting irreplaceable roles) be an explicit product deliverable? (from [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]])
+
+---
+
 ## Answered Questions
 
 *(Move questions here once fieldwork answers them, with the evidence)*
