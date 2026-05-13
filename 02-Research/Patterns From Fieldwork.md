@@ -190,6 +190,11 @@ Family ownership can be preserved through a holding GmbH while operational leade
 - **Source:** [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]], retroactive relevance to Interviews 007 and 012
 - **Strength:** Moderate — well-developed single example
 
+### 40. Documentation entropy under external system change
+Even well-documented organizational knowledge decays under temporal pressure from external systems. Microsoft updates, ERP supplier changes, interface partner modifications all trigger a documentation gap because the nachdokumentation that should follow rarely happens — the maintenance is high-effort and triggered by external rather than internal events. Distinct from the static "knowledge trapped" pattern: this is a dynamic decay pattern. Any product must address not just initial capture but an ongoing capture mechanism under external-change pressure. Passive (AI-driven incremental updates) or active (scheduled re-validation) — both are open methodology questions.
+- **Source:** [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]
+- **Strength:** Strong — articulated by an internal IT lead from direct operational experience; described as "egal in welchen Unternehmen"
+
 ---
 
 ## Emerging Hypotheses (need more data)

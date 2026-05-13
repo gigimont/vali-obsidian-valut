@@ -8,6 +8,7 @@
 ## Customer & Buyer
 
 - [ ] Should "post-handover former CEO" be defined as a research-interview ICP segment? They are reflective, networked, and over-represented at family business events. How do we reach them in volume? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])
+- [ ] Should "internal IT lead with operational authority" be a named role profile in ICP Definition alongside the domain technical expert profile (Pattern 32)? (from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]])
 - [ ] How many search funds operate in Europe and what's the typical knowledge-transfer budget per deal?
 - [ ] How common is "family blocks the sale" as a succession failure mode? Italy-specific or universal?
 - [ ] Should ICP distinguish between "chaotic SMEs" and "structured SMEs with still-tacit knowledge"? Are these two different segments with different willingness to pay?
@@ -40,6 +41,7 @@
 - [ ] How do we package a Standardgrundlage-first sequenced delivery — is this a different product line from the campfire-first methodology, or the same methodology with a different entry-point per industry? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
 - [ ] What specifically transforms raw data (interviews, screen recordings, documents) into a queryable second brain? What is the transformation methodology? (from [[Interview 020 — Francis de Vericourt (ESMT Professor)]] — "something is missing in the middle")
 - [ ] Can we demonstrate a measurable capture rate on the Planungsleiter use case? (from [[Interview 020 — Francis de Vericourt (ESMT Professor)]])
+- [ ] **MAINTENANCE MECHANISM:** What is the methodology for ongoing capture under external system change (Pattern 40)? Passive AI-driven incremental updates? Scheduled re-validation? Hybrid? Must be answered before any paid engagement. (from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]])
 
 ## Market & Economics
 
@@ -59,9 +61,12 @@
 - [ ] How does our offering differentiate from Omnivisor (Warsaw-based AI consultancy, founder Radek Miszkont) — same geography, similar positioning, already engaging our prospects?
 - [ ] Is the "without license costs" preference a temporary cost-sensitivity or a structural pricing ceiling for Mittelstand technical teams? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] Is trade-association sales more efficient than direct-to-founder outreach for German industrial sectors? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
+- [ ] What is the right GDPR positioning statement for external prospects? Marco's pragmatism is internal-IT-specific; legal departments and Betriebsrat will see it differently. Required before external paid pilot. (from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]])
 
 ## Strategic
 
+- [ ] **TWO-TRACK PILOT APPROACH:** Should we formally adopt a two-track approach — Filigran internal exploration (Track 1, low-stakes, methodology development) running in parallel with independent external beta search (Track 2, credibility-grade proof of concept)? Filigran has all three Pattern 35 trust thresholds aligned (Stefan + Bauermeister + Marco); AWW is the leading external candidate. (from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]])
+- [ ] What is the right framing for an internal Filigran exercise that is not a paid beta but is methodology development? Pricing, scope, artifact ownership, use rights all need to be defined before starting. (from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]])
 - [ ] **OBJECTION CLUSTER (21 + 37 + 39):** Unified positioning response required before next high-stakes conversation. Newton: "Retroactive capture is not feasible." Roland: "What you do capture risks atrophying the underlying human capability." Francis: "The capture rate is partial; overclaiming damages credibility." Draft response: "We capture transferable frameworks, not full intuition. Our deliverable reduces bottleneck dependency and accelerates onboarding — it is designed to scaffold human judgment, not substitute for it." (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] + cluster)
 - [ ] **POSITIONING DECISION:** Three independent prospects (016, 018, 021) say the succession framing is too narrow. Francis (020) says go narrower for proof of concept. Synthesis: broad applicability story + narrow proof of concept lead. How do we encode this dual framing explicitly in pitch materials? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])
 - [ ] Does Peter May / Hamburg Family Summit warrant a dedicated outreach strategy as a German family business network gateway? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])

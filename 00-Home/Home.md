@@ -48,6 +48,7 @@
 - [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]] — PE perspective, "event-driven not M&A-only" challenge, information vulnerability mapping, Okio case study
 - [[Interview 020 — Francis de Vericourt (ESMT Professor)]] — feasibility stress-test, five challenges, "access not technology" reframe, proof of concept directive
 - [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] — post-handover former CEO; meta-witness to both unstructured (1988) and structured (2024) succession; atrophy critique (Pattern 37); third framing-too-narrow signal; Teampower correction; Peter May / Hamburg Family Summit lead; Leonhard follow-up pending
+- [[Interview 022 — Marco Nortmeier (Filigran, Germany)]] — internal IT lead; methodology-not-model framing independently confirmed; verbal yes to Filigran internal pilot start; Pattern 35 (three trust thresholds) now fully aligned at Filigran; Obsidian-as-demo externally validated; Pfingsten in-person meeting pending
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -110,6 +111,7 @@
 | 6    | Week 5 check-in: Armin/Hubi/Lorenz trifecta, Life Book methodology lead, product moving to demo phase | ✅ Done |
 | 6    | Interview 020: Francis (ESMT) — hardest challenge yet: "what's missing in the middle?", narrow the PoC | ✅ Done |
 | 6    | Interview 021: Roland Wübbe (post-handover CEO, H&W Tiefbau) — Patterns 37-38 (atrophy risk, ownership-operations separation); third framing-too-narrow signal; objection cluster (21+37+39) now complete; Peter May / Hamburg channel lead | ✅ Done |
+| 6    | Interview 022: Marco Nortmeier (Filigran IT lead) — Pattern 40 added (documentation entropy); Filigran becomes first fully-aligned Pattern 35 site; two-track pilot approach (Filigran internal + independent external beta) needs Giuseppe discussion; Pfingsten in-person meeting | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

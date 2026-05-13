@@ -22,7 +22,7 @@ His core message: **Your competitive advantage is market access and trust, not t
 
 ### Challenge 1: "You're a consulting company"
 - Francis reframed the entire product: a consulting company for small/medium family businesses, specialized in closing the knowledge gap, using AI as a tool
-- "Let me try to reframe what you're telling me: you want to be a consulting company for small, middle, Italian, family-owned business, to have them be optimized"
+- "Let me try to reframe what you're telling me: you want to be a consulting company for small-middle, family-owned business, to have them be optimized"
 - The AI is NOT the product. The methodology + access + trust is the product.
 - **Implication:** Stop positioning as a tech company. Position as a specialized consulting practice that uses proprietary AI-enabled methodology. This aligns with the "service first, maybe hybrid" answer from the product brainstorming.
 
