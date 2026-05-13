@@ -28,6 +28,7 @@ Templates/            → Meeting Notes Template.md, Daily Standup Template.md
 - `02-Research/Patterns From Fieldwork.md` — patterns 1-27, add new ones here
 - `05-Open-Questions/Open Questions.md` — cross off answered, add new
 - `00-Home/Home.md` — timeline table + navigation links
+- `01-Strategy/Product Evolution Log.md` — update after any strategic pivot or major reframe
 
 ## After Adding a New Interview
 1. Create `02-Research/Interview NNN — Name.md`

@@ -20,6 +20,7 @@
 - [[Origin Story]] — how the project started (5H bootcamp)
 - [[Competitors]] — competitive landscape: Celonis, Clonable, Omnivisor, process mining tools
 - [[ICP Definition]] — who we target, who we don't, triggers, evidence table (v1, needs update)
+- [[Product Evolution Log]] — chronological record of how the product thesis evolved through fieldwork
 - ### Weekly Check-ins
 - [[1 to 1s — Week 3]]
 - [[1 to 1s — Week 4]] — Poland fieldwork, M&A angle deepening, ICP parameters discussion
