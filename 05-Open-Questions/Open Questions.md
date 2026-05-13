@@ -103,13 +103,16 @@
 - [ ] Should the product be always-on (continuous monitoring) or event-driven (M&A moments)? Or entry via M&A, retention via always-on? (from [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
 - [ ] How do we quantify "information vulnerability" as a metric? (from [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
 - [ ] Does guarantee/indemnity reduction resonate as a value proposition at our ICP deal size? (from [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
+- [ ] Should "pre-transformation documentation" become a third application alongside "Preserve & Scale" and "Acquire & Exit"? (from [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
+- [ ] Is Hubi's AI consulting colleague a CTO candidate, advisor, or adjacent competitor? (from [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
+- [ ] Does the "Celonis for analog companies" framing resonate beyond audiences who already know Celonis? (from [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
 
 ---
 
 ## Competitors & Market
 
-- [ ] Is Life Book (YPO company, story harvesting + AI) a competitor, partner, or methodology source? (from [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]])
-- [ ] Could "olive tree mapping" (splitting irreplaceable roles) be an explicit product deliverable? (from [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]])
+- [ ] Is Life Book (YPO company, story harvesting + AI) a competitor, partner, or methodology source? (from [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]])
+- [ ] Could "olive tree mapping" (splitting irreplaceable roles) be an explicit product deliverable? (from [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]])
 
 ---
 

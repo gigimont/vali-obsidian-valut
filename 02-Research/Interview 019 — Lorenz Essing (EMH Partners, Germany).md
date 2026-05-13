@@ -146,7 +146,7 @@ EMH operates at €50-150M per deal — well above our ICP company size. However
 ## Related
 - [[Interview 008 — Antonio Rizza (M&A)]] — Antonio validated M&A from the deal-execution side; Lorenz validates from the fund-management side. Antonio says documentation → price. Lorenz says soft knowledge matters more than hard knowledge.
 - [[Interview 010 — Newton Campos (Search Fund)]] — Newton operates at €10-25M EV (our ICP range). Lorenz operates at €50-150M. Together they frame the full spectrum of buyer-side customers.
-- [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]] — Armin said "that's where the money is" about M&A. Lorenz says M&A is one event among many. Different perspective, both valid.
+- [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]] — Armin said "that's where the money is" about M&A. Lorenz says M&A is one event among many. Different perspective, both valid.
 - [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]] — Hubi's "pre-transformation documentation" GTM angle aligns with Lorenz's "always-on" suggestion: the product has value beyond transactions.
 - [[Interview 011 — Dairy Chemicals Commercial (Italy)]] — "Chiavi di lettura" (judgment frameworks) = Lorenz's "soft knowledge." Same concept, different vocabulary.
 - [[Patterns From Fieldwork]] — confirms Patterns 2, 5, 17, 18

@@ -15,7 +15,7 @@ Major acceleration this week. Three high-quality interviews in a single day (May
 
 ## Key Conversations This Week
 
-### [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]]
+### [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]]
 - CEO of a German family business (baby products) with global operations — Germany + US (Ohio)
 - Shadowed his father for 20+ years before taking the reins
 - Most strategically advanced succession thinker in the dataset
@@ -119,7 +119,7 @@ Major acceleration this week. Three high-quality interviews in a single day (May
 
 ## Related
 - [[1 to 1s — Week 4]] — previous check-in
-- [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]] — olive tree framework, Life Book lead
+- [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]] — olive tree framework, Life Book lead
 - [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]] — pre-transformation GTM, pilot candidate
 - [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]] — always-on GTM challenge, vulnerability mapping
 - [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — technical bottleneck pattern, Pattern 34

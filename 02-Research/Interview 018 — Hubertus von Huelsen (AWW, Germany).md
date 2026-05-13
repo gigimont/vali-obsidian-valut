@@ -37,8 +37,6 @@
 
 ## Key Quotes
 
-> "It feels like you're reading out a document that we wrote back to us." [when Wolf described the ERP-to-actual-process gap]
-
 > "We have a guy in the tool-making shop... he has a lot of expertise about any kind of profiles we have done in the last 20-30 years. It's kind of an archive. You give him a drawing, he knows already — ah, we've done something similar. He immediately knows if it could be technically challenging. This is only in the head. He will be retiring in 2-3 years. It's a huge risk."
 
 > "The annotation work — I assume will be very challenging if you want to really get the expertise out of it."
@@ -143,7 +141,7 @@ AWW may be above ICP size, but the pain profile matches perfectly. Same ICP-size
 
 ## Related
 - [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — Same pattern (technical expert bottleneck), same sequencing (standard layer first), same "foundation for AI" framing. Different industry (precast concrete vs aluminum). Together they confirm Pattern 34 across industries.
-- [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]] — Armin's "harvest stories" and Hubi's "annotation work" are two descriptions of the same challenge from different industries. Armin says stories; Hubi says annotations. Both mean: capturing the WHY behind expert decisions.
+- [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]] — Armin's "harvest stories" and Hubi's "annotation work" are two descriptions of the same challenge from different industries. Armin says stories; Hubi says annotations. Both mean: capturing the WHY behind expert decisions.
 - [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] — Bauermeister → Bergerhoff → Hubi: three technical experts in three different companies, all with the same bottleneck pattern.
 - [[Interview 006 - John Lynch (Lynka)]] — Both are mid-ERP or post-ERP companies where digital maturity hasn't solved the knowledge problem. Cross-validates Pattern 22.
 - [[Patterns From Fieldwork]] — confirms Patterns 2, 22, 25, 26, 27, 34

@@ -18,7 +18,7 @@ Templates/            → Meeting Notes Template.md, Daily Standup Template.md
 ## Key Conventions
 - Wikilinks: always `[[Note Name]]` without folder prefix
 - Competitors file: `[[Competitors]]` in 02-Research/ (NOT "Competitive Landscape")
-- ICP Definition: planned file at 01-Strategy/ICP Definition.md — does not yet exist
+- ICP Definition: `01-Strategy/ICP Definition.md` — v1 created May 2026, covers Interviews 001–011. Needs v2 update.
 - Tags: #strategy #research #interview #pattern #standup #check-in #to-validate #confirmed
 - Interview files: `Interview NNN — Name.md` in 02-Research/
 - Check-in files: `1 to 1s — Week N.md` in 06 - 1 to 1s/

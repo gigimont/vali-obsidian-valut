@@ -19,6 +19,7 @@
 - [[Product Methodology]] — three-pillar extraction framework and Neutral Mirror philosophy
 - [[Origin Story]] — how the project started (5H bootcamp)
 - [[Competitors]] — competitive landscape: Celonis, Clonable, Omnivisor, process mining tools
+- [[ICP Definition]] — who we target, who we don't, triggers, evidence table (v1, needs update)
 - ### Weekly Check-ins
 - [[1 to 1s — Week 3]]
 - [[1 to 1s — Week 4]] — Poland fieldwork, M&A angle deepening, ICP parameters discussion
@@ -41,7 +42,7 @@
 - [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] — strongest direct product validation: failed self-build of local LLM + vector DB on Filigran archive; €20K-per-forgotten-experiment ROI framing; Fachvereinigung channel
 - [[Interview 015 — Joerg von Weiler (Filigran Poland)]] — origin story, zero knowledge transfer, YPO channel, storytelling confirmation
 - [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — customer-side analogue to Bauermeister; Standardgrundlage-first framing; digitalization-ceiling paradox (sharpens Pattern 22); unprompted ecosystem-upsell endorsement; warm intro to Herr Grass pending
-- [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]] — olive tree framework, Life Book lead, strongest M&A validation, Ariana + Andrea contacts
+- [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]] — olive tree framework, Life Book lead, strongest M&A validation, Ariana + Andrea contacts
 - [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]] — tool-making expert bottleneck, pre-transformation GTM angle, AI buddy as CTO lead, "Celonis for analog" validated
 - [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]] — PE perspective, "event-driven not M&A-only" challenge, information vulnerability mapping, Okio case study
 - [[Interview Guide]] — how to run founder/successor interviews
@@ -100,7 +101,7 @@
 | 6    | Standup: pitch structure agreed, CTO search started, operational user persona identified | ✅ Done |
 | 6    | Interview 016: Bergerhoff (BWB-Gruppe Planungsleiter) — Pattern 22 sharpened (digital-maturity-paradox); Patterns 34-35 added (Standardgrundlage-first, three-trust-thresholds); ICP role-vs-size to-do; Herr Grass intro pending | ✅ Done |
 | 6    | Standup: Monday prep — 4 meetings scheduled, CTO lead identified, demo hypothesis | ✅ Done |
-| 6    | Interview 017: Armin Stuttmeyer — olive tree framework, Life Book methodology lead, M&A validation | ✅ Done |
+| 6    | Interview 017: Armin Struckmeier — olive tree framework, Life Book methodology lead, M&A validation | ✅ Done |
 | 6    | Interview 018: Hubi / AWW — strongest product resonance ("reading our document"), Pattern 34 confirmed, CTO lead | ✅ Done |
 | 6    | Interview 019: Lorenz / EMH — GTM challenge (always-on vs event-driven), vulnerability mapping validated | ✅ Done |
 | 6    | Week 5 check-in: Armin/Hubi/Lorenz trifecta, Life Book methodology lead, product moving to demo phase | ✅ Done |

@@ -1,4 +1,4 @@
-# Interview 017 — Armin Stuttmeyer (NUK / Novatex, Germany)
+# Interview 017 — Armin Struckmeier (NUK / Novatex, Germany)
 
 #research #interview #sme-owner #manufacturing #germany #fmcg #ypo #succession
 

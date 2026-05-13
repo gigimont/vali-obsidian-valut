@@ -51,7 +51,7 @@ Three forces converging in 2026:
 | Why will the successor pay when father owns it? | Successor champions it; founder signs off when value to HIS legacy is framed correctly |
 | What's your moat? | LLM-powered knowledge extraction at price/speed consultants can't match |
 | Italian or global? | Italy-first (know market + regulation), international later country-by-country |
-| What's your N? | 1 interview done, 15+ planned. Presenting hypothesis, not finding. |
+| What's your N? | 19 interviews complete across Germany, Italy, and Poland. 35 patterns surfaced. Validation approaching saturation. |
 | What would kill this? | If founders universally refuse shadowing, or tacit knowledge is irreducibly personal |
 | Haven't you heard of Celonis? | Celonis is our role model, not our competitor. They need digital event logs; our market runs on paper, heads, and WhatsApp. Celonis built a $10B company proving process transparency is valuable — we're doing that for the businesses Celonis can't touch. See [[Competitors]]. |
 | Why aren't you just consultants? | Consultants are disruptive, opinionated, and expensive. We observe passively, make no recommendations, and charge a fraction. A 60-year-old founder hears "consultant" and hears "someone telling me how to run my business." We're a neutral mirror. |

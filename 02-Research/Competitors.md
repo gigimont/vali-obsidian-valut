@@ -185,7 +185,7 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 - **Relevance:** They have already solved "how to harvest stories efficiently" — the exact extraction methodology we need. Their interview technology is the professional implementation of Pattern 28 (campfire method).
 - **Relationship:** Armin Stuttmeyer's sister-in-law Andrea manages it. Armin offered to connect us.
 - **Threat level:** Low as direct competitor (they make books for individuals, not business knowledge systems). High as methodology source or partner.
-- **Source:** [[Interview 017 — Armin Stuttmeyer (NUK Novatex, Germany)]]
+- **Source:** [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]]
 
 ---
 
