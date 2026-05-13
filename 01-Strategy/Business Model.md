@@ -85,7 +85,7 @@ The report is the foot in the door. Phase 3 is where real margin lives.
 ### Channel Priority
 
 1. **Known networks first** — team connections and family businesses as zero-acquisition-cost sandboxes, generating first case studies (see [[Origin Story]])
-2. **M&A brokers and intermediaries** — commercialisti in Italy (see [[Outreach Strategy]]), business brokers in Germany. Sell through trusted advisors who have access to founders we can't reach directly.
+2. **M&A brokers and intermediaries** — (see [[Outreach Strategy]]) business brokers in Germany. Sell through trusted advisors who have access to founders we can't reach directly.
 3. **Direct founder outreach** — lowest yield, but necessary for market education and for the upstream (non-M&A) customer
 
 ### Pricing Anchor

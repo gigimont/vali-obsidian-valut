@@ -37,6 +37,8 @@
 - [ ] Should the deliverable include a "company story archive" alongside the operational knowledge base?
 - [ ] How do we train AI to extract structured knowledge from unstructured stories?
 - [ ] How do we package a Standardgrundlage-first sequenced delivery — is this a different product line from the campfire-first methodology, or the same methodology with a different entry-point per industry? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
+- [ ] What specifically transforms raw data (interviews, screen recordings, documents) into a queryable second brain? What is the transformation methodology? (from [[Interview 020 — Francis de Vericourt (ESMT Professor)]] — "something is missing in the middle")
+- [ ] Can we demonstrate a measurable capture rate on the Planungsleiter use case? (from [[Interview 020 — Francis de Vericourt (ESMT Professor)]])
 
 ## Market & Economics
 
@@ -75,6 +77,8 @@
 - [ ] Do we sell the implementation, or publish a Kochrezept that consortium members can use themselves? Different revenue per customer, different market size. (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] What is the right Phase 1 deliverable for an engineering-archive use case — same methodology different inputs, or a distinct product? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] **STRATEGIC TO-DO:** Should the ICP be role-based (motivated technical insider with documentation pain in a knowledge-heavy traditional sector under labor pressure) rather than purely size-based (20–100 employees)? Or is one a subset of the other? Does the Pattern 22 sharpening from BWB require us to drop or reframe the ERP-maturity exclusion in [[ICP Definition]]? Cross-check against [[Interview 006 - John Lynch (Lynka)]]. (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
+- [ ] Is "consulting company with AI tools" the right framing for investors, or does it signal low-tech? (from [[Interview 020 — Francis de Vericourt (ESMT Professor)]])
+- [ ] What stops a Big 4 firm from replicating this? How do we defend the "access and trust" moat? (from [[Interview 020 — Francis de Vericourt (ESMT Professor)]])
 
 ## Team & Execution
 
