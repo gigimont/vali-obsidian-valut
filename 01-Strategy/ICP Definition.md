@@ -2,7 +2,7 @@
 
 #strategy #icp #core
 
-> **Status:** v1 — May 2026. Based on Interviews 001–011.
+> **Status:** v2 — May 12, 2026. Based on Interviews 001–019.
 > **Owner:** Giuseppe + Wolf
 
 ---
@@ -19,9 +19,25 @@
 - **Digital maturity:** Has a gestionale or basic ERP; uses WhatsApp/email operationally; has NOT yet invested in sophisticated digital tools. Knows AI exists but feels "under-advised."
 - **Attitude:** Founder is open-minded enough to see the company as something to preserve, not just a salary. Values reputation and relationships.
 
+### Emerging persona: the motivated technical insider
+A distinct buyer profile has emerged from Interviews 014, 016, and 018: technically capable insiders (Planungsleiter, tool-making experts, operations leads) who see the knowledge bottleneck daily, have internal credibility to propose solutions, but fail at the last 10% of implementation. They are NOT founders. They are NOT successors. They are operational experts who want the tool for themselves.
+
+Key characteristics:
+- Role: technical lead, planning manager, senior engineer
+- Pain: they ARE the bottleneck and they know it ("wenn ich nicht da bin, fehlt irgendwas")
+- Digital context: company may have ERP, but their knowledge sits outside it
+- Motivation: free up their own time, reduce single-point-of-failure risk, enable AI implementation
+- Trust threshold: HIGH openness at the technical layer; resistance only at the strategic/business-model layer
+
+This persona may exist in companies ABOVE the current size-based ICP (AWW at 170M revenue, BWB-Gruppe at 600+ employees). The strategic question: **should the ICP be defined by company size or by role profile?** Both Bergerhoff and Hubi match the pain profile perfectly despite being in companies above the size wedge.
+
+*Canonical examples: [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]], [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]]*
+
 ### Secondary ICP (buyer-side)
 - **Search fund GPs** (like Newton Campos): funds investing in young CEOs acquiring family businesses in the €10–25M EV range. Would benefit from pre-packaged operational documentation reducing the 1-year handover period.
 - **Corporate M&A teams** (like Antonio Rizza): deal teams doing operational due diligence who face a 100-item checklist and would pay for pre-documented companies.
+- **Growth equity / PE board members** (like Lorenz Essing at EMH): board-level investors who need "information vulnerability mapping" as an ongoing governance tool — not just during DD but continuously. Would pay for always-on knowledge concentration monitoring across portfolio companies. (Source: [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
+- **Add-on acquisition teams**: EMH's smaller add-on deals (€5-20M) have LESS formal DD than headline deals — exactly where our product fills the gap. (Source: [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
 
 ---
 
@@ -64,6 +80,13 @@ The ICP becomes a paying customer when ONE of these is present:
 | [[Interview 009 — Colusso Hardware (Italy)]] | ✅ Moderate | Right size, right age, succession uncertain, under-advised on AI |
 | [[Interview 010 — Newton Campos (Search Fund)]] | ✅ (buyer-side) | Search fund ICP: €10-25M EV, 20-100 employees, family business |
 | [[Interview 011 — Dairy Chemicals Commercial (Italy)]] | ❌ Too small | Single trader; validates thesis but wrong commercial profile |
+| [[Interview 012 — Stefan Weiler (Filigran, Germany)]] | ✅ Strong | 3rd gen, zero knowledge plan, 2-4yr decision window, right size |
+| [[Interview 013 — David (Textile Manufacturing, Germany)]] | ✅ Strong | 4th gen successor, 60 employees, campfire method pioneer |
+| [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] | ✅ (technical insider) | Motivated insider, archive problem, failed self-build |
+| [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] | ⚠️ Above size, perfect pain | 130 planners, single bottleneck, Pattern 34 source |
+| [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]] | ⚠️ Partial | Advanced succession planning, Life Book methodology lead |
+| [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]] | ⚠️ Above size, perfect pain | 170M revenue, building same solution, CTO lead |
+| [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]] | ✅ (buyer-side) | PE board member, vulnerability mapping, always-on framing |
 
 ---
 
