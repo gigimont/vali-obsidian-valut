@@ -4,6 +4,51 @@
 
 ---
 
+## Current Thesis — v5 (May 12, 2026, post-Interviews 012–019)
+
+### One sentence
+Organically grown SMEs run on expertise that was never written down — judgment frameworks, relational knowledge, and technical intuition trapped in the heads of founders and senior staff — and AI now makes this extractable through structured storytelling, document ingestion, and workflow observation before the people who hold it walk out the door.
+
+### What changed from v4 → v5
+
+**Extraction methodology crystallised into three pillars:**
+1. Interview methodology — "campfire" storytelling, not structured questionnaires. Three independent sources (Kevin, Joerg, Armin) confirmed that stories surface tacit knowledge better than process documentation. Life Book (YPO company) is the professional benchmark. This is the most uncertain pillar and the likely moat. (Sources: Pattern 28, [[Interview 013 — David (Textile Manufacturing, Germany)]], [[Interview 015 — Joerg von Weiler (Filigran Poland)]], [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]])
+2. Computer-use tracking — email patterns, Excel workflows, digital activity. The "easy" pillar technically.
+3. Document scanning — analog archives, printed drawings, certificates. Mistral AI identified as promising for this layer.
+
+**Two sequencing modes identified (Pattern 34):**
+For technical-domain SMEs (engineering, manufacturing), the normative/document layer must be ingested FIRST ("Standardgrundlage"), then storytelling adds the judgment layer on top. For relational/decision-heavy domains (commercial, sales, leadership), storytelling comes first. The methodology is not one-size-fits-all. (Sources: [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
+
+**Three GTM angles now validated (up from one):**
+1. **Preserve & Scale** — founder succession, operational continuity, expert knowledge scaling. The original thesis.
+2. **Acquire & Exit** — M&A documentation completeness during DD + exit preparation before resale. Strongest commercial validation. (Sources: [[Interview 008 — Antonio Rizza (M&A)]], [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]], [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
+3. **Pre-transformation documentation** — "do your homework before McKinsey arrives." Two independent sources arrived at this framing: the knowledge map becomes the foundation for further AI implementation, ERP migration, or consulting engagements. (Sources: [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
+
+**Always-on vs event-driven GTM challenge (unresolved):**
+A growth equity investor (€50-150M deals) challenged the M&A-only framing: "The value of knowledge is event-driven — someone leaves, someone joins, processes change. M&A is a huge event but it can happen at any time. I'm struggling to imagine why you'd limit to M&A." This suggests: enter via M&A (highest urgency, clearest budget), retain via always-on monitoring (recurring revenue). Unresolved but directionally important. (Source: [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
+
+**Soft vs hard knowledge distinction (sharpens the thesis):**
+Hard knowledge (processes, documentation, customer history) is recoverable — "you'll find it somewhere again." Soft knowledge (relationships, business judgment, gut feeling from 25-30 years) is what kills deals and derails transitions. Our product must explicitly target the soft layer; the hard layer is table stakes. (Source: [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
+
+**The "olive tree" framework (reframes irreplaceability):**
+You cannot replace an organically grown leader 1:1. You cut the role into pieces and find someone for each piece. Our product could MAP the olive tree — identify which branches exist, which live in one person's head, and help plan the split. This is a concrete deliverable beyond documentation. (Source: [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]])
+
+**Digitalization paradox confirmed (Pattern 22 sharpened):**
+Full digital maturity does NOT eliminate the tacit knowledge bottleneck. Companies with sophisticated ERPs still have critical experts who are the only ones who know how to interpret ambiguous situations. The ICP should not exclude digitally mature companies. (Sources: [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
+
+**New deliverable concept: information vulnerability mapping:**
+A PE board member immediately understood and valued the idea of a tool that maps "where knowledge is concentrated and what you lose when someone leaves." This is a concrete, visual output: a knowledge concentration dashboard that makes risk visible. (Source: [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
+
+### Updated Deal-Breaker Hypotheses
+
+1. Founders and senior employees will let themselves be shadowed → **Supported.** Bergerhoff, Hubi, and Armin all engaged proactively. Pattern 28 (campfire method) makes the extraction feel like storytelling, not auditing.
+2. The successor is a better buyer than the founder → **Confirmed across 6+ interviews.** But "motivated technical insider" (Bauermeister, Bergerhoff, Hubi) is an equally valid buyer persona.
+3. AI can make this affordable vs traditional consulting → **Technically plausible, not yet proven.** Three-pillar architecture crystallised. Pillar 1 (interview methodology) is the uncertain one.
+4. Retroactive extraction captures enough to meaningfully reduce transition risk → **Contested but defensible.** Newton (Interview 010): "I don't think that's possible." Our answer: 60-70% capture is enough. The "chiavi di lettura" framing (Interview 011) and the "Standardgrundlage-first" sequencing (Pattern 34) suggest the capture rate varies by domain.
+5. *(New)* The M&A entry point is the right first GTM → **Challenged.** Lorenz (Interview 019) argues for always-on monitoring, not event-driven. Pre-transformation documentation (Interviews 016, 018) is a third angle that doesn't require a deal trigger. Unresolved.
+
+---
+
 ## Current Thesis — v4 (May 2026, post-interviews 002–011)
 
 ### One sentence
