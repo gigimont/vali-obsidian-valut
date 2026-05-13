@@ -49,14 +49,20 @@ Direct observation of how work actually happens day-to-day.
 
 **Key constraint:** Zero operational disruption. We observe the reality, not the desired state. Employees are not asked to change how they work.
 
-### Pillar 3 — Conversational Extraction
+### Pillar 3 — Campfire Storytelling (Conversational Extraction)
 
-Structured interviews that surface tacit knowledge — the judgment, instinct, and relationship logic that never gets written down.
+Structured storytelling sessions — not questionnaires — that surface tacit knowledge through narrative. Three independent sources (David, Joerg, Armin) confirmed that stories and anecdotes surface tacit knowledge more truthfully than structured process questioning. People hate documenting processes; they love telling stories. The exceptions, the judgment calls, the "how we do things here" — these emerge through storytelling, not flowcharts. (Pattern 28)
 
-- Phase 1 preparation questions sent in advance (see [[Interview Guide]])
-- Live interview with AI transcription
-- AI synthesis: transcript → structured procedure descriptions
+- "Tell me about a time when…" — not "Describe your process for…"
+- Nostalgic framing bypasses defensiveness and tech fatigue
+- AI transcription + synthesis: transcript → judgment framework capture
 - Follow-up prompting to fill gaps identified in Pillars 1 and 2
+
+**Sequencing depends on domain (Pattern 34):**
+- *Technical-domain SMEs* (engineering, manufacturing): the normative/document layer (Standardgrundlage) must be ingested via Pillar 1 FIRST. Storytelling adds the judgment layer on top once the standard-answer capability is in place.
+- *Relational/decision-heavy domains* (commercial, leadership, sales): storytelling comes first. The judgment framework IS the standard layer.
+
+**Life Book benchmark:** YPO company that professionally harvests life stories using structured interview techniques, now integrating AI. Represents the professional quality bar for Pillar 3. See [[Competitors]].
 
 ---
 
@@ -89,7 +95,11 @@ The final output. Not a consulting memo. A structured asset.
 **Naming conventions:**
 - "Organizational Report" — neutral, non-threatening; right for most founder-facing conversations
 - "Buyer-Ready Organizational Report" — appropriate when the context is sale or succession planning
+- "Information Vulnerability Map" — for investor/PE board audiences; makes knowledge concentration risk visible as a dashboard. (Source: [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
 - Avoid: "M&A Data Room," "Due Diligence Package" — banker register, triggers resistance in traditional founders
+
+**Additional deliverable concept — Olive Tree Mapping:**
+Some roles cannot be replaced 1:1 — they grew organically over 30-40 years. The olive tree deliverable maps which branches exist within an irreplaceable role and helps plan how to split the role across multiple people or systems. Concrete output: a role-decomposition plan paired with the knowledge map of each branch. (Source: [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]])
 
 **Timeline target:** 4–6 weeks per engagement at Phase 1 (manual). Compresses in Phase 2 as AI handles more extraction.
 
@@ -113,7 +123,7 @@ The final output. Not a consulting memo. A structured asset.
 - [ ] What is the minimum digital footprint required for Pillar 2 to produce meaningful data? (If a company runs entirely on paper and verbal communication, does passive shadowing fail?)
 - [ ] Is email metadata analysis compliant under GDPR without explicit individual consent? What does this mean for the ONA layer?
 - [ ] How do we handle employee resistance to shadowing (privacy concerns, Works Council / Betriebsrat rules in Germany)?
-- [ ] Does decision replication (see [[Interview 003 - Merih (Finance Professor)]]) belong in the methodology, or is it a Phase 3 product extension?
+- [ ] Does judgment framework capture (formerly "decision replication" — see [[Interview 003 - Merih (Finance Professor)]], refined in [[Interview 011 — Dairy Chemicals Commercial (Italy)]]) belong in the core methodology, or is it a Phase 3 product extension?
 
 ---
 

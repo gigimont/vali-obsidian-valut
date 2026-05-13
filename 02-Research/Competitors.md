@@ -189,6 +189,16 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 
 ---
 
+## Hubi's AI Consulting Partner (unnamed, near AWW)
+- **What they do:** Build custom AI tools for manufacturing use cases — databases, production-grade solutions
+- **Location:** ~100km from AWW, southern Germany
+- **Relevance:** Hubi ([[Interview 018 — Hubertus von Huelsen (AWW, Germany)]]) is partnering with them to build exactly what we're building — AI-powered knowledge extraction from analog manufacturing processes
+- **Threat level:** Unknown — may be a CTO lead, a technical partner, or adjacent competition. Three-way conversation to be scheduled.
+- **Status:** Not yet assessed. Open question in [[Open Questions]].
+- **Source:** [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]]
+
+---
+
 ## Open Questions
 
 - [x] Who exactly is the US competitor raising $5.4M (from [[1 to 1s — Week 3]])? Is it Clonable?
