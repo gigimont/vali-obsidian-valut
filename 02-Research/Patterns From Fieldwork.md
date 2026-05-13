@@ -180,6 +180,16 @@ Within a single ICP-fit company there are typically three distinct stakeholders 
 - **Source:** [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], cross-referenced with [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
 - **Strength:** Moderate — second confirmation within Filigran/BWB; needs testing in non-engineering ICP
 
+### 37. The atrophy risk: captured intuition can erode the capacity to produce new intuition
+Materializing tacit knowledge into AI-accessible form creates a substitution effect on human skill development. The next generation, with the artifact available, may stop training the underlying judgment that produced it. The organization gains a captured asset but loses its production capability for that asset over time. Distinct from Newton's feasibility objection (Pattern 21) and the partial-capture honesty principle (Pattern 39, Francis) — this is a long-term consequence objection. Forms an objection cluster with Patterns 21 and 39; unified positioning response required before next high-stakes conversation.
+- **Source:** [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]
+- **Strength:** Moderate — single source, most thoughtful structural pushback in dataset from a doubly experienced successor
+
+### 38. Structural separation of ownership and operational succession
+Family ownership can be preserved through a holding GmbH while operational leadership transfers cleanly to a non-family executive. Solves the "family successor not suitable for CEO" problem without forcing the fit or creating conflict. Not a product feature but an adjacent succession architecture pattern worth naming in conversations with founders facing this dilemma.
+- **Source:** [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]], retroactive relevance to Interviews 007 and 012
+- **Strength:** Moderate — well-developed single example
+
 ---
 
 ## Emerging Hypotheses (need more data)

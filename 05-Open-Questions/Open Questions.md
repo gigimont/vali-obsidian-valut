@@ -7,6 +7,7 @@
 ---
 ## Customer & Buyer
 
+- [ ] Should "post-handover former CEO" be defined as a research-interview ICP segment? They are reflective, networked, and over-represented at family business events. How do we reach them in volume? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])
 - [ ] How many search funds operate in Europe and what's the typical knowledge-transfer budget per deal?
 - [ ] How common is "family blocks the sale" as a succession failure mode? Italy-specific or universal?
 - [ ] Should ICP distinguish between "chaotic SMEs" and "structured SMEs with still-tacit knowledge"? Are these two different segments with different willingness to pay?
@@ -61,6 +62,9 @@
 
 ## Strategic
 
+- [ ] **OBJECTION CLUSTER (21 + 37 + 39):** Unified positioning response required before next high-stakes conversation. Newton: "Retroactive capture is not feasible." Roland: "What you do capture risks atrophying the underlying human capability." Francis: "The capture rate is partial; overclaiming damages credibility." Draft response: "We capture transferable frameworks, not full intuition. Our deliverable reduces bottleneck dependency and accelerates onboarding — it is designed to scaffold human judgment, not substitute for it." (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] + cluster)
+- [ ] **POSITIONING DECISION:** Three independent prospects (016, 018, 021) say the succession framing is too narrow. Francis (020) says go narrower for proof of concept. Synthesis: broad applicability story + narrow proof of concept lead. How do we encode this dual framing explicitly in pitch materials? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])
+- [ ] Does Peter May / Hamburg Family Summit warrant a dedicated outreach strategy as a German family business network gateway? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])
 - [ ] Is the AI-enabled virtual data room a product to build or a feature of the larger offering?
 - [ ] Can we quantify: "our product compresses the 3-5 year post-acquisition consulting agreement to X months"?
 - [ ] [[Upstream vs Downstream]] — which timing produces better unit economics?

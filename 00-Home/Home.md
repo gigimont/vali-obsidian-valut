@@ -47,6 +47,7 @@
 - [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]] — tool-making expert bottleneck, pre-transformation GTM angle, AI buddy as CTO lead, "Celonis for analog" validated
 - [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]] — PE perspective, "event-driven not M&A-only" challenge, information vulnerability mapping, Okio case study
 - [[Interview 020 — Francis de Vericourt (ESMT Professor)]] — feasibility stress-test, five challenges, "access not technology" reframe, proof of concept directive
+- [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] — post-handover former CEO; meta-witness to both unstructured (1988) and structured (2024) succession; atrophy critique (Pattern 37); third framing-too-narrow signal; Teampower correction; Peter May / Hamburg Family Summit lead; Leonhard follow-up pending
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -108,6 +109,7 @@
 | 6    | Interview 019: Lorenz / EMH — GTM challenge (always-on vs event-driven), vulnerability mapping validated | ✅ Done |
 | 6    | Week 5 check-in: Armin/Hubi/Lorenz trifecta, Life Book methodology lead, product moving to demo phase | ✅ Done |
 | 6    | Interview 020: Francis (ESMT) — hardest challenge yet: "what's missing in the middle?", narrow the PoC | ✅ Done |
+| 6    | Interview 021: Roland Wübbe (post-handover CEO, H&W Tiefbau) — Patterns 37-38 (atrophy risk, ownership-operations separation); third framing-too-narrow signal; objection cluster (21+37+39) now complete; Peter May / Hamburg channel lead | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
