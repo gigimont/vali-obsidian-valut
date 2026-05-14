@@ -62,6 +62,8 @@
 - [ ] Is the "without license costs" preference a temporary cost-sensitivity or a structural pricing ceiling for Mittelstand technical teams? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] Is trade-association sales more efficient than direct-to-founder outreach for German industrial sectors? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] What is the right GDPR positioning statement for external prospects? Marco's pragmatism is internal-IT-specific; legal departments and Betriebsrat will see it differently. Required before external paid pilot. (from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]])
+- [ ] Can we quantify "our product reduces earn-out percentage from X% to Y%"? This would be the killer M&A metric. (from [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]])
+- [ ] Should we position to sell-side M&A advisors as a channel? "Get documented before you list." (from [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]])
 
 ## Strategic
 
