@@ -21,6 +21,8 @@
 - [[Competitors]] — competitive landscape: Celonis, Clonable, Omnivisor, process mining tools
 - [[ICP Definition]] — who we target, who we don't, triggers, evidence table (v1, needs update)
 - [[Product Evolution Log]] — chronological record of how the product thesis evolved through fieldwork
+- [[Second Brain Landscape]] — technical research on AI knowledge management trends
+
 - ### Weekly Check-ins
 - [[1 to 1s — Week 3]]
 - [[1 to 1s — Week 4]] — Poland fieldwork, M&A angle deepening, ICP parameters discussion
@@ -50,6 +52,7 @@
 - [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] — post-handover former CEO; meta-witness to both unstructured (1988) and structured (2024) succession; atrophy critique (Pattern 37); third framing-too-narrow signal; Teampower correction; Peter May / Hamburg Family Summit lead; Leonhard follow-up pending
 - [[Interview 022 — Marco Nortmeier (Filigran, Germany)]] — internal IT lead; methodology-not-model framing independently confirmed; verbal yes to Filigran internal pilot start; Pattern 35 (three trust thresholds) now fully aligned at Filigran; Obsidian-as-demo externally validated; Pfingsten in-person meeting pending
 - [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]] — sell-side M&A Poland, deal-structure quantified, €20-40K/month advisory costs, 40-60x ROI case
+- [[MI — Mem (a16z Podcast)]] — consumer second brain analysis, zero-organisation principle, personalisation
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 

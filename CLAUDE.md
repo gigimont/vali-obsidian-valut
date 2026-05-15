@@ -7,6 +7,7 @@ Giuseppe + Wolf building an AI-powered "digital due diligence" service for SME k
 00-Home/              → Home.md dashboard (entry point)
 01-Strategy/          → Thesis, ICP, business model, product, competitors
 02-Research/          → All interviews (001-011+), patterns, interview guide
+  Market Intelligence/ → Desk research on second brain landscape, competitors, technology trends. Prefix files with "MI —".
 03-Outreach/          → Email templates, outreach strategy
 04-Deliverables/      → Pitch deck, one-pager, council report
 05-Open-Questions/    → Open Questions.md (living document)
