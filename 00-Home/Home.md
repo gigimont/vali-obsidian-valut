@@ -53,6 +53,7 @@
 - [[Interview 022 — Marco Nortmeier (Filigran, Germany)]] — internal IT lead; methodology-not-model framing independently confirmed; verbal yes to Filigran internal pilot start; Pattern 35 (three trust thresholds) now fully aligned at Filigran; Obsidian-as-demo externally validated; Pfingsten in-person meeting pending
 - [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]] — sell-side M&A Poland, deal-structure quantified, €20-40K/month advisory costs, 40-60x ROI case
 - [[MI — Mem (a16z Podcast)]] — consumer second brain analysis, zero-organisation principle, personalisation
+- [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI maturity model; maps to Patterns 25, 29, 35; 40% productivity stat; free diagnostic tool at haicmm.com
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 

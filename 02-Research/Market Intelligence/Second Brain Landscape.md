@@ -47,7 +47,7 @@ Workers don't just lose time searching — they lose time RECREATING work that a
 ## Entries
 
 - [[MI — Mem (a16z Podcast)]] — consumer second brain, AI-first knowledge management, personalisation
-- *(More entries to be added as research continues)*
+- [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI adoption maturity model; 7 dimensions, 32 capabilities, 5 levels; free tool at haicmm.com; directly validates ICP pain profile and human-centered methodology moat
 
 ---
 
