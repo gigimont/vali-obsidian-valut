@@ -70,6 +70,7 @@
 - [[Standup — 2026-05-06]] — outreach coordination, Nora Fehlbaum strategy, pipeline updates
 - [[Standup — 2026-05-09]] — pitch deck planning, CTO search, 5 new outreach contacts, operational staff insight
 - [[Standup — 2026-05-11]] — week recap, packed Monday ahead, CTO search progressing, outreach delivering
+- [[Standup — 2026-05-14]] — week recap (8 interviews!), Solcus name, PoC roadmap, governance principle, three business rhythms
 - [[Daily Standup Template]] — template standard for the following meetings
 
 ### Open Questions
@@ -114,6 +115,7 @@
 | 6    | Interview 021: Roland Wübbe (post-handover CEO, H&W Tiefbau) — Patterns 37-38 (atrophy risk, ownership-operations separation); third framing-too-narrow signal; objection cluster (21+37+39) now complete; Peter May / Hamburg channel lead | ✅ Done |
 | 6    | Interview 022: Marco Nortmeier (Filigran IT lead) — Pattern 40 added (documentation entropy); Filigran becomes first fully-aligned Pattern 35 site; two-track pilot approach (Filigran internal + independent external beta) needs Giuseppe discussion; Pfingsten in-person meeting | ✅ Done |
 | 7    | Interview 023: Maciej / Translink — most detailed M&A deal mechanics, retention costs quantified, killer ROI case | ✅ Done |
+| 7    | Standup: 8 interviews in 4 days, Solcus named, PoC roadmap (Filigran→AWW→FDU→scale), methodology = moat | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

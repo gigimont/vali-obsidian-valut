@@ -189,7 +189,7 @@ Additionally, Armin gave the strongest unprompted M&A validation yet ("that's ab
 - [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — Bergerhoff's "Standardgrundlage first" (Pattern 34) and Armin's "harvest stories" are two complementary entry points for different industry types. Together they suggest the product needs TWO sequencing modes.
 - [[Interview 015 — Joerg von Weiler (Filigran Poland)]] — Joerg connected us to Armin via YPO/Thomas Marshall. Both confirm Pattern 28 (storytelling > spreadsheet).
 - [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] — Bauermeister introduced Bergerhoff; Armin is connected to Filigran through YPO. The Filigran network is now yielding multiple interview streams.
-- [[Interview 013 — Kevin (Textile Manufacturing, Germany)]] — Kevin's campfire method + Armin's "harvest stories" + Life Book = three independent confirmations plus a professional implementation.
+- [[Interview 013 — David (Textile Manufacturing, Germany)]] — David's campfire method + Armin's "harvest stories" + Life Book = three independent confirmations plus a professional implementation.
 - [[Interview 008 — Antonio Rizza (M&A)]] — Antonio validated M&A from the buyer side; Armin validates from the family business owner's side.
 - [[Interview 011 — Dairy Chemicals Commercial (Italy)]] — "chiavi di lettura" (judgment frameworks) aligns with Armin's "mechanical vs human" split.
 - [[Patterns From Fieldwork]] — confirms Patterns 2, 5, 14, 16, 28

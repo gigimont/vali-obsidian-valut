@@ -176,8 +176,8 @@ We now have **two parallel candidate pilot configurations**, structurally simila
 ### The methodology-not-model framing has independent triple confirmation
 
 Three sources have now independently arrived at the same conclusion:
-- **Francis de Vericourt ([[Interview 020]]):** The transformation gap is the moat. Methodology, not technology.
-- **Roland Wübbe ([[Interview 021]]):** Atrophy critique implicitly demands methodology that scaffolds rather than substitutes — the model is not the answer.
+- **Francis de Vericourt ([[Interview 020 — Francis de Vericourt (ESMT Professor)]]):** The transformation gap is the moat. Methodology, not technology.
+- **Roland Wübbe ([[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]):** Atrophy critique implicitly demands methodology that scaffolds rather than substitutes — the model is not the answer.
 - **Marco Nortmeier (this interview):** Practitioner version — "Die KI hat schon bei mir im Kopf angesetzt." Architecture, framing, and data structuring are the work.
 
 This is now a confirmed strategic direction. The [[Pitch Deck Content]] identity reframe (Francis's Challenge 1 — "specialized consulting practice with proprietary AI-enabled methodology") is reinforced by an independent practitioner voice.
@@ -195,7 +195,7 @@ Filigran fits the primary ICP. Marco's role (internal IT lead, ~110 employees, o
 ## Action Items
 
 - [ ] **PRIORITY:** During Wolf's Pfingsten weekend in Lese (May 22–24), arrange in-person meeting with Marco. Demonstrate Obsidian setup live. Discuss Bauermeister × Marco recorded-conversation pilot logistics.
-- [ ] **PRIORITY:** Discuss with Giuseppe: formally adopt the two-track approach (Filigran internal exploration + independent external beta search). Document in [[Pivot History]] or equivalent.
+- [ ] **PRIORITY:** Discuss with Giuseppe: formally adopt the two-track approach (Filigran internal exploration + independent external beta search). Document in [[Product Evolution Log]] or equivalent.
 - [ ] Discuss with Joerg in parallel: Filigran-internal proof of concept positioning. Joerg's buy-in is the strategic enabler for Marco and Bauermeister to coordinate operationally.
 - [ ] Update [[Pitch Deck Content]] Slide 7 with Marco's unprompted articulation of the cross-source verification value (anonymized quote).
 - [ ] Update [[Problem Statement]] deal-breaker hypothesis #2 (data access) to reflect Marco's pragmatic IT-lead view as a positive data point — without retiring the concern for external prospects.
