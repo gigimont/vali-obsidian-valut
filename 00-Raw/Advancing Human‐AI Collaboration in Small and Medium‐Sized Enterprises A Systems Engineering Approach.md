@@ -513,3 +513,5 @@ Further, Figure [5](#sys70031-fig-0005) provides a visual overview of the final 
 ![](https://incose.onlinelibrary.wiley.com/cms/asset/8b3addd7-0f18-48f6-9494-c2f1dc5cd977/sys70031-fig-0005-m.jpg)
 
 FIGURE 5 Open in figure viewer PowerPoint HAIC-MM's final framework structure.
+
+[[RAW FILES]]

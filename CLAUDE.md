@@ -28,7 +28,8 @@ Templates/            → Meeting Notes Template.md, Daily Standup Template.md
 - Raw sources: stored in 00-Raw/, immutable, never modified by Claude Code
 - Market Intelligence: stored in 02-Research/Market Intelligence/, prefixed "MI —"
 - Vault operations: ingest, audit, query — see "Vault Operations" section below
-- **No phantom links or empty files.** Never create a [[wikilink]] to a file that does not exist in the vault. Never create an empty or placeholder .md file just to satisfy a link. If a note references a concept that doesn't have its own page yet, mention it in plain text without double brackets. Only use [[wikilinks]] when the target file already exists or is being created in the same commit. Before committing, verify that every [[wikilink]] in every new or modified file points to an actual existing file. If unsure, use plain text instead of a wikilink.
+- **Raw file hub link.** Every new file created in 00-Raw/ (except RAW FILES.md and README.md) must include `[[RAW FILES]]` on its last line. This keeps all raw sources clustered in the graph view.
+- **No phantom links or empty files.** Never create a wikilink  to a file that does not exist in the vault. Never create an empty or placeholder .md file just to satisfy a link. If a note references a concept that doesn't have its own page yet, mention it in plain text without double brackets. Only use wikilinks when the target file already exists or is being created in the same commit. Before committing, verify that every wikilink in every new or modified file points to an actual existing file. If unsure, use plain text instead of a wikilink.
 
 ## Living Documents (update after every interview)
 - `02-Research/Patterns From Fieldwork.md` — patterns 1-27, add new ones here
