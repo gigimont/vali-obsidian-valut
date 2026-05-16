@@ -61,6 +61,8 @@ Workers don't just lose time searching — they lose time RECREATING work that a
 - [[MI — Knowledge Elicitation for AI and ML]] — KE techniques applied to LLM infusion; Forbes: "secret sauce locked in experts' brains"; AI-led interviews 19-32% hallucination rate; rules as JSON for RAG; read-back step surfaces second layer of rules
 - [[MI — Knowledge Graphs for Enterprise AI]] — tribal context = the fourth and most valuable context type; GraphRAG > flat RAG for relationship queries; LLM pipeline at 92% entity extraction accuracy; privacy moat = trust-first engagement model
 - [[MI — Computer-Use AI Agents (Clicky, Google DeepMind)]] — screen-resident agents run background tasks in parallel; director-vs-doer framing; YC bet on agent infrastructure; OpenClickie for privacy-compliant European deployments
+- [[MI — The AI Operating Layer (Anthropic, Google, VentureBeat)]] — Anthropic Computer Use API (Action-Execution Layer); 82% of orgs integrating agents within 3 years; privacy moat confirmed; Google world model as universal assistant; platform war gap = SME family businesses underserved by all three
+- [[MI — Context Engineering Platforms (Atlan 2026)]] — four context layers (orchestration/retrieval/memory/governance); "AI failures are context failures, not model failures"; MCP standard; Zep for temporal facts; Theory VC: context platforms = durable customer IP; governance gap = Solcus's structural role
 
 ---
 

@@ -67,6 +67,8 @@
 - [[MI — Knowledge Elicitation for AI and ML]] — KE for LLM infusion; rationalisation trap; rules as JSON; AI-led interviews 19-32% hallucination rate
 - [[MI — Knowledge Graphs for Enterprise AI]] — tribal context; GraphRAG architecture; 92% entity extraction; privacy moat = trust-first model
 - [[MI — Computer-Use AI Agents (Clicky, Google DeepMind)]] — director-vs-doer framing; parallel background agents = Phase 2 architecture; YC funding signal; OpenClickie for EU deployments
+- [[MI — The AI Operating Layer (Anthropic, Google, VentureBeat)]] — Computer Use API; 82% orgs integrating agents within 3 years; platform war gap = SMEs underserved; privacy moat confirmed
+- [[MI — Context Engineering Platforms (Atlan 2026)]] — four context layers; "AI failures are context failures"; MCP standard; Zep temporal graphs; governance gap = Solcus role
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
