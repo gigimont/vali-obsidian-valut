@@ -49,13 +49,13 @@ The speaker distinguishes between hardcoding context into skills (creates drift)
 
 The speaker argues for building on an open standard (GitHub repo + markdown skills files) because "today Claude Code is out in front, next week it might be Codex, and in a few years time, who knows." The format is portable across AI tools.
 
-- **Solcus cross-reference:** Product architecture implication. We should not lock our knowledge base deliverable to a specific AI provider. Our PoC should store knowledge in a format (markdown + vector embeddings) that can be queried by any LLM. Avoids vendor lock-in objection from clients like Marco ([[Interview 022]]) and from Francis's feasibility concerns ([[Interview 020]]).
+- **Solcus cross-reference:** Product architecture implication. We should not lock our knowledge base deliverable to a specific AI provider. Our PoC should store knowledge in a format (markdown + vector embeddings) that can be queried by any LLM. Avoids vendor lock-in objection from clients like Marco ([[Interview 022 — Marco Nortmeier (Filigran, Germany)]]) and from Francis's feasibility concerns ([[Interview 020 — Francis de Vericourt (ESMT Professor)]]).
 
 ### 6. Skills as encoded methodology = our moat argument, technically stated
 
 "A skill is how you encode your standards, your processes, and your taste into one portable file that anyone can run." Replace "skill" with "Solcus knowledge base" and this is our product positioning. The methodology is what's valuable, not the model.
 
-- **Solcus cross-reference:** Methodology-not-model framing confirmed by Marco ([[Interview 022]]), Francis ([[Interview 020]]), and Roland ([[Interview 021]]). This video gives us the technical implementation of that principle: the methodology is encoded in portable, versioned files — not in a proprietary model.
+- **Solcus cross-reference:** Methodology-not-model framing confirmed by Marco ([[Interview 022 — Marco Nortmeier (Filigran, Germany)]]), Francis ([[Interview 020 — Francis de Vericourt (ESMT Professor)]]]), and Roland ([[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]). This video gives us the technical implementation of that principle: the methodology is encoded in portable, versioned files — not in a proprietary model.
 
 ---
 
