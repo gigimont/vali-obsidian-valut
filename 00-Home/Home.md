@@ -57,6 +57,11 @@
 - [[MI — Second Brain Execution Layer (YouTube)]] — two-layer architecture (context + execution); "institutional inheritance" framing; Obsidian-as-demo confirmed
 - [[MI — Context Farming for Company Second Brain (YouTube)]] — automated context farming agents; maintenance layer post-extraction; "context compounds" flywheel; two-phase Solcus model
 - [[MI — Three Ways a Business Functions Like the Human Brain (MIT)]] — succession = demyelination; cortisol kills innovation; brand etymology validated
+- [[MI — Company Brain Concept (Ability.ai, Falconer, YC)]] — enterprise AI validates our thesis; 4-property framework; YC missing primitive; land-and-expand PoC model
+- [[MI — Why Now Is the Knowledge Management Moment (Atlassian)]] — 25% of work week lost to search; AI amplifier argument; knowledge continuum framing
+- [[MI — Science of Entrepreneurs' Brains (US Chamber)]] — founder brain wiring is untransferable; cognitive legacy > knowledge transfer; judgment framework capture
+- [[MI — Contextual Blindness and Knowledge Graphs (LinkedIn)]] — Context Tax; knowledge graph architecture; provenance trace = trust
+- [[MI — Neurofeedback for Corporate Brain Health (KEDAS Clinics)]] — extract before succession stress peaks; campfire = amygdala management
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 

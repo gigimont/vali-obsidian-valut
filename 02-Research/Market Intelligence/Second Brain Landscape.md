@@ -51,6 +51,11 @@ Workers don't just lose time searching — they lose time RECREATING work that a
 - [[MI — Second Brain Execution Layer (YouTube)]] — practitioner demo of context layer (Obsidian) + execution layer (team skills marketplace); names the two-layer architecture Solcus must deliver; "institutional inheritance" framing
 - [[MI — Context Farming for Company Second Brain (YouTube)]] — automated agents pull context from Slack/Fireflies/Notion into Obsidian on a schedule; maps to Lorenz's "always-on" challenge; defines the maintenance layer Solcus needs post-extraction
 - [[MI — Three Ways a Business Functions Like the Human Brain (MIT)]] — neuroplasticity as org model; succession = demyelination; cortisol kills innovation; intellectual backing for the Solcus name
+- [[MI — Company Brain Concept (Ability.ai, Falconer, YC)]] — enterprise AI practitioners converge on same thesis; 4-property framework (capture/update/organize/monitor); YC names it a missing primitive; 10-50 employee sweet spot confirmed
+- [[MI — Why Now Is the Knowledge Management Moment (Atlassian)]] — 25% of work week lost to search; AI amplifies knowledge quality; knowledge is a continuum not just documents; Forrester/Atlassian
+- [[MI — Science of Entrepreneurs' Brains (US Chamber)]] — serial entrepreneurs' unique brain wiring (right insula ↔ prefrontal cortex); cognitive flexibility = what succession destroys; "cognitive legacy" framing
+- [[MI — Contextual Blindness and Knowledge Graphs (LinkedIn)]] — "Context Tax" concept; knowledge graph as nervous system; provenance trace for trust; GraphRAG architecture direction
+- [[MI — Neurofeedback for Corporate Brain Health (KEDAS Clinics)]] — fear brain can't transfer knowledge; cortisol suppresses memory; campfire = amygdala management; extract before succession stress peaks
 
 ---
 
