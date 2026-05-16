@@ -1,14 +1,13 @@
 ---
 title: "Advancing Human‐AI Collaboration in Small and Medium‐Sized Enterprises: A Systems Engineering Approach"
-source: "https://incose.onlinelibrary.wiley.com/doi/10.1002/sys.70031"
+source: https://incose.onlinelibrary.wiley.com/doi/10.1002/sys.70031
 author:
-  - "[[Luis Flavio Ortolano]]"
-  - "[[Erika E. Gallegos]]"
+  - Erika E. Gallegos and Luis Flavio Ortolano
 published:
 created: 2026-05-15
-description: "The integration of Artificial Intelligence (AI) into organizational processes presents unique challenges for Small and Medium-sized Enterprises (SMEs), particularly in fostering effective human-AI c..."
+description: The integration of Artificial Intelligence (AI) into organizational processes presents unique challenges for Small and Medium-sized Enterprises (SMEs), particularly in fostering effective human-AI c...
 tags:
-  - "clippings"
+  - clippings
 ---
 [PDF](https://incose.onlinelibrary.wiley.com/doi/epdf/10.1002/sys.70031 "ePDF")
 

@@ -90,7 +90,7 @@ The "AI Ethics & Human Oversight" dimension includes "AI data compliance: Ensure
 
 HAIC-MM distinguishes itself from existing AI maturity models by being "human-centered" rather than purely technical. The paper found that existing models "overlooked the importance of collaborative human-AI interactions, employee upskilling, and fostering staff trust in AI outputs" — all of which HAIC-MM addresses explicitly.
 
-- **Solcus cross-reference:** Identical moat argument. Our methodology is valuable precisely because it puts human knowledge extraction first, before any AI tooling. Marco ([[Interview 022]]) and Francis ([[Interview 020]]) independently confirmed: "methodology, not model" is the differentiation. HAIC-MM's existence as a validated framework confirms that the human-methodology angle is a legitimate and defensible product moat in the SME AI space.
+- **Solcus cross-reference:** Identical moat argument. Our methodology is valuable precisely because it puts human knowledge extraction first, before any AI tooling. Marco ([[Interview 022 — Marco Nortmeier (Filigran, Germany)]]) and Francis ([[Interview 020 — Francis de Vericourt (ESMT Professor)]]) independently confirmed: "methodology, not model" is the differentiation. HAIC-MM's existence as a validated framework confirms that the human-methodology angle is a legitimate and defensible product moat in the SME AI space.
 
 ---
 
