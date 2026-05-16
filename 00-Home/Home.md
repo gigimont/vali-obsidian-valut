@@ -56,6 +56,7 @@
 - [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI maturity model; maps to Patterns 25, 29, 35; 40% productivity stat; free diagnostic tool at haicmm.com
 - [[MI — Second Brain Execution Layer (YouTube)]] — two-layer architecture (context + execution); "institutional inheritance" framing; Obsidian-as-demo confirmed
 - [[MI — Context Farming for Company Second Brain (YouTube)]] — automated context farming agents; maintenance layer post-extraction; "context compounds" flywheel; two-phase Solcus model
+- [[MI — Three Ways a Business Functions Like the Human Brain (MIT)]] — succession = demyelination; cortisol kills innovation; brand etymology validated
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 

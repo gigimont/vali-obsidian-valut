@@ -50,6 +50,7 @@ Workers don't just lose time searching — they lose time RECREATING work that a
 - [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI adoption maturity model; 7 dimensions, 32 capabilities, 5 levels; free tool at haicmm.com; directly validates ICP pain profile and human-centered methodology moat
 - [[MI — Second Brain Execution Layer (YouTube)]] — practitioner demo of context layer (Obsidian) + execution layer (team skills marketplace); names the two-layer architecture Solcus must deliver; "institutional inheritance" framing
 - [[MI — Context Farming for Company Second Brain (YouTube)]] — automated agents pull context from Slack/Fireflies/Notion into Obsidian on a schedule; maps to Lorenz's "always-on" challenge; defines the maintenance layer Solcus needs post-extraction
+- [[MI — Three Ways a Business Functions Like the Human Brain (MIT)]] — neuroplasticity as org model; succession = demyelination; cortisol kills innovation; intellectual backing for the Solcus name
 
 ---
 
