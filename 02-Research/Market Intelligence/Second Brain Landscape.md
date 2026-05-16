@@ -48,6 +48,7 @@ Workers don't just lose time searching — they lose time RECREATING work that a
 
 - [[MI — Mem (a16z Podcast)]] — consumer second brain, AI-first knowledge management, personalisation
 - [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI adoption maturity model; 7 dimensions, 32 capabilities, 5 levels; free tool at haicmm.com; directly validates ICP pain profile and human-centered methodology moat
+- [[MI — Second Brain Execution Layer (YouTube)]] — practitioner demo of context layer (Obsidian) + execution layer (team skills marketplace); names the two-layer architecture Solcus must deliver; "institutional inheritance" framing
 
 ---
 
