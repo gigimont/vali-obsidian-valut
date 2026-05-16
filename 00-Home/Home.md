@@ -62,6 +62,10 @@
 - [[MI — Science of Entrepreneurs' Brains (US Chamber)]] — founder brain wiring is untransferable; cognitive legacy > knowledge transfer; judgment framework capture
 - [[MI — Contextual Blindness and Knowledge Graphs (LinkedIn)]] — Context Tax; knowledge graph architecture; provenance trace = trust
 - [[MI — Neurofeedback for Corporate Brain Health (KEDAS Clinics)]] — extract before succession stress peaks; campfire = amygdala management
+- [[MI — Storytelling and Tacit Knowledge Capture]] — 73% rely on undocumented knowledge; SECI externalization; campfire → storyboard → validation sequence
+- [[MI — Classical Knowledge Elicitation Methods]] — "gold not in documents"; knowledge acquisition bottleneck; fixed probe script; role game highest tacit yield
+- [[MI — Knowledge Elicitation for AI and ML]] — KE for LLM infusion; rationalisation trap; rules as JSON; AI-led interviews 19-32% hallucination rate
+- [[MI — Knowledge Graphs for Enterprise AI]] — tribal context; GraphRAG architecture; 92% entity extraction; privacy moat = trust-first model
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 

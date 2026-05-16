@@ -56,6 +56,10 @@ Workers don't just lose time searching — they lose time RECREATING work that a
 - [[MI — Science of Entrepreneurs' Brains (US Chamber)]] — serial entrepreneurs' unique brain wiring (right insula ↔ prefrontal cortex); cognitive flexibility = what succession destroys; "cognitive legacy" framing
 - [[MI — Contextual Blindness and Knowledge Graphs (LinkedIn)]] — "Context Tax" concept; knowledge graph as nervous system; provenance trace for trust; GraphRAG architecture direction
 - [[MI — Neurofeedback for Corporate Brain Health (KEDAS Clinics)]] — fear brain can't transfer knowledge; cortisol suppresses memory; campfire = amygdala management; extract before succession stress peaks
+- [[MI — Storytelling and Tacit Knowledge Capture]] — 73% of employees rely on undocumented knowledge (Bloomfire 2025); SECI model; storytelling captures cognitive tacit (beliefs, values); campfire → storyboard → validation sequence
+- [[MI — Classical Knowledge Elicitation Methods]] — "gold is not in the documents" (Hoffman & Lintern); knowledge acquisition bottleneck; fixed probe interview script; role game = highest yield for tacit knowledge; layer sequencing (strategic → task → domain)
+- [[MI — Knowledge Elicitation for AI and ML]] — KE techniques applied to LLM infusion; Forbes: "secret sauce locked in experts' brains"; AI-led interviews 19-32% hallucination rate; rules as JSON for RAG; read-back step surfaces second layer of rules
+- [[MI — Knowledge Graphs for Enterprise AI]] — tribal context = the fourth and most valuable context type; GraphRAG > flat RAG for relationship queries; LLM pipeline at 92% entity extraction accuracy; privacy moat = trust-first engagement model
 
 ---
 
