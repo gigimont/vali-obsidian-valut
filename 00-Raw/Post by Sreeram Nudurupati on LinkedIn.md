@@ -1,13 +1,13 @@
 ---
-title: "Post by Sreeram Nudurupati on LinkedIn"
-source: "https://www.linkedin.com/posts/snudurupati_why-your-internal-ai-is-blind-and-how-to-activity-7429199701520031744-aBod/"
+title: Post by Sreeram Nudurupati on LinkedIn
+source: https://www.linkedin.com/posts/snudurupati_why-your-internal-ai-is-blind-and-how-to-activity-7429199701520031744-aBod/
 author:
-  - "[[Sreeram Nudurupati]]"
+  - Sreeram Nudurupati
 published:
 created: 2026-05-16
-description: "𝗪𝗵𝘆 𝗬𝗼𝘂𝗿 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝗹 𝗔𝗜 𝗶𝘀 𝗕𝗹𝗶𝗻𝗱 (𝗔𝗻𝗱 𝗛𝗼𝘄 𝘁𝗼 𝗙𝗶𝘅 𝘁𝗵𝗲 \"𝗠𝗶𝘀𝘀𝗶𝗻𝗴 𝗠𝗶𝗱𝗱𝗹𝗲\")𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗶𝗻𝗴"
+description: 𝗪𝗵𝘆 𝗬𝗼𝘂𝗿 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝗹 𝗔𝗜 𝗶𝘀 𝗕𝗹𝗶𝗻𝗱 (𝗔𝗻𝗱 𝗛𝗼𝘄 𝘁𝗼 𝗙𝗶𝘅 𝘁𝗵𝗲 "𝗠𝗶𝘀𝘀𝗶𝗻𝗴 𝗠𝗶𝗱𝗱𝗹𝗲")𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗶𝗻𝗴
 tags:
-  - "clippings"
+  - clippings
 ---
 𝗪𝗵𝘆 𝗬𝗼𝘂𝗿 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝗹 𝗔𝗜 𝗶𝘀 𝗕𝗹𝗶𝗻𝗱 (𝗔𝗻𝗱 𝗛𝗼𝘄 𝘁𝗼 𝗙𝗶𝘅 𝘁𝗵𝗲 "𝗠𝗶𝘀𝘀𝗶𝗻𝗴 𝗠𝗶𝗱𝗱𝗹𝗲")
 
@@ -32,3 +32,5 @@ In my latest "𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝘁𝗼 𝗔�
 Next week: It’s the Great AI Bake-Off. 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗲𝗱 𝗣𝗿𝗲-𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 vs. 𝗚𝗿𝗮𝗽𝗵𝗥𝗔𝗚. Which one survives the mission-critical test?
 
 [#AI](https://www.linkedin.com/search/results/all/?keywords=%23ai&origin=HASH_TAG_FROM_FEED) [#KnowledgeGraphs](https://www.linkedin.com/search/results/all/?keywords=%23knowledgegraphs&origin=HASH_TAG_FROM_FEED) [#ArangoDB](https://www.linkedin.com/search/results/all/?keywords=%23arangodb&origin=HASH_TAG_FROM_FEED) [#DataEngineering](https://www.linkedin.com/search/results/all/?keywords=%23dataengineering&origin=HASH_TAG_FROM_FEED) [#AIArchitect](https://www.linkedin.com/search/results/all/?keywords=%23aiarchitect&origin=HASH_TAG_FROM_FEED) [#DEX](https://www.linkedin.com/search/results/all/?keywords=%23dex&origin=HASH_TAG_FROM_FEED) [#GraphRAG](https://www.linkedin.com/search/results/all/?keywords=%23graphrag&origin=HASH_TAG_FROM_FEED) [#GenerativeAI](https://www.linkedin.com/search/results/all/?keywords=%23generativeai&origin=HASH_TAG_FROM_FEED)
+
+[[RAW FILES]]

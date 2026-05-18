@@ -122,3 +122,5 @@ The YC argument is right. Companies running on a real company brain will move dr
 **What does a company brain look like for engineering teams specifically?** For an engineering team, a company brain ingests GitHub (PRs, commits, issues), Slack (threads where decisions get resolved), Linear or Jira (tickets and project context), and existing docs (Notion, Confluence, internal wikis, READMEs). It then keeps the resulting knowledge graph current as the codebase changes. The practical effect is that runbooks, architecture docs, and onboarding materials stay accurate without anyone manually editing them, and an engineer or coding agent asking “why was X built this way” gets an answer grounded in the actual decision thread, not a six-month-old summary.
 
 **How is a shared brain different from a wiki or knowledge base?** A wiki is a write-once surface. A shared brain is a maintained system. The wiki captures what was true the day someone wrote the page; the shared brain reflects what’s true today. Tools like Notion and Confluence are wikis. A company brain sits on top of those tools (and the rest of the stack) and keeps them honest.
+
+[[RAW FILES]]

@@ -1,13 +1,13 @@
 ---
 title: "Follow-on blog: why now is the knowledge management moment"
-source: "https://www.atlassian.com/blog/work-management/knowledge-management-moment"
+source: https://www.atlassian.com/blog/work-management/knowledge-management-moment
 author:
-  - "[[Sheila Ornelas]]"
+  - Sheila Ornelas
 published: 2025-07-07
 created: 2026-05-16
-description: "Generative AI is only as smart as your knowledge base. Learn why now is the time to fix scattered, siloed knowledge — and how to build a culture of sharing."
+description: Generative AI is only as smart as your knowledge base. Learn why now is the time to fix scattered, siloed knowledge — and how to build a culture of sharing.
 tags:
-  - "clippings"
+  - clippings
 ---
 The transformative potential of large language models (LLMs) like ChatGPT is undeniable. Unfortunately, few organizations have the foundation in place to maximize their value.
 
@@ -77,3 +77,5 @@ Knowledge management used to be an afterthought (“we have SharePoint for that,
 Get those right, and you create a powerful engine for learning and innovation. Neglect them, and you’ll pay the price in wasted time, frustrated teams, and unrealized potential.
 
 Interested in learning more? [Watch the whole webinar, on-demand, now.](https://www.atlassian.com/webinars/enterprise-cloud/why-now-is-the-knowledge-management-moment)
+
+[[RAW FILES]]

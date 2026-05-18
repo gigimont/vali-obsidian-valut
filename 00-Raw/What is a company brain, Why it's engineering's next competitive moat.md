@@ -147,3 +147,5 @@ Teams using [Falconer](https://falconer.com/) describe the shift the same way: t
 **How long does it take to set up a company brain?** With a tool like [Falconer](https://falconer.com/), engineering teams connect their sources in minutes and get value immediately. The knowledge graph improves continuously as more context is ingested, and most teams are running by end of day.
 
 **What’s the difference between this and just having good documentation practices?** Documentation practices depend on human discipline, and human discipline reliably loses to shipping pressure. Engineers don’t update docs because the deploy is more important than the doc, and that calculus doesn’t change. A company brain removes the dependency on discipline; documentation stays current because it’s tied directly to the systems that change it, not to someone remembering to write a paragraph after the PR merges.
+
+[[RAW FILES]]

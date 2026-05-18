@@ -1,13 +1,13 @@
 ---
 title: "Company brain: the missing AI automation layer"
-source: "https://www.ability.ai/blog/company-brain-ai-automation"
+source: https://www.ability.ai/blog/company-brain-ai-automation
 author:
-  - "[[Ability.ai]]"
+  - Ability.ai
 published: 2026-05-10
 created: 2026-05-16
-description: "Build a company brain to turn scattered domain knowledge into executable AI skills. Learn how to overcome the real bottleneck in enterprise AI automation..."
+description: Build a company brain to turn scattered domain knowledge into executable AI skills. Learn how to overcome the real bottleneck in enterprise AI automation...
 tags:
-  - "clippings"
+  - clippings
 ---
 May workshop series — Thursdays at 11:30 AM ET, live builds on Trinity [Registration →](https://www.ability.ai/workshops)
 
@@ -145,3 +145,5 @@ Executable skills files are structured, coded instructions that translate domain
 ### How can a mid-market company start building a company brain without a massive consulting project?
 
 The pragmatic approach is a solution-first model. Select a single high-friction operational workflow - such as support triage, sales order processing, or candidate screening - and extract only the specific domain knowledge required for that process. Within weeks, this slice of knowledge is structured and deployed as an executable skill for a governed AI agent, proving immediate value. The company brain then expands through a land-and-expand approach as new workflows are added.
+
+[[RAW FILES]]

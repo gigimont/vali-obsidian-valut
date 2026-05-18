@@ -1,13 +1,13 @@
 ---
-title: "The Science of Entrepreneurs' Brains"
-source: "https://www.uschamber.com/co/start/strategy/science-of-entrepreneurs-brains"
+title: The Science of Entrepreneurs' Brains
+source: https://www.uschamber.com/co/start/strategy/science-of-entrepreneurs-brains
 author:
-  - "[[Anna Baluch]]"
+  - Anna Baluch
 published: 2023-09-29
 created: 2026-05-16
-description: "Studies show that the brains of entrepreneurs are wired differently than people who work traditional jobs. Here's how to use your entrepreneurial mind to succeed in a startup or new venture (according to science)."
+description: Studies show that the brains of entrepreneurs are wired differently than people who work traditional jobs. Here's how to use your entrepreneurial mind to succeed in a startup or new venture (according to science).
 tags:
-  - "clippings"
+  - clippings
 ---
 According to a study by HEC Liège Management School (HEC Liège) and Liège University Hospital (CHU Liège), the [brains of entrepreneurs are wired differently](https://www.eurekalert.org/news-releases/992361) than people who work traditional jobs for a company.
 
@@ -41,3 +41,5 @@ Gain tools to stay informed, competitive, and connected by becoming a U.S. Chamb
 **CO—is committed to helping you start, run and grow your small business. Learn more about the benefits of small business membership in the U.S. Chamber of Commerce,** [**here**](https://www.uschamber.com/join/unleash-small-business-membership?utm_source=CO&utm_medium=referral&utm_campaign=USCC_Mem_SBU)**.**
 
 Published
+
+[[RAW FILES]]
