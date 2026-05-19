@@ -1,0 +1,65 @@
+name: Sync Vault to Website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.md'
+      - '!.github/**'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+        with:
+          path: vault
+
+      - name: Checkout solco-main
+        uses: actions/checkout@v4
+        with:
+          repository: gigimont/solco-main
+          token: ${{ secrets.SOLCO_DEPLOY_TOKEN }}
+          path: website
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync vault files
+        run: |
+          # Remove old vault content in website repo
+          rm -rf website/vault/
+
+          # Copy markdown files (exclude .obsidian, .git, .trash)
+          rsync -av \
+            --include='*/' \
+            --include='*.md' \
+            --exclude='.obsidian/***' \
+            --exclude='.git/***' \
+            --exclude='.claude/***' \
+            --exclude='.trash/***' \
+            --exclude='node_modules/***' \
+            vault/ website/vault/
+
+          FILE_COUNT=$(find website/vault -name '*.md' | wc -l)
+          echo "Synced $FILE_COUNT markdown files"
+
+      - name: Rebuild vault data
+        run: |
+          cd website
+          npm ci
+          node scripts/build-vault-data.js
+
+      - name: Commit and push
+        run: |
+          cd website
+          git config user.name "vault-sync-bot"
+          git config user.email "bot@solco.dev"
+          git add -A
+          git diff --staged --quiet && echo "No changes" && exit 0
+          FILE_COUNT=$(find vault -name '*.md' | wc -l)
+          git commit -m "🧠 vault sync: $FILE_COUNT files — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
