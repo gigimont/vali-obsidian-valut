@@ -90,6 +90,7 @@
 - [[Standup — 2026-05-09]] — pitch deck planning, CTO search, 5 new outreach contacts, operational staff insight
 - [[Standup — 2026-05-11]] — week recap, packed Monday ahead, CTO search progressing, outreach delivering
 - [[Standup — 2026-05-14]] — week recap (8 interviews!), Solcus name, PoC roadmap, governance principle, three business rhythms
+- [[Standup — 2026-05-19]] — Obsidian + Claude automation confirmed; Filigran training session Friday; accelerator application priority; voice interface as investor demo vision
 - [[Daily Standup Template]] — template standard for the following meetings
 
 ### Open Questions
