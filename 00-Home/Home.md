@@ -70,6 +70,7 @@
 - [[MI — Computer-Use AI Agents (Clicky, Google DeepMind)]] — director-vs-doer framing; parallel background agents = Phase 2 architecture; YC funding signal; OpenClickie for EU deployments
 - [[MI — The AI Operating Layer (Anthropic, Google, VentureBeat)]] — Computer Use API; 82% orgs integrating agents within 3 years; platform war gap = SMEs underserved; privacy moat confirmed
 - [[MI — Context Engineering Platforms (Atlan 2026)]] — four context layers; "AI failures are context failures"; MCP standard; Zep temporal graphs; governance gap = Solcus role
+- [[MI — Elicitation Methods in Qualitative Research (Vanessa May)]] — photo/object elicitation for embodied knowledge; artefacts as campfire upgrade; participant control = trust; practical Filigran session protocol
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
