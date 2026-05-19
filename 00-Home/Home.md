@@ -27,6 +27,7 @@
 - [[1 to 1s — Week 3]]
 - [[1 to 1s — Week 4]] — Poland fieldwork, M&A angle deepening, ICP parameters discussion
 - [[1 to 1s — Week 5]] — 3 interviews in one day, Life Book lead, always-on GTM challenge, three-pillar extraction, alpha client strategy
+- [[1 to 1s — Week 6]] — Poland expansion; Filigran PoC Thursday/Friday; closed loop system framing; Mentor Day prep; Ontora (YC) added as direct competitor; Lech Stahlwerke lead
 
 ### Research & Interviews
 - [[Interview 001 — Successor]] — first interview synthesis

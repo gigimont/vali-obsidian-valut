@@ -118,6 +118,7 @@ Major acceleration this week. Three high-quality interviews in a single day (May
 ---
 
 ## Related
+- [[1 to 1s — Week 6]] — next check-in
 - [[1 to 1s — Week 4]] — previous check-in
 - [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]] — olive tree framework, Life Book lead
 - [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]] — pre-transformation GTM, pilot candidate

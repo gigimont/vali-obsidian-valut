@@ -189,6 +189,24 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 
 ---
 
+## Ontora (YC-backed, AI-led employee interviews)
+
+- **Website:** ontora.com — "Read your company like a book"
+- **What they do:** Deploy AI agents that interview every employee simultaneously, then synthesise the results into an operational knowledge base — a live map of how work actually happens, where it breaks, and what to fix first. Deliverable includes themed insights, process maps, and an automation roadmap with ROI prioritisation.
+- **YC-backed:** Yes — listed on YC launch page (W/S 2025 or S2026 cohort based on discovery date)
+- **Model:** AI-led interviews at scale (all employees, parallel); emphasis on speed ("within hours"); focus on operational workflow visibility and automation readiness — not succession
+- **How they differ from Solcus:**
+  - They interview ALL employees (breadth); we go deep on the founder/expert (depth)
+  - Their output is a process/automation map; ours is a queryable knowledge brain with tacit context
+  - Their AI leads the interviews; ours uses human facilitation (campfire method) because tacit knowledge requires trust and narrative, not structured Q&A
+  - No succession angle — they are an operational intelligence product, not a knowledge transfer product
+  - Likely targeting tech-adjacent mid-size companies, not Mittelstand manufacturing SMEs
+- **Threat level:** Medium-High. The positioning is very close (AI-driven company knowledge extraction). If they pivot toward knowledge transfer or succession use cases, or if they develop a human-facilitated track, the overlap becomes significant.
+- **Pitch response when asked:** *"Ontora interviews employees to map operational processes — they're excellent at discovering workflow bottlenecks. We extract the non-verbalisable, non-documentable knowledge that lives only in the expert's head: the judgment, the relationships, the heuristics built over 30 years. That knowledge doesn't surface in a structured AI interview — it requires storytelling, trust, and time. Ontora can read a company. We capture what can't be read."*
+- **Source:** Wolf's research, May 2026 — [[1 to 1s — Week 6]]
+
+---
+
 ## Hubi's AI Consulting Partner (unnamed, near AWW)
 - **What they do:** Build custom AI tools for manufacturing use cases — databases, production-grade solutions
 - **Location:** ~100km from AWW, southern Germany
