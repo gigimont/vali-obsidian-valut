@@ -11,18 +11,17 @@ created: 2026-05-20
 > **Date:** May 20, 2026
 > **Format:** Video call, ~60 min
 > **Interviewer:** Wolf (primary) + Giuseppe
-> **Raw file:** [[RAW FILES]]
 
 ---
 
 ## Interviewee Profile
 
-**Eberhard Müller-Menrad** — Managing director and one of three brothers who ran a 4th-generation German eyewear family business (approx. €50M revenue, fully integrated: design → manufacturing → distribution, factory in Malta). Background: electrical engineering master + INSEAD MBA + 2 years BCG before joining the family business. 30 years in the business. Filed for insolvency ~1 year ago following COVID revenue loss (25-30%) and Ukraine crisis margin collapse.
+**Eberhard Müller-Menrad** — Managing director and one of three brothers who ran a 4th-generation German eyewear family business (approx. €50M revenue, fully integrated: design → manufacturing → distribution, factory in China). Background: electrical engineering master + INSEAD MBA + 2 years BCG before joining the family business. 30 years in the business. Filed for insolvency ~1 year ago following COVID revenue loss (25-30%) and Ukraine crisis margin collapse.
 
-Now: non-executive director in an optical group being assembled (HQ Hong Kong; UK + France operations). Not returning to operational work. Connection to Wolf: YPO network (Wolf's father organised a YPO event in Krakow; likely met as children).
+Now: non-executive director in an optical group being assembled (HQ Hong Kong; UK + France operations). Not returning to operational work. Connection to Wolf: YPO network (Wolf's father connection in a YPO event in Krakow; likely met when Wolf was a child).
 
 **Sons (both YNG members, confirmed warm intro coming):**
-- **Moritz** — Berlin-based, works at NPal (fast-growing company), somewhat active YNG forum member for 3–4 years
+- **Moritz** — Berlin-based, works at Enpal (fast-growing company), somewhat active YNG forum member for 3–4 years
 - **Lucas** — Dubai-based, management consulting background, starting INSEAD MBA this summer, active in local Dubai YNG chapter; reachable via WhatsApp
 
 ---
@@ -39,7 +38,7 @@ The flip side: willingness to share increases sharply once employees understand 
 
 ### 2. Head-of-department sweet spot confirmed cross-industry
 
-In eyewear, the key bottleneck roles were: head of logistics, head of sales, head of purchasing/product-planning ("Montagner"), and the technical feasibility bridge (the person who knew whether factory could manufacture what design wanted). These people "could basically replace any of their staff" — they know the business completely but are not purely strategic.
+In eyewear, the key bottleneck roles were: head of logistics, head of sales, head of purchasing/product-planning and the technical feasibility bridge (the person who knew whether factory could manufacture what design wanted). These people "could basically replace any of their staff" — they know the business completely but are not purely strategic.
 
 The pattern is now confirmed across:
 - **Construction/precast (Filigran, BWB):** Planungsleiter with 130 planners below
@@ -50,11 +49,11 @@ C-suite is too strategic and doesn't hold operational know-how. Front-line worke
 
 ### 3. Construction/Planungsleiter confirmed as right first niche — and why
 
-Eberhard independently validated the Planungsleiter niche choice with a specific argument: construction planning has a high degree of codifiable rules and regulations, meaning you can track whether your extraction is accurate. "The planner slider is a very good pick. It's the right field to start because these type of people need to know the business, need to have experience, need to know the rules of the business and the rules of the game."
+Eberhard validated the Planungsleiter niche choice with a specific argument: construction planning has a high degree of codifiable rules and regulations, meaning you can track whether your extraction is accurate. "The planner slider is a very good pick. It's the right field to start because these type of people need to know the business, need to have experience, need to know the rules of the business and the rules of the game."
 
 This matches Wolf's own reasoning: start where verifiability is highest (construction rules constrain creativity), prove the methodology works, then extend to more judgment-heavy domains (creative industries, fashion, trend intuition).
 
-### 4. ERP covers part of the gap; Solcus closes the rest (Pattern 22 confirmed again)
+### 4. ERP covers part of the gap; Solco closes the rest (Pattern 22 confirmed again)
 
 Eberhard referenced the ERP directly as a framing tool: "You have the entire process of how the value generation of a business from zero to 100. The ERP system covers maybe this much... a lot of it is outside the ERP system. We're trying to close that gap." Clean independent confirmation of Pattern 22 from a non-engineering, distribution-oriented SME.
 
