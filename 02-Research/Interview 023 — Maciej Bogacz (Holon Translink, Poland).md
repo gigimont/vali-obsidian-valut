@@ -131,3 +131,4 @@
 - [[Interview 010 — Newton Campos (Search Fund)]] — Newton's fund buys the companies Maciej's clients sell. Same market, opposite sides.
 - [[Interview 015 — Joerg von Weiler (Filigran Poland)]] — Connection source. Joerg's Polish market experience aligns with Maciej's observations.
 - [[Patterns From Fieldwork]] — sharpens Pattern 17, quantifies Pattern 18, confirms Patterns 14 and 16
+- [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] — next interview; knowledge hoarding + head-of-dept sweet spot cross-industry validation

@@ -190,6 +190,17 @@ Family ownership can be preserved through a holding GmbH while operational leade
 - **Source:** [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]], retroactive relevance to Interviews 007 and 012
 - **Strength:** Moderate — well-developed single example
 
+### 41. Knowledge hoarding as job security
+People protect tacit knowledge to remain valuable and indispensable — a rational self-preservation behaviour, not pathology. The more expertise someone holds, the more they resist sharing it while employed. Willingness to share spikes at genuine career exit: "once people come to a point that they understand that they will leave the business for good, they are more willing to share — and this is typically also the people with the most experience." This is a structural feature of any organisation with concentrated expert knowledge and job-security norms.
+- **Source:** [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] — 30 years of Mittelstand leadership, confirmed from both sides (as manager and as director watching employees)
+- **Product implication:** Extraction from currently-employed middle managers requires a trust framing that makes sharing safe (legacy-building, not role-elimination). For near-retirees, the barrier is lower — but they must have genuinely accepted departure. The pre-succession window is the optimal extraction timing.
+- **Strength:** Strong — named explicitly by an experienced Mittelstand director; aligns with and grounds prior tacit-knowledge resistance signals across dataset
+
+### 42. Head-of-department sweet spot confirmed cross-industry
+The "Planungsleiter level" — heads of logistics, sales, purchasing, planning, technical feasibility — is the universal locus of verifiable, transferable, irreplaceable expert judgment across Mittelstand businesses. These people "could basically replace any of their staff" but their knowledge is not purely strategic. C-suite is too strategic and non-operational. Front-line is too operational and lacks judgment. The head-of-department layer is where domain knowledge, intuition, and experience converge into transferable expert judgment.
+- **Source:** [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]], cross-referenced with [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]], [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
+- **Strength:** Very strong — now confirmed across four different industries (eyewear, construction/precast, aluminium manufacturing, industrial engineering). The strongest cross-industry ICP role-targeting pattern in the dataset.
+
 ### 40. Documentation entropy under external system change
 Even well-documented organizational knowledge decays under temporal pressure from external systems. Microsoft updates, ERP supplier changes, interface partner modifications all trigger a documentation gap because the nachdokumentation that should follow rarely happens — the maintenance is high-effort and triggered by external rather than internal events. Distinct from the static "knowledge trapped" pattern: this is a dynamic decay pattern. Any product must address not just initial capture but an ongoing capture mechanism under external-change pressure. Passive (AI-driven incremental updates) or active (scheduled re-validation) — both are open methodology questions.
 - **Source:** [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]

@@ -53,6 +53,7 @@
 - [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] — post-handover former CEO; meta-witness to both unstructured (1988) and structured (2024) succession; atrophy critique (Pattern 37); third framing-too-narrow signal; Teampower correction; Peter May / Hamburg Family Summit lead; Leonhard follow-up pending
 - [[Interview 022 — Marco Nortmeier (Filigran, Germany)]] — internal IT lead; methodology-not-model framing independently confirmed; verbal yes to Filigran internal pilot start; Pattern 35 (three trust thresholds) now fully aligned at Filigran; Obsidian-as-demo externally validated; Pfingsten in-person meeting pending
 - [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]] — sell-side M&A Poland, deal-structure quantified, €20-40K/month advisory costs, 40-60x ROI case
+- [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] — 4th-gen eyewear Mittelstand (insolvent); knowledge hoarding as job security (Pattern 41); head-of-dept sweet spot cross-industry confirmed (Pattern 42); YNG intro via sons Moritz + Lucas
 - [[MI — Mem (a16z Podcast)]] — consumer second brain analysis, zero-organisation principle, personalisation
 - [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI maturity model; maps to Patterns 25, 29, 35; 40% productivity stat; free diagnostic tool at haicmm.com
 - [[MI — Second Brain Execution Layer (YouTube)]] — two-layer architecture (context + execution); "institutional inheritance" framing; Obsidian-as-demo confirmed
@@ -93,6 +94,7 @@
 - [[Standup — 2026-05-11]] — week recap, packed Monday ahead, CTO search progressing, outreach delivering
 - [[Standup — 2026-05-14]] — week recap (8 interviews!), Solcus name, PoC roadmap, governance principle, three business rhythms
 - [[Standup — 2026-05-19]] — Obsidian + Claude automation confirmed; Filigran training session Friday; accelerator application priority; voice interface as investor demo vision
+- [[Standup — 2026-05-20]] — YNG membership confirmed; Filigran Friday seminar plan; delegation-first methodology; slope of traction as operating principle; Ivor Fellowship deadline June 2
 - [[Daily Standup Template]] — template standard for the following meetings
 
 ### Open Questions
@@ -138,6 +140,8 @@
 | 6    | Interview 022: Marco Nortmeier (Filigran IT lead) — Pattern 40 added (documentation entropy); Filigran becomes first fully-aligned Pattern 35 site; two-track pilot approach (Filigran internal + independent external beta) needs Giuseppe discussion; Pfingsten in-person meeting | ✅ Done |
 | 7    | Interview 023: Maciej / Translink — most detailed M&A deal mechanics, retention costs quantified, killer ROI case | ✅ Done |
 | 7    | Standup: 8 interviews in 4 days, Solcus named, PoC roadmap (Filigran→AWW→FDU→scale), methodology = moat | ✅ Done |
+| 7    | Interview 024: Eberhard Müller-Menrad — knowledge hoarding as job security (Pattern 41); head-of-dept sweet spot cross-industry (Pattern 42); YNG intro; insolvency case confirms succession cliff | ✅ Done |
+| 7    | Standup May 20: YNG confirmed, Filigran seminar plan, delegation-first model, Ivor Fellowship deadline June 2 | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

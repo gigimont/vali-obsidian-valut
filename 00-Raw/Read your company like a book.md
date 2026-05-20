@@ -37,3 +37,5 @@ Ontora has real conversations with employees, follows up intelligently, and surf
 ### Automation roadmap with ROI
 
 Prioritize the workflows worth automating first, with clear reasoning and expected impact instead of vague AI theater.
+
+[[RAW FILES]]
