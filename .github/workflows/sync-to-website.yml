@@ -50,7 +50,7 @@ jobs:
       - name: Rebuild vault data
         run: |
           cd website
-          npm ci
+          npm install
           node scripts/build-vault-data.js
 
       - name: Commit and push
