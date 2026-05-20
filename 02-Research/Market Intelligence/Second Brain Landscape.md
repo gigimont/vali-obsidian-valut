@@ -64,6 +64,9 @@ Workers don't just lose time searching — they lose time RECREATING work that a
 - [[MI — The AI Operating Layer (Anthropic, Google, VentureBeat)]] — Anthropic Computer Use API (Action-Execution Layer); 82% of orgs integrating agents within 3 years; privacy moat confirmed; Google world model as universal assistant; platform war gap = SME family businesses underserved by all three
 - [[MI — Context Engineering Platforms (Atlan 2026)]] — four context layers (orchestration/retrieval/memory/governance); "AI failures are context failures, not model failures"; MCP standard; Zep for temporal facts; Theory VC: context platforms = durable customer IP; governance gap = Solcus's structural role
 - [[MI — Elicitation Methods in Qualitative Research (Vanessa May)]] — photo + object elicitation unlock embodied/sensory/emotional knowledge; artefacts break interview strangeness; participant control = trust mechanism; "the artefact is a door, not the subject"; practical protocol for Filigran sessions
+- [[MI — Silver Tsunami and AI Knowledge Capture]] — 43% of Germany's workforce retires by 2036; $31.5B Fortune 500 knowledge attrition; 20/80 explicit/tacit split; LLM interviews good for atmosphere/depth, weak at summarisation; three KM barriers (social/technical/organisational); junior+veteran pairing
+- [[MI — Domain Expert Knowledge in AI Systems]] — vertical AI 400% YoY growth; expert knowledge is architecturally necessary (not replaceable by data volume); Informed ML = prior knowledge compensates for small datasets; domain knowledge + ML fusion = three mechanisms; $1.4B Intuit expert intelligence platform as benchmark
+- [[MI — Expert Interview Design and Semi-Structured Methods]] — semi-structured interview as the validated KM research method; three extraction prompts (critical incident, process walkthrough, week-one training); post-session debrief protocol; expert selection checklist; interview guide = roadmap not script
 
 ---
 

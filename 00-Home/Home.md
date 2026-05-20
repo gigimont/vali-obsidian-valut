@@ -72,6 +72,9 @@
 - [[MI — The AI Operating Layer (Anthropic, Google, VentureBeat)]] — Computer Use API; 82% orgs integrating agents within 3 years; platform war gap = SMEs underserved; privacy moat confirmed
 - [[MI — Context Engineering Platforms (Atlan 2026)]] — four context layers; "AI failures are context failures"; MCP standard; Zep temporal graphs; governance gap = Solcus role
 - [[MI — Elicitation Methods in Qualitative Research (Vanessa May)]] — photo/object elicitation for embodied knowledge; artefacts as campfire upgrade; participant control = trust; practical Filigran session protocol
+- [[MI — Silver Tsunami and AI Knowledge Capture]] — 43% of Germany's workforce retires by 2036; $31.5B Fortune 500 knowledge attrition; 20/80 split; LLM interview findings (Kempten); three KM barriers; junior+veteran pairing
+- [[MI — Domain Expert Knowledge in AI Systems]] — vertical AI 400% YoY; expert knowledge architecturally necessary for AI; Informed ML; $1.4B Intuit expert intelligence benchmark
+- [[MI — Expert Interview Design and Semi-Structured Methods]] — semi-structured interviews; three extraction prompts; post-session debrief protocol; expert selection checklist
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
