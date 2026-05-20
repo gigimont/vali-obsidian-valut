@@ -7,7 +7,11 @@
       "Bash(git *)",
       "Bash(chmod 644 /Users/callmepio/Desktop/Vali_Project/.git/logs/refs/heads/main)",
       "Bash(xargs -0 ls)",
-      "Bash(xargs -0 git add)"
+      "Bash(xargs -0 git add)",
+      "Bash(grep -v '^$')",
+      "Bash(cat)",
+      "Bash(chmod +x /tmp/check_phantoms.sh)",
+      "Bash(/tmp/check_phantoms.sh)"
     ]
   }
 }
