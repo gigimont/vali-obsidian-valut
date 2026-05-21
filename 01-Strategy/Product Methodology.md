@@ -36,6 +36,12 @@ Extraction within an ICP-fit company follows three distinct trust thresholds. Th
 
 **Pattern 35 fully aligned at:** Filigran (Stefan Weiler + Bauermeister + Marco Nortmeier). First complete-alignment case in the dataset. Confirms the methodology.
 
+### The Job Security Paradox
+- Employees often view their undocumented, proprietary knowledge as their core value to the company (job security).
+- Knowledge extraction must be framed delicately to prevent employees from feeling they will be "ditched" once their expertise is captured.
+- The intervention must be framed around **delegation**, emphasizing the employee's human value rather than focusing purely on extracting their hoarded knowledge.
+- *Source:* [[Interview 025 — David Richter (Suprima GmbH, Germany) — Follow-up]]
+
 **Source:** Pattern 35 from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], operationally confirmed by [[Interview 022 — Marco Nortmeier (Filigran, Germany)]].
 
 ---
@@ -51,11 +57,14 @@ The captured artifact decays under temporal pressure from external systems (Micr
 - **Scheduled re-validation cycles** — every 6 months, AI-led pass that flags stale content for human review
 - **Proactive alerts** — "Key employee X gave notice → 3 knowledge clusters at risk → immediate extraction session needed"
 
+### Architecture Validation
+- SME owners independently visualize and request a technical stack consisting of a structured, markdown-based knowledge layer (e.g., Obsidian) topped with an LLM interaction layer (e.g., Claude) to query the information natively.
+
 **Cross-references:**
 - [[MI — Context Farming for Company Second Brain (YouTube)]] — automated context-pull agents from Slack/Notion/Fireflies
 - [[MI — Context Engineering Platforms (Atlan 2026)]] — four-layer context architecture (orchestration / retrieval / memory / governance)
 - [[1 to 1s — Week 6]] — closed-loop knowledge system framing
-- Pattern 40 source: [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]
+- Pattern 40 source: [[Interview 022 — Marco Nortmeier (Filigran, Germany)]], operationally confirmed by [[Interview 025 — David Richter (Suprima GmbH, Germany) — Follow-up]]
 
 ---
 
@@ -81,6 +90,10 @@ We do not act as consultants. We do not tell a founder how to run his business. 
 - We document the reality of the business, not the ideal version
 - Improvements become obvious once documentation exists — we don't have to name them
 - The founder never feels critiqued; he feels understood and respected
+
+**The "Gentle" Entry (Change Management)**
+- The initial approach should rely on gentle conversation, intentionally avoiding immediate announcements of implementation or systemic change.
+- This conversational "seed-planting" ensures employees feel involved from the beginning, turning them into active participants who feel ownership over the transition.
 
 **What we never do:**
 - Name bottlenecks or inefficiencies unprompted
@@ -123,6 +136,10 @@ Structured storytelling sessions — not questionnaires — that surface tacit k
 - Nostalgic framing bypasses defensiveness and tech fatigue
 - AI transcription + synthesis: transcript → judgment framework capture
 - Follow-up prompting to fill gaps identified in Pillars 1 and 2
+### Contextual Shadowing
+- Theoretical interviews are often too difficult for experts who rely heavily on intuition or "gut feeling".
+- The most effective elicitation method is putting the expert in their operational context and having them explain their actions while actively performing them (shadowing).
+- *Source:* [[Interview 025 — David Richter (Suprima GmbH, Germany) — Follow-up]]
 
 **Sequencing depends on domain (Pattern 34):**
 - *Technical-domain SMEs* (engineering, manufacturing): the normative/document layer (Standardgrundlage) must be ingested via Pillar 1 FIRST. Storytelling adds the judgment layer on top once the standard-answer capability is in place.

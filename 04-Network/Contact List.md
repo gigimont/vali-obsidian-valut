@@ -22,17 +22,17 @@ Contact details (email, phone) are deliberately not stored in this vault. Use Ou
 
 ## Must contact
 
-| Name | Channel | Last contact | Next step |
-|------|---------|--------------|-----------|
-| [[Oskar Gieburowski]] | — | — | Send meeting time options (already agreed in principle) |
-| [[Michael Pram Rasmussen]] | Family (uncle) | — | Initial outreach |
-| [[Leopold Weiler]] | Family (uncle) | — | Initial outreach |
-| [[Grzegorz Ptak]] | Family (uncle) | — | Initial outreach |
-| [[Andreas Pram Rasmussen]] | Family (cousin) — 3Shape | — | Initial outreach |
-| [[Krzysztof Kwiatkowski]] | Industry (Leier Polska) | — | Initial outreach |
-| [[Mikkel Karlsen]] | Industry (GE Healthcare) | — | Initial outreach |
-| [[Aneta Sikora]] | — | — | Initial outreach |
-| [[MaCeVi]] | — | — | Initial outreach |
+| Name                       | Channel                  | Last contact | Next step                                               |
+| -------------------------- | ------------------------ | ------------ | ------------------------------------------------------- |
+| [[Oskar Gieburowski]]      | —                        | —            | Send meeting time options (already agreed in principle) |
+| [[Michael Pram Rasmussen]] | Family (uncle)           | —            | Initial outreach                                        |
+| [[Leopold Weiler]]         | Family (uncle)           | —            | Initial outreach                                        |
+| [[Grzegorz Ptak]]          | Family (uncle)           | —            | Initial outreach                                        |
+| [[Andreas Pram Rasmussen]] | Family (cousin) — 3Shape | —            | Initial outreach                                        |
+| [[Krzysztof Kwiatkowski]]  | Industry (Leier Polska)  | —            | Initial outreach                                        |
+| [[Mikkel Karlsen]]         | Industry (GE Healthcare) | —            | Initial outreach                                        |
+| [[Aneta Sikora]]           | —                        | —            | Initial outreach                                        |
+
 
 ## Scheduled
 
@@ -43,12 +43,12 @@ Contact details (email, phone) are deliberately not stored in this vault. Use Ou
 
 ## Awaiting reply
 
-| Name | Channel | Last contact | Next step |
-|------|---------|--------------|-----------|
-| [[Sebastian Grass]] | FDU (CEO, via Bergerhoff) | — | Bump if no reply in 1 week — Bergerhoff forwarded |
-| [[Mr Van Der Leyly]] | Friend's father (Laurens) | — | Bump if needed |
-| [[Scott Zuckerman]] | Friend's father | — | Bump if needed |
-| [[Filippo Parovel]] | — | — | Bump if no response in 1 week |
+| Name                 | Channel                   | Last contact | Next step                                         |
+| -------------------- | ------------------------- | ------------ | ------------------------------------------------- |
+| [[Sebastian Grass]]  | FDU (CEO, via Bergerhoff) | —            | Bump if no reply in 1 week — Bergerhoff forwarded |
+| [[Mr Van Der Leyly]] | Friend's father (Laurens) | —            | Bump if needed                                    |
+| [[Scott Zuckerman]]  | Friend's father           | —            | Bump if needed                                    |
+
 
 ## Met — follow-up pending
 

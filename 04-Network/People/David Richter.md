@@ -7,6 +7,7 @@ LinkedIn cold-outreach success. Two meetings to date. Kevin's "campfire method" 
 
 ## What we discussed
 [[Interview 013 — David (Textile Manufacturing, Germany)]] — campfire method (Pattern 28); tech must not feel like tech (Pattern 29); 20-year ghost (Pattern 30).
+[[Interview 025 — David Richter (Suprima GmbH, Germany) — Follow-up]] — follow-up 
 
 ## Next step (personal)
 No immediate action — keep warm.
