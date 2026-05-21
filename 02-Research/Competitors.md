@@ -209,6 +209,43 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 
 ---
 
+## SAP-Implementation Knowledge-Capture Startup (unnamed, €3.5M raised)
+
+**Surfaced via:** [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] (Wolf referenced this in conversation)
+
+**What we know:**
+
+| Detail | Value |
+|---|---|
+| Funding | €3.5M raised |
+| Target customer | Consulting firms running SAP transformations |
+| Product | Knowledge capture for SAP implementation methodology — which questions to ask, which decisions to make, how to structure the transformation |
+| Long-term direction | Skip the consultants; tools direct to enterprise |
+
+**Why this matters:**
+- Same problem space (capturing expert methodology), different wedge (consulting firms vs SMEs)
+- Funded knowledge-capture startups exist — validates the category
+- The 4-week-engagement structure of SAP transformations is structurally similar to our Phase 1
+- Not a direct competitor today (different ICP, different deliverable), but worth monitoring if they expand into mid-market direct sales
+
+**Action:** Research the company name and current product. Add to "Flagged for Research" if identified.
+
+---
+
+## Convergent Pressure: Vertical AI / Expert Intelligence Platforms
+
+The most strategically important market signal from MI research: **vertical AI solutions are growing 400% YoY** ([[MI — Domain Expert Knowledge in AI Systems]]). Companies like Intuit's $1.4B expert intelligence platform, Anthropic's Claude Use API ([[MI — The AI Operating Layer (Anthropic, Google, VentureBeat)]]), and the context engineering platform category ([[MI — Context Engineering Platforms (Atlan 2026)]]) are all converging toward the same insight Solcus is built on: **domain expertise + AI architecture > general-purpose models.**
+
+**Where competition is coming from:**
+- **Enterprise AI infrastructure (Atlan, Zep, Mem0, Letta)** — context engineering platforms that assume the company already has digital data to ingest. They don't extract from people; they organise what's already digital. Solcus operates upstream of where they start.
+- **Computer-use AI (Anthropic Computer Use, Google DeepMind, Clicky YC):** screen-resident agents that observe workflows. Parallel to our Pillar 2 (computer-use tracking) but they aim at task execution, not knowledge extraction. Will eventually overlap with Solcus's Phase 2 (always-on observation).
+- **Big 4 AI consulting practices:** McKinsey/BCG/Deloitte/EY/PwC are all building "AI for Mittelstand" lines. Their disadvantage (per Francis de Vericourt's argument): they cannot get the trust of a Mittelstand founder. Solcus's moat is access + methodology, not technology.
+
+**Positioning:**
+Solcus is structurally positioned at the front of the vertical AI wave but addresses the layer that pure AI infrastructure cannot reach — the human expert whose knowledge has never been digitised. The vertical AI category is the rising tide that lifts our boat; the enterprise AI platforms are not direct competitors but the architecture we will eventually integrate with.
+
+---
+
 ## Hubi's AI Consulting Partner (unnamed, near AWW)
 - **What they do:** Build custom AI tools for manufacturing use cases — databases, production-grade solutions
 - **Location:** ~100km from AWW, southern Germany

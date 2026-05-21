@@ -123,19 +123,69 @@ Vague: "small and medium enterprises going through succession." No size range, n
 
 ---
 
-## Current State (May 12, 2026)
+## Phase 4 — Identity crystallization (Week 6, Interviews 020–024)
 
-**Product:** A 4-6 week service that captures context, culture, and decision logic from SME experts through three pillars (storytelling, computer tracking, document ingestion) and delivers a structured report + queryable knowledge system.
+### Pivot 15 — Solcus named (May 14, 2026)
+- **Trigger:** Brainstorming session ([[Standup — 2026-05-14]])
+- **What changed:** Project named **Solcus** — from Latin *sulcus* (brain fold where knowledge is stored) + Italian *solco* (furrow — the trace left by decades of work). Captures both the second-brain concept and the organic, earthy SME context.
+- **What survived:** Adopted across all material going forward (Standups, 1:1s, Competitors). Pitch Deck refreshed May 20 to integrate the name.
 
-**ICP:** Family-owned SMEs, 20-100 employees, €5-25M revenue, Germany/Italy. BUT: the "motivated technical insider" persona may generalize across company sizes.
+### Pivot 16 — "You're a consulting company" identity reframe (May 12)
+- **Trigger:** [[Interview 020 — Francis de Vericourt (ESMT Professor)]]
+- **What changed:** Francis reframed the entire product as a consulting company, not a tech company. "Let me try to reframe what you're telling me: you want to be a consulting company for small-middle, family-owned business, to have them be optimized." The moat is ACCESS + METHODOLOGY + TRUST, not AI tools. "Any consulting company could do this if they had access."
+- **Independent confirmation:** Marco Nortmeier ([[Interview 022 — Marco Nortmeier (Filigran, Germany)]]) operationally demonstrated the same insight — "die KI hat bei mir im Kopf angesetzt" — the methodology lives in the framing of the question, not in the model. Sundberg & Holmström ([[MI — Domain Expert Knowledge in AI Systems]]) provide the academic backing: three-mechanism framework (consolidation → algorithmic mediation → naturalization).
+- **Status:** ADOPTED. Positioning shifted from "AI startup" to "specialised consulting practice with proprietary AI-enabled methodology."
 
-**GTM:** M&A entry (highest urgency) → always-on retention (recurring revenue) → upstream expansion (founder-side succession, pre-transformation).
+### Pivot 17 — Closed-loop knowledge system (May 19–20)
+- **Trigger:** [[1 to 1s — Week 6]], [[Interview 022 — Marco Nortmeier (Filigran, Germany)]], [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]] — Pattern 40 (documentation entropy) sourced from Marco
+- **What changed:** The product is no longer a one-off engagement. **Phase 1** = 4-6 week extraction engagement (campfire + computer-use tracking + document ingestion → structured report + queryable knowledge base). **Phase 2** = always-on knowledge system that self-updates through ongoing meeting transcription, decision logging, and quarterly refresh interviews. This is the response to Pattern 40 — the captured artifact decays without continuous input.
+- **MI cross-reference:** [[MI — Context Farming for Company Second Brain (YouTube)]] describes the technical pattern. [[MI — Context Engineering Platforms (Atlan 2026)]] describes the layer architecture.
+- **Status:** Conceptual. Not yet built. Defines the product evolution path and unit-economics shift from one-off service to recurring revenue.
+
+### Pivot 18 — Retirement window timing (May 20)
+- **Trigger:** [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] — Pattern 41 (knowledge hoarding as job security; flips to openness at exit)
+- **What changed:** The ICP must include a TIMING dimension. Experts approaching retirement (2-5 year window) are maximally open to knowledge extraction. The same outreach that hits hoarding defenses today may succeed 18 months later. Screen for retirement timing explicitly in prospect qualification.
+- **Pattern interaction:** Partially resolves Pattern 37 (Roland's atrophy critique). If engagement happens at retirement, atrophy concern dissolves — the expert is leaving anyway.
+- **Status:** Hypothesised. Needs validation in next 5-10 prospect conversations. Adopted in ICP Definition v3.
+
+### Pivot 19 — Delegation-first methodology framing (May 20)
+- **Trigger:** [[Standup — 2026-05-20]] (Filigran Friday seminar planning)
+- **What changed:** The product should be framed as enabling delegation, not as documenting knowledge. "We help your expert delegate more effectively" outperforms "we document what your expert knows" because delegation maps to a felt operational problem (the head of department is overloaded), while documentation maps to an abstract future risk. This is also the scalability model: leave the client with a self-sufficient framework rather than doing the work for them.
+- **Internal application:** The Filigran Friday seminar format is structured around delegation-first — give Marco the methodology and onboarding, then let Filigran run it themselves. Solcus provides framework + on-call support, not labour-as-a-service.
+- **Status:** Adopted as the operational identity. Replaces "documentation service" framing in customer-facing language.
+
+---
+
+## Current State (May 20, 2026)
+
+**Product:** **Solcus** — a specialised consulting practice with proprietary AI-enabled methodology. Phase 1 = 4-6 week engagement that captures context, culture, and decision logic from SME experts through three pillars (storytelling, computer tracking, document ingestion) and delivers a structured report + queryable knowledge base. Phase 2 = always-on closed-loop knowledge system that self-updates.
+
+**ICP:** Role-based (not size-based). Head-of-department / Planungsleiter layer inside Mittelstand companies that have hit the ERP ceiling. Timing axis: 2-5 years before key expert retirement. Cross-industry confirmed (construction, aluminium, eyewear, textile/manufacturing). See [[ICP Definition]] v3.
+
+**GTM:** Three angles validated:
+1. M&A entry (highest urgency, 40-60× ROI per Maciej's data)
+2. Pre-transformation documentation ("do your homework before McKinsey arrives")
+3. Preserve & Scale (founder succession, operational continuity)
+Sell-side advisor channel ("get documented before we list you") is a hypothesised fourth lane.
+
+**Dataset:** 24 interviews across Germany, Italy, Poland. 42 patterns (36 active; documented gaps at 9, 10, 11, 36). 18 Market Intelligence notes synthesizing academic and industry research.
+
+**Pilot status:**
+- **Filigran (internal PoC):** First fully-aligned Pattern 35 site (Stefan + Bauermeister + Marco). Verbal yes from Marco ("Also machen wir's") to a recorded Bauermeister × Marco extraction pilot. Pfingsten weekend (May 22-24) in-person kickoff planned. Two-track approach: Filigran internal exploration + independent external beta search.
+- **AWW (external beta candidate):** Three-way meeting with Hubi + his AI consulting partner pending. Tool-making expert use case is the analogue of the Filigran Bauermeister setup.
+- **Bergerhoff / BWB-Gruppe:** Awaiting reply on warm intro forwarded by Bauermeister.
+
+**Immediate forcing functions:**
+- Mentor Day presentation: May 27 (cutoff May 26)
+- Ivor Fellowship application: deadline June 2
+- Antler accelerator engagement: ongoing
 
 **Open strategic questions:**
-1. Always-on vs event-driven — consulting practice or SaaS?
-2. Role-based vs size-based ICP — who exactly is the customer?
-3. Can we actually extract tacit knowledge at sufficient quality? (Life Book may answer)
-4. Who is the technical co-founder?
+1. **Closed-loop maintenance mechanism (Phase 2 design):** Passive AI-driven updates or scheduled re-validation? Hybrid? Must be answered before any paid recurring engagement.
+2. **Identity ambiguity:** Lucas Müller-Menrad (Interview 024) vs "Müller-Menrad PwC Dubai M&A" (Armin's offer, Interview 017) — same person or different?
+3. **Can we quantify "Solcus reduces earn-out from X% to Y%"?** This would be the killer M&A metric (Maciej's open question).
+4. **Should "stuck in the middle" consolidation pressure become a fourth urgency force** alongside succession, AI window, and talent scarcity? (Eberhard, Interview 024)
+5. Who is the technical co-founder? (Carried from v5.)
 
 ---
 

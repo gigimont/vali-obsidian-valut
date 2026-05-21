@@ -2,8 +2,78 @@
 
 #strategy #business-model #living-document
 
-> **Status:** Exploratory — no final decision made
+> **Status:** Updated May 20, 2026 — current thinking captured below; exploratory frameworks preserved further down
 > **Context:** First analyzed during the [[Origin Story]] bootcamp; carried into the Vali Hub incubation phase
+
+---
+
+## Current Business Model — May 20, 2026 (post-Interviews 020–024)
+
+### Phase 1 — Service Engagement (now)
+
+- **Format:** 4-6 weeks, hybrid on-site + remote
+- **Pricing:** Fixed fee **€15-25K per engagement**
+- **Deliverables:**
+  - Structured report (organisational knowledge map, single-points-of-failure inventory, role knowledge profiles)
+  - Queryable knowledge base (Obsidian-based, AI-queryable via Claude or equivalent)
+  - Onboarding for the client's internal IT lead to operate the system independently (delegation-first per Pivot 19)
+- **Target Year 1:** 2-3 paid engagements ([[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] Filigran internal PoC + [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]] AWW external beta + one third-party — likely Bergerhoff/BWB or an FDU lead)
+- **Pricing rationale:** Maciej's data ([[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]]) — €15-25K fee against €1M+ potential savings on a €20M M&A deal = 40-60× ROI. Lynka pushback ([[Interview 006 - John Lynch (Lynka)]]) — owners expect "humble money first, value at 3 months, confirmed at 6." €15-25K satisfies both anchors.
+
+### Phase 2 — Always-On Closed-Loop System (next 12-18 months)
+
+- **Format:** Monthly subscription
+- **Pricing:** **€2-5K/month**
+- **Mechanism (per [[Product Methodology]] Maintenance Mechanism):**
+  - Continuous meeting transcription feeding the knowledge base
+  - Quarterly refresh interviews with key experts
+  - Computer-use tracking as passive continuous input
+  - Proactive alerts: "Key employee X gave notice — 3 knowledge clusters at risk"
+- **Target:** Convert Phase 1 clients to Phase 2 after initial engagement (60% conversion target)
+- **Strategic value:** Recurring revenue + competitive moat (the knowledge base becomes the client's daily reference; switching cost increases with every quarter)
+- **MI cross-references:** [[MI — Context Farming for Company Second Brain (YouTube)]], [[MI — Context Engineering Platforms (Atlan 2026)]]
+
+### M&A Wedge (parallel deployment)
+
+- **Trigger:** Founder enters sale preparation; sell-side advisor initiates DD
+- **Format:** Deployed within Phase 1 timeline (4-6 weeks) inside the 2-2.5 month DD window
+- **Pricing:** Same as Phase 1 — €15-25K
+- **ROI case (Maciej's quantification, [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]]):**
+  - Earn-out reduction of 5% on a €20M deal = €1M saved
+  - Advisory agreement compression (24 months → 6 months) at €30K/month = €540K saved
+  - Plus reduced DD timeline + R&W insurance savings
+  - **Total potential saving: €1M+ against €15-25K fee = 40-60× ROI**
+- **Channel hypothesis:** Sell-side M&A advisors ("Get documented before we list you"). [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]] is the channel candidate; [[Interview 008 — Antonio Rizza (M&A)]] is the buy-side analogue.
+
+### Pre-Transformation Documentation Wedge (third lane)
+
+- **Trigger:** Company about to embark on an AI / ERP / digital transformation initiative ([[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
+- **Framing:** "Do your homework before McKinsey arrives"
+- **Pricing:** Phase 1 baseline (€15-25K), with optional Phase 2 continuation
+- **Buyer:** Operations / IT lead (not founder); budget source = OPEX, not succession-event budget
+- **Status:** Validated by 2 independent sources; first paid engagement pending
+
+### Revenue Model Summary
+
+- **Year 1:** Service fees from 2-3 Phase 1 engagements = €30-75K revenue. Not venture-scale, but defensible and methodology-building.
+- **Year 2:** Phase 2 conversion + new Phase 1 engagements → recurring revenue base of ~€100-200K ARR + ~€100K service fees.
+- **Year 3+:** Channel partnerships (sell-side M&A, Fachvereinigungen, Antler portfolio) scale the Phase 1 funnel; Phase 2 recurring revenue compounds.
+
+The service engagements build the proprietary methodology that makes Phase 2 possible. This is the Sundberg & Holmström three-mechanism framework ([[MI — Domain Expert Knowledge in AI Systems]]) applied to business: consolidation (interviews) → algorithmic mediation (iteration with experts) → naturalization (production usage = Phase 2).
+
+### What changed from prior business-model thinking
+
+| v1 (exploratory) | v2 (May 20, 2026) |
+|---|---|
+| Break-even report + upsell consulting | Service engagement priced as standalone value (€15-25K not break-even) |
+| B2B2B broker channel as primary | Direct + sell-side M&A channel + post-handover champion referral network |
+| €5-10K diagnostic price anchor (Prisma signal) | €15-25K (Maciej's ROI math justifies higher; "humble money first" framing supports lower end) |
+| SaaS subscription rejected ("Founders hate logins") | Phase 2 monthly subscription positioned as monitoring service, not software |
+| "Service or SaaS?" framed as binary | Service first, SaaS recurring after = sequential not exclusive |
+
+---
+
+
 
 ---
 

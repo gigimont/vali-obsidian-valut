@@ -2,8 +2,74 @@
 
 #strategy #product #core #living-document
 
-> **Status:** Working definition — not finalized
+> **Status:** Working definition — updated May 20, 2026 to reflect Interviews 020-024 and Patterns 35, 40, 41
+> **Project name:** Solcus
 > **Purpose:** Formalizes how we extract, structure, and deliver operational knowledge
+
+---
+
+## Pillar Sequencing — Domain-Dependent (Pattern 34)
+
+The three pillars are universal; the **order** in which they are applied depends on the domain:
+
+### Technical domains (manufacturing, engineering, construction)
+1. **Pillar 1 — Document/Archive Ingestion FIRST.** Normative documents, technical standards, regulations, past project archives (Standardgrundlage). The standard-answer layer must exist before the judgment layer adds value.
+2. **Pillar 2 — Computer-Use Tracking.** Passive workflow observation captures how the existing standards are applied operationally.
+3. **Pillar 3 — Campfire Storytelling LAST.** Judgment extraction on top of the established normative + workflow layers. Stories surface the exceptions, the "when I see X I do Y because Z" logic that lives outside the normative framework.
+
+### Relational domains (commercial, sales, leadership, founder-decision)
+1. **Pillar 3 — Campfire Storytelling FIRST.** In these domains, judgment IS the standard layer. Process documentation is thin or non-existent; the founder's interpretive framework is the operating system.
+2. **Pillar 2 — Computer-Use Tracking.** Email metadata, communication patterns, decision logs supplement the narrative.
+3. **Pillar 1 — Document Ingestion.** Supplements the judgment layer — past contracts, customer histories, decision artifacts.
+
+**Source:** Pattern 34 from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], confirmed by [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]].
+
+---
+
+## The Three Trust Thresholds (Pattern 35)
+
+Extraction within an ICP-fit company follows three distinct trust thresholds. The methodology must enter at the layer of highest openness and earn access to the deeper layers over time:
+
+1. **Technical layer (high openness)** — Domain experts (Planungsleiter, engineers, tool-making leads) share readily because they recognise the bottleneck themselves. Entry point.
+2. **Commercial/operational layer (moderate)** — Operations leads, internal IT (Marco at Filigran), commercial managers. Open if the framing is value-enhancing (Personalkosten reduction, onboarding speed, ERP-gap closure).
+3. **Ownership/strategic layer (protective)** — CEOs, family owners, board-level stakeholders. Protective of the business-model layer. Requires deepest trust. Activate only after technical + operational layers have produced visible results.
+
+**Pattern 35 fully aligned at:** Filigran (Stefan Weiler + Bauermeister + Marco Nortmeier). First complete-alignment case in the dataset. Confirms the methodology.
+
+**Source:** Pattern 35 from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], operationally confirmed by [[Interview 022 — Marco Nortmeier (Filigran, Germany)]].
+
+---
+
+## Phase 2 — Maintenance Mechanism (Pattern 40)
+
+The captured artifact decays under temporal pressure from external systems (Microsoft updates, ERP supplier changes, interface partner modifications). Nachdokumentation rarely happens. Any product must include an ongoing capture mechanism beyond the initial 4-6 week engagement.
+
+**Phase 2 closed-loop knowledge system:**
+- **Continuous meeting transcription** feeding the knowledge base (Slack, Teams, in-person meetings via voice recorders)
+- **Quarterly refresh interviews** with key experts — 30-60 minutes each, structured around recent decisions and changes
+- **Computer-use tracking** as passive continuous input (workflow changes, new tools, decision artifacts)
+- **Scheduled re-validation cycles** — every 6 months, AI-led pass that flags stale content for human review
+- **Proactive alerts** — "Key employee X gave notice → 3 knowledge clusters at risk → immediate extraction session needed"
+
+**Cross-references:**
+- [[MI — Context Farming for Company Second Brain (YouTube)]] — automated context-pull agents from Slack/Notion/Fireflies
+- [[MI — Context Engineering Platforms (Atlan 2026)]] — four-layer context architecture (orchestration / retrieval / memory / governance)
+- [[1 to 1s — Week 6]] — closed-loop knowledge system framing
+- Pattern 40 source: [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]
+
+---
+
+## Optimal Engagement Timing (Pattern 41)
+
+The retirement window of openness: experts approaching retirement (2-5 year window before exit) are maximally open to knowledge extraction. Earlier engagement hits self-preservation hoarding (Pattern 25). Later engagement loses extractable knowledge to attrition.
+
+**Screening criteria for outreach:**
+- Key expert age 55-67
+- Has named (even informally) a target retirement / step-back year
+- 1-3 successors identified (formal or informal)
+- Has experienced at least one "near-miss" event (vacation crisis, illness scare, departure of peer expert)
+
+**Source:** Pattern 41 from [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]].
 
 ---
 

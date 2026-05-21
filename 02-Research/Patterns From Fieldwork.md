@@ -227,16 +227,19 @@ The "Planungsleiter level" — heads of logistics, sales, purchasing, planning, 
 
 - [ ] The successor is a better customer than the founder
 - [ ] Financial health correlates with resistance to change
-- [ ] Eager successors (not reluctant ones) are the real population
-- [ ] Tacit knowledge can actually be extracted with structured protocols
-- [ ] Employees will resist having their knowledge captured
 - [ ] "Digital due diligence" is a better product name than "operational report"
-- [ ]  €5K–10K is a viable price point for the diagnostic
-- [ ]  An internal champion (one digital-responsible person) is a prerequisite for engagement
-- [ ]  Agency partnerships (like Prisma) could be the implementation layer
-- [ ] The "olive tree" framework (cut irreplaceable roles into pieces, don't try to replace 1:1) could be a core product deliverable — "olive tree mapping" (from [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]])
+- [ ] €5K–10K is a viable price point for the diagnostic
+- [ ] An internal champion (one digital-responsible person) is a prerequisite for engagement
+- [ ] Agency partnerships (like Prisma) could be the implementation layer
 - [ ] Life Book (YPO company, professional story harvesting + AI) may be a competitor, partner, or methodology source — investigate immediately (from [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]])
 - [ ] "Boomerang successors" (left the business, came back for a specific role) may be a distinct customer sub-segment (from [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]])
+
+## Adopted / Answered
+
+- [x] **Tacit knowledge can actually be extracted with structured protocols.** ANSWERED: Patterns 28 (campfire), 34 (Standardgrundlage-first sequencing), [[MI — Silver Tsunami and AI Knowledge Capture]] (Kempten study — ChatGPT-5 interview agent works for atmosphere + depth), and [[MI — Expert Interview Design and Semi-Structured Methods]] all confirm. Three independent academic + practitioner sources.
+- [x] **Eager successors (not reluctant ones) are the real population.** ANSWERED: Pattern 16 (successor pool shrinks by choice) + multiple interviews (Kevin/David in 013, Ariana via Armin in 017, the original 001 successor) all show growth ambition is the norm. The constraint is making the role survivable, not finding willing successors.
+- [x] **Employees will resist having their knowledge captured.** ANSWERED with nuance: Pattern 28 (storytelling is welcomed; documentation is resisted) + Pattern 41 (timing matters — defensiveness at mid-career, openness at retirement window). Mixed evidence resolved into a coherent framing.
+- [x] **Olive tree mapping as a core deliverable.** ADOPTED: now documented in [[Product Methodology]] as an explicit deliverable concept (role-decomposition + per-branch knowledge map). Source: [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]].
 
 ---
 

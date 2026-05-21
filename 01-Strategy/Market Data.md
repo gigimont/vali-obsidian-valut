@@ -76,6 +76,36 @@
 
 ---
 
+## MI-Validated Market Stats (May 2026, from Silver Tsunami research)
+
+Added from desk research synthesis ([[MI — Silver Tsunami and AI Knowledge Capture]], [[MI — Mem (a16z Podcast)]]):
+
+### Demographic and knowledge-attrition scale
+- **43% of Germany's current workforce will retire by 2036** — 19.5M of 45.6M employed people (Kempten University data via [[MI — Silver Tsunami and AI Knowledge Capture]])
+- **$31.5B annual Fortune 500 knowledge attrition** (Deloitte 2023); expected to double by 2030
+- **80% of organisational knowledge is tacit** — only 20% is documented (MIT research; "the tacit knowledge iceberg")
+- **57% of institutional knowledge in industrial sectors at risk** in the next decade (McKinsey; "brown-stack industries" framing)
+- **68% of industrial companies have no formal knowledge transfer program** (American Society for Training and Development)
+- **10,000 baby boomers reach retirement age every day** in the US (Bureau of Labor Statistics)
+- **40% of US manufacturing workforce** eligible to retire within 10 years; **up to 50% of energy utility workers** qualified to collect pensions by 2027
+
+### Quantified value of solving this
+- **46% onboarding-time reduction** when retiring experts' knowledge is captured and made available to successors (eGain platform data) — quantifies Pattern 27 (Onboarding speed as value metric)
+- **38% improvement in problem resolution times** and **27% increase in first-time fix rates** with captured-expert knowledge bases (eGain)
+- **$4.2M annual productivity improvement** for a mid-sized utility (5,000 employees) in year-1 of knowledge capture implementation (eGain case)
+
+### The knowledge-search productivity drain
+- **Knowledge workers spend ~2.5 hours per day searching for information** ([[MI — Mem (a16z Podcast)]])
+- A 5-person team loses ~12.5 hours/day = 1.5 FTE equivalent purely to search overhead
+- The same MI confirms: organisation-at-creation-time fails; AI-at-retrieval-time succeeds — validates the Solcus methodology (don't ask experts to categorise; extract first, structure via AI later)
+
+### Vertical AI market signal
+- **Vertical AI solutions growing 400% YoY** ([[MI — Domain Expert Knowledge in AI Systems]]; Bessemer Venture Partners thesis)
+- Intuit's expert intelligence platform: **$1.4B valuation** — the enterprise proof point that domain expertise + AI = vertical winner
+- Solcus is structurally positioned at the front of this wave for Mittelstand SMEs
+
+---
+
 ## Why Operations is the M&A Bottleneck
 
 Financials are standardized by accountants. Legal is standardized by lawyers. Operations are highly organic, informal, and undocumented. Buyers slash valuations or walk away entirely when they cannot verify how the business actually runs.

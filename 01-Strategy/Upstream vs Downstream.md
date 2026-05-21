@@ -51,6 +51,42 @@ The binary framing (upstream vs downstream) may be insufficient. Three positions
 
 ---
 
+## Update — May 20, 2026 (post-Interviews 020–024)
+
+Two new data points expand the framework beyond the upstream/downstream/always-on triplet:
+
+### Post-handover position (a fourth timing)
+
+[[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] is the first interviewee to have completed two full successions from opposite sides. He retired from operations in March 2024 and now SEES the knowledge loss in retrospect. He is not a customer — he is a champion. Post-handover former CEOs:
+
+- Recognise the value of pre-handover knowledge extraction in retrospect
+- Are over-represented in family business networks (Peter May / Hamburg Family Summit, YPO, YNG)
+- Become advocates for upstream engagement, recommending Solcus to current CEOs in their peer group
+- Create the network multiplier that direct outreach to active founders cannot
+
+**Implication for the framework:** Post-handover champions amplify the upstream pipeline. They turn the "no felt urgency" objection of upstream into "your friend Roland says you should do this before it's too late."
+
+### Post-insolvency cautionary tale
+
+[[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] adds the most extreme downstream case in the dataset: a 4th-generation eyewear Mittelstand that filed insolvency in 2025 after COVID + Ukraine + "stuck in the middle" consolidation pressure. Knowledge documentation wouldn't have saved the business model — but Eberhard's framing matters:
+
+- Even where the business cannot be saved, expertise can be preserved for the successor entity (acquirer, optical group consolidation)
+- The "stuck in the middle" framing is a fourth urgency force candidate (alongside succession, AI window, talent scarcity) — to test in next 2-3 prospect conversations
+- Pattern 41 (retirement window of openness) applies even more strongly post-insolvency: employees know they are leaving; defensiveness collapses
+
+**Implication for the framework:** Even downstream-of-crisis, there is salvage value in capturing what remains. The "M&A entry" lane includes distress / insolvency sales, not only premium exits.
+
+### Resolved strategic position (v3)
+
+1. **Enter downstream** — M&A documentation completeness (highest urgency, 40-60× ROI per [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]]'s data)
+2. **Retain always-on** — Phase 2 closed-loop knowledge system addresses Pattern 40 (documentation entropy); turns one-off engagement into recurring revenue
+3. **Expand upstream** — Pattern 41 retirement window (2-5 years before key expert exit) is the optimal upstream engagement window; not "5-10 years before succession" but "2-5 years before retirement of the bottleneck expert"
+4. **Amplify via post-handover champions** — Roland and Eberhard's network gateways (Peter May, YNG, YPO) carry the upstream message to active CEOs
+
+The binary frame is replaced by a four-position timing model: post-handover (champions) → upstream (Pattern 41 window) → downstream (M&A / crisis) → always-on (continuous Phase 2).
+
+---
+
 ## Related
 - [[Council Verdict]] — where this question first emerged
 - [[Problem Statement]] — how the answer changes our thesis

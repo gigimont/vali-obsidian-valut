@@ -4,7 +4,72 @@
 
 ---
 
-## Current Thesis — v5 (May 12, 2026, post-Interviews 012–019)
+## Current Thesis — v6 (May 20, 2026, post-Interviews 020–024 + 18 MI notes)
+
+### One sentence
+**Solcus** is a specialised consulting practice with proprietary AI-enabled methodology that extracts judgment frameworks, relational knowledge, and technical intuition from organically grown SME experts at the optimal retirement window — and delivers a closed-loop knowledge system that compresses transitions, protects M&A deal value, and gives successors the "chiavi di lettura" they need to operate independently.
+
+### What changed from v5 → v6
+
+**Identity reframe: we are a consulting practice, not a tech company.**
+Francis de Vericourt ([[Interview 020 — Francis de Vericourt (ESMT Professor)]]) reframed the entire product: "You're a consulting company for small, middle, family-owned business. Your competitive advantage is access, not technology." Any consulting firm could deploy the same LLMs — they cannot get the trust of a 60-year-old Mittelstand founder. This is independently confirmed by Marco Nortmeier (Interview 022), who operationally demonstrated that the methodology is the moat ("die KI hat bei mir im Kopf angesetzt" — the AI starts in my head, not in the model), and academically by Sundberg & Holmström (see [[MI — Domain Expert Knowledge in AI Systems]]) whose three-mechanism framework (consolidation → algorithmic mediation → naturalization) describes exactly the work Solcus does. **Positioning shift:** from "AI startup" to "specialised consulting practice with proprietary AI-enabled methodology."
+
+**The Solcus name and brand identity (May 14, 2026):**
+From Latin *sulcus* (brain fold where knowledge is stored) + Italian *solco* (furrow — the trace left by decades of work). Captures both the second-brain concept and the organic, earthy SME context. Adopted across all material going forward.
+
+**Closed-loop knowledge system (Phase 1 + Phase 2 product evolution):**
+The product is no longer a one-off engagement. Phase 1 is the 4-6 week extraction (campfire interviews + document ingestion + computer-use observation → structured report + queryable knowledge base). Phase 2 is the always-on monitoring layer: meeting transcription, decision logging, scheduled refresh interviews. This addresses Pattern 40 (documentation entropy under external system change, from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]) — the captured artifact decays without continuous input. Cross-referenced with [[MI — Context Farming for Company Second Brain (YouTube)]] and [[1 to 1s — Week 6]].
+
+**The retirement window of openness (Pattern 41):**
+Eberhard Müller-Menrad ([[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]]) named a behavioural fact that resolves Pattern 25 (self-preservation hoarding): experts protect knowledge while employed, but willingness to share spikes 2-5 years before genuine retirement. The ICP must include a TIMING dimension. This partially resolves Pattern 37 (Roland's atrophy critique) — engaging at retirement means the expert is leaving anyway; the question is how much to preserve, not whether extraction damages ongoing capability.
+
+**Head-of-department sweet spot, confirmed cross-industry (Pattern 42):**
+The "Planungsleiter level" is the universal locus of transferable expert judgment. Now confirmed across four industries: construction/precast (Filigran, BWB), aluminium manufacturing (AWW), eyewear (Müller-Menrad), with cross-references back to earlier interviews. C-suite is too strategic; front-line is too operational; the head-of-department layer is where transferable judgment lives. **Combined with Pattern 22 (ERP ceiling)**, this defines the precise ICP wedge: head-of-department role layer inside companies that have hit the ERP ceiling.
+
+**Quantified M&A deal mechanics (Maciej, Interview 023):**
+The M&A application now has hard numbers:
+- Earn-out / deferred payment: 10-20% of deal price
+- Advisory agreements: €20-40K/month for 12-24 months
+- DD timelines: 2-2.5 months standard, extending under knowledge gaps
+- Solcus fee: €15-25K vs potential savings of €1M+ per €20M deal = **40-60× ROI**
+- "Get documented before we list you" → sell-side advisor channel hypothesis
+This makes the M&A angle the most quantifiable GTM lane.
+
+**Partial-capture honesty principle (Pattern 39):**
+Capturing 100% of tacit knowledge is impossible. "99,9999% aber nie 100%" (Marco, Interview 022). Solcus promises judgment frameworks, not decision replication. Under-promise capture rate, over-deliver on usability. This honesty IS a selling point to PE investors and M&A professionals who distrust vendors claiming total solutions. Forms an objection cluster with Pattern 21 (Newton's feasibility) and Pattern 37 (Roland's atrophy).
+
+**Post-handover former CEO as a new role profile:**
+Roland Wübbe ([[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]) is the first interviewee to have completed two full successions from opposite sides. He is not a paying customer but a high-value champion — over-represented in family business networks (Peter May / Hamburg Family Summit), reflective, capable of recommending Solcus to current CEOs in his peer group. Confirmed by Eberhard (post-insolvency former CEO, similar profile). Pattern 38 (structural separation of ownership and operational succession) emerges from this segment.
+
+**The delegation-first methodology framing (Standup 2026-05-20):**
+The product should be sold as enabling delegation, not as documenting knowledge. "We help your expert delegate more effectively" outperforms "we document what your expert knows" because delegation maps to a felt operational problem (the head of department is overloaded), while documentation maps to an abstract future risk. Internal application: the Filigran Friday seminar format is structured around delegation-first — give Marco the framework to set up Obsidian himself, leave Filigran with self-sufficient methodology.
+
+**Three GTM angles fully validated:**
+1. **Preserve & Scale** — founder succession, operational continuity ([[Interview 012 — Stefan Weiler (Filigran, Germany)]], [[Interview 013 — David (Textile Manufacturing, Germany)]])
+2. **Acquire & Exit** — M&A documentation completeness, deal price protection ([[Interview 008 — Antonio Rizza (M&A)]], [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]], [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]], [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]])
+3. **Pre-transformation documentation** — "do your homework before McKinsey arrives" ([[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
+
+**MI-validated market context (18 desk-research syntheses):**
+- 43% of Germany's workforce retires by 2036 ([[MI — Silver Tsunami and AI Knowledge Capture]])
+- $31.5B annual Fortune 500 knowledge attrition; 20/80 explicit-vs-tacit split
+- 46% onboarding-time reduction when retiring experts' knowledge is captured (eGain) — quantifies Pattern 27
+- 2.5 hours/day spent by knowledge workers searching for information ([[MI — Mem (a16z Podcast)]])
+- Vertical AI growing 400% YoY ([[MI — Domain Expert Knowledge in AI Systems]]) — Solcus is structurally positioned at the front of this wave
+- SECI Externalization model (Nonaka, [[MI — Storytelling and Tacit Knowledge Capture]]) is the academic backing for the campfire method (Pattern 28)
+
+### Updated Deal-Breaker Hypotheses (v6)
+
+1. Founders and senior employees will let themselves be shadowed → **Supported.** Pattern 28 (campfire) + Pattern 41 (retirement window) together make extraction welcome rather than threatening.
+2. The successor is a better buyer than the founder → **Confirmed and expanded.** Now four buyer personas: (a) successor, (b) motivated technical insider, (c) M&A buyer/advisor, (d) post-handover former CEO as champion/recommender.
+3. AI can make this affordable vs traditional consulting → **Technically plausible.** Three-pillar methodology is the moat (Francis, Marco, Sundberg & Holmström all converge). AI is the tool, not the product.
+4. Retroactive extraction captures enough to meaningfully reduce transition risk → **Defensible with honest framing.** Pattern 39 — promise judgment frameworks, not decision replication. ~60-70% capture is enough.
+5. The M&A entry point is the right first GTM → **Confirmed as one of three.** M&A has the highest urgency and quantifiable ROI (40-60× per Maciej). Pre-transformation documentation and Preserve & Scale are parallel angles, not alternatives.
+6. *(New)* The Phase 1 → Phase 2 product evolution holds → **Conceptual.** Phase 2 (always-on) is the unit-economics path to recurring revenue. Filigran is the proof site.
+7. *(New)* The retirement-window timing axis materially improves engagement rates → **Hypothesised, untested at scale.** Pattern 41 strength: single source, operationally specific. Needs validation in next 5-10 prospect conversations.
+
+---
+
+
 
 ### One sentence
 Organically grown SMEs run on expertise that was never written down — judgment frameworks, relational knowledge, and technical intuition trapped in the heads of founders and senior staff — and AI now makes this extractable through structured storytelling, document ingestion, and workflow observation before the people who hold it walk out the door.
