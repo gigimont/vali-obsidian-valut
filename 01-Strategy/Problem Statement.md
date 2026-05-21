@@ -7,7 +7,7 @@
 ## Current Thesis — v6 (May 20, 2026, post-Interviews 020–024 + 18 MI notes)
 
 ### One sentence
-**Solcus** is a specialised consulting practice with proprietary AI-enabled methodology that extracts judgment frameworks, relational knowledge, and technical intuition from organically grown SME experts at the optimal retirement window — and delivers a closed-loop knowledge system that compresses transitions, protects M&A deal value, and gives successors the "chiavi di lettura" they need to operate independently.
+**Solcus** is a specialised consulting practice with proprietary AI-enabled methodology that extracts judgment frameworks, relational knowledge, and technical intuition from organically grown SME experts at the optimal retirement window — and delivers a closed-loop knowledge system that compresses transitions, protects M&A deal value, and gives successors the knowledge they need to operate independently.
 
 ### What changed from v5 → v6
 
