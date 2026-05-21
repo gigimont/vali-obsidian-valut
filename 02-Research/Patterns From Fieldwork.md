@@ -140,6 +140,8 @@ Every owner intuitively understands that reducing time-to-independence for new h
 - **Source:** [[Interview 006 - John Lynch (Lynka)]]
 - **Strength:** Strong — universal logic + specific numbers from one source
 
+> **MI validation:** Silver Tsunami research (eGain) finds 46% onboarding improvement when retiring experts' knowledge is captured and made available to successors. Strongest quantified evidence for this pattern. (See [[MI — Silver Tsunami and AI Knowledge Capture]])
+
 ### 28. The campfire method: stories capture what processes can't
 People hate documenting processes but love telling stories. Anecdotes and self-narratives capture tacit knowledge — the "how we do things" and "what makes us us" — more truthfully than structured process mapping. Product implication: frame extraction as nostalgic storytelling, not documentation.
 - **Source:** [[Interview 013 — David (Textile Manufacturing, Germany)]]
@@ -204,6 +206,8 @@ Even well-documented organizational knowledge decays under temporal pressure fro
 - **Source:** [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]
 - **Strength:** Strong — articulated by an internal IT lead from direct operational experience; described as "egal in welchen Unternehmen"
 
+> **Cross-reference:** Three MI notes describe solutions to documentation entropy: Context Farming (MI), Closed-Loop Knowledge System ([[1 to 1s — Week 6]]), and Maintenance Mechanism concept. All converge on: the second brain must self-update, not depend on manual curation. This is the Phase 2 product evolution. (See [[MI — Context Farming for Company Second Brain (YouTube)]])
+
 ### 41. Knowledge hoarding as job security
 People protect tacit knowledge to remain valuable and indispensable — a rational self-preservation behaviour, not pathology. The more expertise someone holds, the more they resist sharing it while employed. Willingness to share spikes at genuine career exit: "once people come to a point that they understand that they will leave the business for good, they are more willing to share — and this is typically also the people with the most experience." This is a structural feature of any organisation with concentrated expert knowledge and job-security norms.
 - **Source:** [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] — 30 years of Mittelstand leadership, confirmed from both sides (as manager and as director watching employees)
@@ -214,6 +218,8 @@ People protect tacit knowledge to remain valuable and indispensable — a ration
 The "Planungsleiter level" — heads of logistics, sales, purchasing, planning, technical feasibility — is the universal locus of verifiable, transferable, irreplaceable expert judgment across Mittelstand businesses. These people "could basically replace any of their staff" but their knowledge is not purely strategic. C-suite is too strategic and non-operational. Front-line is too operational and lacks judgment. The head-of-department layer is where domain knowledge, intuition, and experience converge into transferable expert judgment.
 - **Source:** [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]], cross-referenced with [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]], [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
 - **Strength:** Very strong — now confirmed across four different industries (eyewear, construction/precast, aluminium manufacturing, industrial engineering). The strongest cross-industry ICP role-targeting pattern in the dataset.
+
+> **Cross-reference:** Combined with Pattern 22 (ERP ceiling), Pattern 42 defines the precise ICP wedge: the head-of-department role layer inside companies that have hit the ERP ceiling, across industries. This should lead ICP Definition v3.
 
 ---
 

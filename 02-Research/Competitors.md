@@ -187,6 +187,8 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 - **Threat level:** Low as direct competitor (they make books for individuals, not business knowledge systems). High as methodology source or partner.
 - **Source:** [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]]
 
+**Methodology equivalence:** Life Book is the for-profit operationalisation of what knowledge management theory calls "SECI Externalization" (tacit → explicit). They sell this at $10-20K/book. Solcus does the same operation for business knowledge at €15-25K/engagement. The methodological parallel is precise — both use structured interviews to harvest experiential knowledge. The difference: Life Book captures life stories; Solcus captures business judgment frameworks. (See [[MI — Storytelling and Tacit Knowledge Capture]] for SECI model context.)
+
 ---
 
 ## Ontora (YC-backed, AI-led employee interviews)
