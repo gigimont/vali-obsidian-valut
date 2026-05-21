@@ -9,7 +9,7 @@
 
 ## Slide 1 — Title
 **SME Succession** · Cohort Pitch
-[Project Name] · [Names] · [Accelerator] · [Date]
+Solcus · Wolf von Weiler & Giuseppe Montagner · Vali Entrepreneurship Hub, ESMT Berlin · Summer 2026
 
 ## Slide 2 — Profitable Today. Fragile Tomorrow.
 - Knowledge lives in one head: 30+ years of supplier relationships, customer trust, judgment
@@ -26,18 +26,18 @@ Three forces converging in 2026:
 ## Slide 4 — The Market
 - €1T+ European SME enterprise value transitioning
 - Italy alone: €300-500B
-- Our wedge: family-owned SMEs, €2-20M revenue, founder 60-75, engaged next-gen successor
+- Our wedge: family-owned SMEs, €5-25M revenue, founder 60-75, engaged next-gen successor
 - Italy first: ~40,000-60,000 businesses match
 - Buyer is the successor, not the founder
 
-## Slide 5 — What the First Interview Told Us
+## Slide 5 — What 24 Interviews Across 3 Countries Told Us
 - Started expecting handover problem (aging founder)
 - Heard: thriving business, founder still at helm, successor watching trap close
 - **The shift:** not succession → systemize a founder-centric business while still running it
 - Buyer is the successor with awareness but no bandwidth
 
 ## Slide 6 — Why Us
-- **[Co-founder] — lived it.** Grew up inside a family SME. Firsthand experience.
+- **Wolf von Weiler & Giuseppe Montagner — lived it.** Grew up inside a family SME. Firsthand experience.
 - **[You] — saw it.** Finance background. SME succession deals crossed the desk — usually too late.
 - **Both — recognize the terrain.** Countries where SMEs are the economy.
 - *"This is not a market we're studying. It's terrain we recognize."*
@@ -51,7 +51,7 @@ Three forces converging in 2026:
 | Why will the successor pay when father owns it? | Successor champions it; founder signs off when value to HIS legacy is framed correctly |
 | What's your moat? | LLM-powered knowledge extraction at price/speed consultants can't match |
 | Italian or global? | Italy-first (know market + regulation), international later country-by-country |
-| What's your N? | 19 interviews complete across Germany, Italy, and Poland. 35 patterns surfaced. Validation approaching saturation. |
+| What's your N? | 24 interviews complete across Germany, Italy, and Poland. 42 patterns surfaced. 18 Market Intelligence notes synthesizing academic and industry research. Validation approaching saturation — moving to proof of concept. |
 | What would kill this? | If founders universally refuse shadowing, or tacit knowledge is irreducibly personal |
 | Haven't you heard of Celonis? | Celonis is our role model, not our competitor. They need digital event logs; our market runs on paper, heads, and WhatsApp. Celonis built a $10B company proving process transparency is valuable — we're doing that for the businesses Celonis can't touch. See [[Competitors]]. |
 | Why aren't you just consultants? | Consultants are disruptive, opinionated, and expensive. We observe passively, make no recommendations, and charge a fraction. A 60-year-old founder hears "consultant" and hears "someone telling me how to run my business." We're a neutral mirror. |
