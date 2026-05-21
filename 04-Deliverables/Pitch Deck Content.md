@@ -37,8 +37,8 @@ Three forces converging in 2026:
 - Buyer is the successor with awareness but no bandwidth
 
 ## Slide 6 — Why Us
-- **Wolf von Weiler & Giuseppe Montagner — lived it.** Grew up inside a family SME. Firsthand experience.
-- **[You] — saw it.** Finance background. SME succession deals crossed the desk — usually too late.
+- **Wolf von Weiler — lived it.** Grew up inside a family SME. Firsthand experience.
+- **Giuseppe Montagner — saw it.** Finance background. SME succession deals crossed the desk — usually too late.
 - **Both — recognize the terrain.** Countries where SMEs are the economy.
 - *"This is not a market we're studying. It's terrain we recognize."*
 
