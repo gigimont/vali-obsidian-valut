@@ -22,7 +22,7 @@ Eberhard is the **first post-insolvency former Mittelstand owner** in the datase
 
 1. **Fourth independent validation of the department-head niche.** From eyewear/fashion-adjacent — a previously uncovered industry — Eberhard arrived spontaneously at the same operational/strategic distinction we use to justify our targeting. Filigran, FDU, AWW, and now Mueller-Menrad: four sectors, same pattern. The niche framing is not industry-specific.
 
-2. **A new pattern: the retirement window of openness.** Knowledge holders who defend knowledge during active career flip to generosity once they've internalized retirement. This is the temporal inversion of Pattern 11. Has direct operational implications for prospect targeting and engagement timing.
+2. **A new pattern: the retirement window of openness.** Knowledge holders who defend knowledge during active career flip to generosity once they've internalized retirement. This is the temporal inversion of Pattern 25. Has direct operational implications for prospect targeting and engagement timing.
 
 3. **YNG as a second network-gateway recommendation.** Complements Peter May (Interview 021). Peter May covers current CEOs; YNG covers next-generation successors. Fees due end of May 2026 — decision required this week.
 
@@ -45,7 +45,7 @@ Eberhard is the **first post-insolvency former Mittelstand owner** in the datase
 
 > "We had employees with 20, 30, 40 years of service in the company. So tremendous experience in the industry... one specific case... his background was manufacturing, but he was a super expert in manufacturing because we used to have our factories. He used to work in the factory. This is, for example, the experience that you, it is very, very hard or impossible to transfer to others." *(validates Pattern 5)*
 
-> "The more you know, the more valuable you are for the company and the less willing you are to share. This is not something I've supported in the past, but it just happens." *(confirms Pattern 11)*
+> "The more you know, the more valuable you are for the company and the less willing you are to share. This is not something I've supported in the past, but it just happens." *(confirms Pattern 25)*
 
 > "Once people come to a point that they understand that they will leave the business for good, they are more willing to share and this is typically also the people with the most experience." *(new Pattern 41 — retirement window of openness)*
 
@@ -79,12 +79,12 @@ Four different industries, same structural truth. From now on we can state the n
 
 Eberhard articulated a temporal dynamic no prior interviewee has named:
 
-- **During active career:** knowledge holders defend their knowledge as job security (Pattern 11)
+- **During active career:** knowledge holders defend their knowledge as job security (Pattern 25)
 - **Once retirement is internalized:** the same individuals become more open and willing to share
 
 This has direct operational consequences for our methodology and outreach:
 - Engage with experts who are 1-3 years from confirmed departure
-- Be aware that early-stage outreach may hit Pattern 11 defenses; the same outreach 1-2 years later may succeed
+- Be aware that early-stage outreach may hit Pattern 25 defenses; the same outreach 1-2 years later may succeed
 - Consider whether company-side framing ("we are doing this because the expert is leaving") changes dynamics
 
 Notable interaction with Pattern 37 (Roland's atrophy critique): if we engage at the retirement window, the atrophy concern partially dissolves — the expert is leaving anyway, the question becomes how much of their judgment can be preserved, not whether replication damages their continued capability.
@@ -125,16 +125,16 @@ Eberhard explicitly chose not to bring Moritz into the family business during th
 
 ### Confirmed
 - **Pattern 5 — Irreplaceability myth:** Eberhard's manufacturing expert example.
-- **Pattern 11 — Self-preservation knowledge hoarding:** Direct quote confirmation.
+- **Pattern 25 — Self-preservation knowledge hoarding:** Direct quote confirmation.
 - **Pattern 14 — Family emotion / logic in succession:** Eberhard's decision not to bring Moritz in during crisis.
 - **Pattern 35 — Department-head niche (implicit):** Fourth independent validation.
 
 ### New
 
 **Pattern 41 — The retirement window of openness**
-Knowledge holders share more freely once they have internalized that they are leaving the business. The defensive instinct to protect job security through knowledge hoarding (Pattern 11) flips into willingness to share once retirement is certain. This creates a strategic timing window for tacit knowledge extraction: ideally engage when the expert is 1-3 years from confirmed departure rather than mid-career. Has direct operational consequences for prospect screening and engagement framing.
+Knowledge holders share more freely once they have internalized that they are leaving the business. The defensive instinct to protect job security through knowledge hoarding (Pattern 25) flips into willingness to share once retirement is certain. This creates a strategic timing window for tacit knowledge extraction: ideally engage when the expert is 1-3 years from confirmed departure rather than mid-career. Has direct operational consequences for prospect screening and engagement framing.
 - **Source:** [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]]
-- **Strength:** Moderate — single source, but operationally specific and consistent with prior Pattern 11 dynamics
+- **Strength:** Moderate — single source, but operationally specific and consistent with prior Pattern 25 dynamics
 - **Interaction:** Partially resolves Pattern 37 (atrophy) — if engagement happens at retirement, the atrophy concern about degrading the expert's continued capability dissolves naturally
 
 ---
@@ -194,7 +194,7 @@ Eberhard himself is not a current ICP (no longer running a business). But his pr
 ## Related
 
 - [[Interview 010 — Newton Campos (Search Fund)]] — first member of objection cluster (Pattern 21)
-- [[Interview 011 — Dairy Chemicals Commercial (Italy)]] — Pattern 11 (self-preservation hoarding) — Eberhard confirms this and adds Pattern 41 as its temporal inverse
+- [[Interview 011 — Dairy Chemicals Commercial (Italy)]] — Pattern 25 (self-preservation hoarding) — Eberhard confirms this and adds Pattern 41 as its temporal inverse
 - [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] — first niche validation
 - [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — second niche validation; first "framing too narrow" signal
 - [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]] — possible Lucas Mueller-Menrad / "Müller-Menrad PwC Dubai M&A" overlap to verify

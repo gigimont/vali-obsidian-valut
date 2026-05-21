@@ -86,7 +86,7 @@ These are NEVER sent in advance. They only work live because they need to land i
 
 **What you're listening for:** The phrase "it didn't fit how we work." The distinction between what the software captures (transactions, workflows) and what it doesn't (judgment, relationships, unwritten rules). The ERP ceiling — see [[Interview 006 - John Lynch (Lynka)]].
 
-**Connects to:** [[Patterns From Fieldwork]] Pattern 10 — The ERP ceiling. [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]] — Celonis/process mining tools that don't scale to SMEs.
+**Connects to:** [[Patterns From Fieldwork]] Pattern 22 — The ERP ceiling. [[Interview 002 - Ex-Banker, BoD of Deutsche Bank, SMEs view]] — Celonis/process mining tools that don't scale to SMEs.
 
 ---
 
@@ -124,7 +124,7 @@ These are NEVER sent in advance. They only work live because they need to land i
 
 **What you're listening for:** The word "heads." The moment they say "well, you'd have to ask Maria, and then check with..." — they're mapping their own fragility for you. If the answer is "it's all in here" (pointing to their own head) — that's the problem stated in one gesture.
 
-**Connects to:** [[Problem Statement]] — "tacit knowledge can be observed, mapped, and turned into something the rest of the company can use." [[Interview 004 - Prisma Founder (Digital Agency, Romania)]] Pattern 9 — the neutral mirror (we document what they already know).
+**Connects to:** [[Problem Statement]] — "tacit knowledge can be observed, mapped, and turned into something the rest of the company can use." [[Interview 004 - Prisma Founder (Digital Agency, Romania)]] Pattern 8 — the neutral mirror (we document what they already know).
 
 ---
 

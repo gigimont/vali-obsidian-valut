@@ -166,7 +166,7 @@ This is the most concrete network gateway any interviewee has provided. Roland's
 ### Confirmed
 - **[[Patterns From Fieldwork]] Pattern 2 — Knowledge trapped:** Roland's father's relationship layer was never documented or transferred; broke at the moment of handover.
 - **[[Patterns From Fieldwork]] Pattern 5 — Irreplaceability myth:** Even Roland's structured succession could not transfer the intuition layer.
-- **[[Patterns From Fieldwork]] Pattern 8 — Long onboarding by osmosis:** Roland came in 1987, became Geschäftsführer 1988, learned by doing. No structured handover from his father. Same pattern as Stefan Weiler ([[Interview 012 — Stefan Weiler (Filigran, Germany)]]).
+- **[[Patterns From Fieldwork]] Pattern 27 — Onboarding speed as value metric:** Roland came in 1987, became Geschäftsführer 1988, learned by doing. No structured handover from his father. Same long-osmosis onboarding as Stefan Weiler ([[Interview 012 — Stefan Weiler (Filigran, Germany)]]).
 - **[[Patterns From Fieldwork]] Pattern 14 — Family emotion / family logic in succession decisions:** Leonhard's career path constrained the "family successor as CEO" option; Wübbe family responded with structural separation rather than forcing the fit.
 - **[[Patterns From Fieldwork]] Pattern 16 — Successor pool shrinks by choice:** Leonhard does not have the qualifications for CEO; structural solution preserved his role separately.
 

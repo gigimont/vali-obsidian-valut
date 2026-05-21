@@ -180,6 +180,8 @@ Within a single ICP-fit company there are typically three distinct stakeholders 
 - **Source:** [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], cross-referenced with [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
 - **Strength:** Moderate — second confirmation within Filigran/BWB; needs testing in non-engineering ICP
 
+*(Pattern 36 — reserved / not assigned)*
+
 ### 37. The atrophy risk: captured intuition can erode the capacity to produce new intuition
 Materializing tacit knowledge into AI-accessible form creates a substitution effect on human skill development. The next generation, with the artifact available, may stop training the underlying judgment that produced it. The organization gains a captured asset but loses its production capability for that asset over time. Distinct from Newton's feasibility objection (Pattern 21) and the partial-capture honesty principle (Pattern 39, Francis) — this is a long-term consequence objection. Forms an objection cluster with Patterns 21 and 39; unified positioning response required before next high-stakes conversation.
 - **Source:** [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]
@@ -189,6 +191,16 @@ Materializing tacit knowledge into AI-accessible form creates a substitution eff
 Family ownership can be preserved through a holding GmbH while operational leadership transfers cleanly to a non-family executive. Solves the "family successor not suitable for CEO" problem without forcing the fit or creating conflict. Not a product feature but an adjacent succession architecture pattern worth naming in conversations with founders facing this dilemma.
 - **Source:** [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]], retroactive relevance to Interviews 007 and 012
 - **Strength:** Moderate — well-developed single example
+
+### 39. Partial-capture honesty principle
+**Source:** [[Interview 020 — Francis de Vericourt (ESMT Professor)]], confirmed [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]
+Capturing 100% of tacit knowledge is impossible and claiming otherwise destroys credibility. "99,9999% aber nie 100%" (Marco, Interview 022). The product must be honest about capture limits — promising judgment frameworks, not decision replication. Under-promise capture rate, over-deliver on usability. This honesty IS a selling point to sophisticated buyers (PE investors, M&A professionals) who distrust vendors claiming total solutions.
+- **Strength:** Strong — independent confirmation from an academic expert (Francis) and an operational practitioner (Marco); forms objection cluster with Patterns 21 (Newton's feasibility) and 37 (Roland's atrophy)
+
+### 40. Documentation entropy under external system change
+Even well-documented organizational knowledge decays under temporal pressure from external systems. Microsoft updates, ERP supplier changes, interface partner modifications all trigger a documentation gap because the nachdokumentation that should follow rarely happens — the maintenance is high-effort and triggered by external rather than internal events. Distinct from the static "knowledge trapped" pattern: this is a dynamic decay pattern. Any product must address not just initial capture but an ongoing capture mechanism under external-change pressure. Passive (AI-driven incremental updates) or active (scheduled re-validation) — both are open methodology questions.
+- **Source:** [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]
+- **Strength:** Strong — articulated by an internal IT lead from direct operational experience; described as "egal in welchen Unternehmen"
 
 ### 41. Knowledge hoarding as job security
 People protect tacit knowledge to remain valuable and indispensable — a rational self-preservation behaviour, not pathology. The more expertise someone holds, the more they resist sharing it while employed. Willingness to share spikes at genuine career exit: "once people come to a point that they understand that they will leave the business for good, they are more willing to share — and this is typically also the people with the most experience." This is a structural feature of any organisation with concentrated expert knowledge and job-security norms.
@@ -200,11 +212,6 @@ People protect tacit knowledge to remain valuable and indispensable — a ration
 The "Planungsleiter level" — heads of logistics, sales, purchasing, planning, technical feasibility — is the universal locus of verifiable, transferable, irreplaceable expert judgment across Mittelstand businesses. These people "could basically replace any of their staff" but their knowledge is not purely strategic. C-suite is too strategic and non-operational. Front-line is too operational and lacks judgment. The head-of-department layer is where domain knowledge, intuition, and experience converge into transferable expert judgment.
 - **Source:** [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]], cross-referenced with [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]], [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]], [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]]
 - **Strength:** Very strong — now confirmed across four different industries (eyewear, construction/precast, aluminium manufacturing, industrial engineering). The strongest cross-industry ICP role-targeting pattern in the dataset.
-
-### 40. Documentation entropy under external system change
-Even well-documented organizational knowledge decays under temporal pressure from external systems. Microsoft updates, ERP supplier changes, interface partner modifications all trigger a documentation gap because the nachdokumentation that should follow rarely happens — the maintenance is high-effort and triggered by external rather than internal events. Distinct from the static "knowledge trapped" pattern: this is a dynamic decay pattern. Any product must address not just initial capture but an ongoing capture mechanism under external-change pressure. Passive (AI-driven incremental updates) or active (scheduled re-validation) — both are open methodology questions.
-- **Source:** [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]
-- **Strength:** Strong — articulated by an internal IT lead from direct operational experience; described as "egal in welchen Unternehmen"
 
 ---
 

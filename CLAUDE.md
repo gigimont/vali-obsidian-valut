@@ -32,7 +32,7 @@ Templates/            → Meeting Notes Template.md, Daily Standup Template.md
 - **No phantom links or empty files.** Never create a wikilink  to a file that does not exist in the vault. Never create an empty or placeholder .md file just to satisfy a link. If a note references a concept that doesn't have its own page yet, mention it in plain text without double brackets. Only use wikilinks when the target file already exists or is being created in the same commit. Before committing, verify that every wikilink in every new or modified file points to an actual existing file. If unsure, use plain text instead of a wikilink.
 
 ## Living Documents (update after every interview)
-- `02-Research/Patterns From Fieldwork.md` — patterns 1-27, add new ones here
+- `02-Research/Patterns From Fieldwork.md` — patterns 1-42 (with documented gaps at 9, 10, 11, 36), add new ones here
 - `05-Open-Questions/Open Questions.md` — cross off answered, add new
 - `00-Home/Home.md` — timeline table + navigation links
 - `01-Strategy/Product Evolution Log.md` — update after any strategic pivot or major reframe
