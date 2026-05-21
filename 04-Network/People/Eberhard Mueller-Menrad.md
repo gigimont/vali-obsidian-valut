@@ -15,4 +15,4 @@ YPO connection through Joerg. To be clarified whether this is the same person as
 - 2026-05-20 09:00 — Scheduled meeting
 
 ## Related
-[[Contact List]] · [[Joerg Weiler]] · [[Armin Struckmier]]
+[[Contact List]] · [[Joerg Weiler]] · [[Armin Struckmeier]]

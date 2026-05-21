@@ -187,6 +187,8 @@ Materializing tacit knowledge into AI-accessible form creates a substitution eff
 - **Source:** [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]
 - **Strength:** Moderate — single source, most thoughtful structural pushback in dataset from a doubly experienced successor
 
+> **Partial resolution:** Pattern 41 (retirement window of openness) suggests that if engagement happens at the retirement window, atrophy concern dissolves — the expert is leaving anyway, so the question becomes how much to preserve, not whether extraction damages ongoing capability.
+
 ### 38. Structural separation of ownership and operational succession
 Family ownership can be preserved through a holding GmbH while operational leadership transfers cleanly to a non-family executive. Solves the "family successor not suitable for CEO" problem without forcing the fit or creating conflict. Not a product feature but an adjacent succession architecture pattern worth naming in conversations with founders facing this dilemma.
 - **Source:** [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]], retroactive relevance to Interviews 007 and 012

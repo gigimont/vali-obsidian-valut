@@ -17,4 +17,4 @@ Wolf's father. CEO of Filigran's Polish operations since mid-1990s. Strategic en
 - 2026-05-08 — Video call ([[Interview 015 — Joerg von Weiler (Filigran Poland)]])
 
 ## Related
-[[Contact List]] · [[Stefan Weiler]] · [[Marco Nortmeier]] · [[Ulrich Bauermeister]] · [[Armin Struckmier]] · [[Eberhard Mueller-Menrad]]
+[[Contact List]] · [[Stefan Weiler]] · [[Marco Nortmeier]] · [[Ulrich Bauermeister]] · [[Armin Struckmeier]] · [[Eberhard Mueller-Menrad]]

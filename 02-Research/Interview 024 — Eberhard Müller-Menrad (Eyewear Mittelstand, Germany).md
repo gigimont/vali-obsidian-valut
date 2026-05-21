@@ -170,7 +170,7 @@ Eberhard himself is not a current ICP (no longer running a business). But his pr
 
 - [ ] **PRIORITY — by end of May:** Decide about YNG membership. Confirm with Joerg.
 - [ ] **PRIORITY:** Send Eberhard the one-pager so he can forward to Moritz/Lucas with context. Consider whether the partner-recruitment version is right or whether a softer informational version is better for forwarding via him.
-- [ ] **VERIFY:** Is Lucas Mueller-Menrad the same person as Armin Struckmier's "Müller-Menrad (PwC Dubai M&A)" offer from [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]]? If yes, reach out via Eberhard (stronger personal connection). If no, both contacts are valid and can run in parallel.
+- [ ] **VERIFY:** Is Lucas Mueller-Menrad the same person as Armin Struckmeier's "Müller-Menrad (PwC Dubai M&A)" offer from [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]]? If yes, reach out via Eberhard (stronger personal connection). If no, both contacts are valid and can run in parallel.
 - [ ] Wait for Eberhard's email introductions to Moritz and Lucas (~1 week expected).
 - [ ] Wait for Eberhard's reach-out to the former manufacturing expert.
 - [ ] Schedule conversation with Moritz when intro arrives (Berlin, NPal scale-up context, YNG insight).

@@ -1,26 +1,28 @@
 # CLAUDE.md — SME Succession Vault
 
 ## Project
-Giuseppe + Wolf building an AI-powered "digital due diligence" service for SME knowledge transfer. Pre-product, fieldwork phase. Target: family-owned SMEs Germany/Italy, €2-20M revenue. The customer is the successor, not the founder. Obsidian vault tracks all research, strategy, and operations.
+Giuseppe + Wolf building **Solcus** (working name), an AI-powered "digital due diligence" service for SME knowledge transfer. Pre-product, fieldwork phase. Target: family-owned SMEs Germany/Italy, €2-20M revenue. The customer is the successor, not the founder. Obsidian vault tracks all research, strategy, and operations.
 
 ## Folder Structure
 00-Home/              → Home.md dashboard (entry point)
 00-Raw/               → Immutable raw transcripts and source documents. READ ONLY — never modify.
 01-Strategy/          → Thesis, ICP, business model, product, competitors
-02-Research/          → All interviews (001-011+), patterns, interview guide
+02-Research/          → All interviews (001-024+), patterns, interview guide
   Market Intelligence/ → Desk research on second brain landscape, competitors, tech trends. Prefix: "MI —"
 03-Outreach/          → Email templates, outreach strategy
 04-Deliverables/      → Pitch deck, one-pager, council report
+04-Network/           → Contact List + per-person notes for outreach pipeline
 05-Open-Questions/    → Open Questions.md (living document)
 06 - 1 to 1s/         → Weekly mentor check-ins (filename: 1 to 1s — Week N.md)
 07-Daily-Standup/     → Daily co-founder standups (filename: Standup — YYYY-MM-DD.md)
 99-Audit/             → Vault audit reports
+Files/                → Static assets (pitch decks, one-pagers as PDF)
 Templates/            → Meeting Notes Template.md, Daily Standup Template.md
 
 ## Key Conventions
 - Wikilinks: always `[[Note Name]]` without folder prefix
 - Competitors file: `[[Competitors]]` in 02-Research/ (NOT "Competitive Landscape")
-- ICP Definition: `01-Strategy/ICP Definition.md` — v1 created May 2026, covers Interviews 001–011. Needs v2 update.
+- ICP Definition: `01-Strategy/ICP Definition.md` — v2 created May 12, covers Interviews 001–019. Needs v3 update for Interviews 020–024.
 - Tags: #strategy #research #interview #pattern #standup #check-in #to-validate #confirmed
 - Interview files: `Interview NNN — Name.md` in 02-Research/
 - Check-in files: `1 to 1s — Week N.md` in 06 - 1 to 1s/

@@ -29,7 +29,7 @@ Contact details (email, phone) are deliberately not stored in this vault. Use Ou
 | [[Leopold Weiler]] | Family (uncle) | — | Initial outreach |
 | [[Grzegorz Ptak]] | Family (uncle) | — | Initial outreach |
 | [[Andreas Pram Rasmussen]] | Family (cousin) — 3Shape | — | Initial outreach |
-| [[Krzysztow Kwiatkowski]] | Industry (Leier Polska) | — | Initial outreach |
+| [[Krzysztof Kwiatkowski]] | Industry (Leier Polska) | — | Initial outreach |
 | [[Mikkel Karlsen]] | Industry (GE Healthcare) | — | Initial outreach |
 | [[Aneta Sikora]] | — | — | Initial outreach |
 | [[MaCeVi]] | — | — | Initial outreach |
@@ -58,7 +58,7 @@ Contact details (email, phone) are deliberately not stored in this vault. Use Ou
 | [[Roland Wübbe]] | Friend's father (via Linus) | 2026-05-13 | SYMPOWNIUM confirm + Leonhard post-Korsika |
 | [[Francis De Vericourt]] | ESMT / Academia | 2026-05-13 | Share identity reframe + objection cluster response when drafted |
 | [[Hubertus von Huelsen]] | AWW + Family friend | 2026-05-12 | Three-way meeting with AI consulting buddy |
-| [[Armin Struckmier]] | Father's YPO | 2026-05-12 | Pending intros: Ariana, Life Book/Andrea, Müller-Menrad |
+| [[Armin Struckmeier]] | Father's YPO | 2026-05-12 | Pending intros: Ariana, Life Book/Andrea, Müller-Menrad |
 | [[Stefan Bergerhoff]] | FDU (engineering, via Bauermeister) | 2026-05-11 | Share pitch deck v2 when ready |
 | [[Ulrich Bauermeister]] | Filigran (engineering) | 2026-05-08 | Pfingsten recorded pilot kickoff with Marco |
 | [[Joerg Weiler]] | Family (father) + Filigran | 2026-05-08 | SYMPOWNIUM logistics + Pfingsten Filigran access |

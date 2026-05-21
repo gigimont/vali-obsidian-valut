@@ -24,6 +24,7 @@
 - [ ] How do we package the product so the CEO buys succession protection and the engineer buys archive search, without confusing either about what they're getting? (from [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]])
 - [ ] Where exactly is the line between "technical knowledge" (shareable) and "business-model knowledge" (protected)? Can we draw it cleanly enough to give technical-layer customers confidence? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
 - [ ] Is the "ecosystem foundation for further AI implementation" framing safe to lead with for technical buyers, even though it would be wrong for founder buyers? How do we tell which framing to use? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
+- [ ] How do we operationally screen prospects on the Pattern 41 axis (expert career stage / retirement timing)? (from [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]])
 
 ## Knowledge Extraction
 
@@ -64,14 +65,16 @@
 - [ ] What is the right GDPR positioning statement for external prospects? Marco's pragmatism is internal-IT-specific; legal departments and Betriebsrat will see it differently. Required before external paid pilot. (from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]])
 - [ ] Can we quantify "our product reduces earn-out percentage from X% to Y%"? This would be the killer M&A metric. (from [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]])
 - [ ] Should we position to sell-side M&A advisors as a channel? "Get documented before you list." (from [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]])
+- [ ] Is the creative bottleneck (fashion/design) a future market worth naming in pitch materials? (from [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]])
+- [ ] Should "stuck in the middle" consolidation pressure become a fourth urgency force alongside succession + AI window + talent scarcity? (from [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]])
 
 ## Strategic
 
 - [ ] **TWO-TRACK PILOT APPROACH:** Should we formally adopt a two-track approach — Filigran internal exploration (Track 1, low-stakes, methodology development) running in parallel with independent external beta search (Track 2, credibility-grade proof of concept)? Filigran has all three Pattern 35 trust thresholds aligned (Stefan + Bauermeister + Marco); AWW is the leading external candidate. (from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]])
-- [ ] What is the right framing for an internal Filigran exercise that is not a paid beta but is methodology development? Pricing, scope, artifact ownership, use rights all need to be defined before starting. (from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]])
 - [ ] **OBJECTION CLUSTER (Patterns 21 + 37 + 39):** Unified positioning response required before next high-stakes conversation. Newton (Pattern 21): "Retroactive capture is not feasible." Roland (Pattern 37): "What you do capture risks atrophying the underlying human capability." Francis (Pattern 39 — partial-capture honesty principle, now defined in [[Patterns From Fieldwork]]): "The capture rate is partial; overclaiming damages credibility." Draft response: "We capture transferable frameworks, not full intuition. Our deliverable reduces bottleneck dependency and accelerates onboarding — it is designed to scaffold human judgment, not substitute for it." (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] + cluster)
 - [ ] **POSITIONING DECISION:** Three independent prospects (016, 018, 021) say the succession framing is too narrow. Francis (020) says go narrower for proof of concept. Synthesis: broad applicability story + narrow proof of concept lead. How do we encode this dual framing explicitly in pitch materials? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])
 - [ ] Does Peter May / Hamburg Family Summit warrant a dedicated outreach strategy as a German family business network gateway? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])
+- [ ] How does Pattern 41 (retirement window) intersect with Pattern 37 (atrophy)? Does engaging at retirement partially resolve the atrophy concern? (from [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]])
 - [ ] Is the AI-enabled virtual data room a product to build or a feature of the larger offering?
 - [ ] Can we quantify: "our product compresses the 3-5 year post-acquisition consulting agreement to X months"?
 - [ ] [[Upstream vs Downstream]] — which timing produces better unit economics?
@@ -105,7 +108,6 @@
 - [ ] Should the product be always-on (continuous monitoring) or event-driven (M&A moments)? Or entry via M&A, retention via always-on? (from [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
 - [ ] How do we quantify "information vulnerability" as a metric? (from [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
 - [ ] Does guarantee/indemnity reduction resonate as a value proposition at our ICP deal size? (from [[Interview 019 — Lorenz Essing (EMH Partners, Germany)]])
-- [ ] Should "pre-transformation documentation" become a third application alongside "Preserve & Scale" and "Acquire & Exit"? (from [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
 - [ ] Is Hubi's AI consulting colleague a CTO candidate, advisor, or adjacent competitor? (from [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
 - [ ] Does the "Celonis for analog companies" framing resonate beyond audiences who already know Celonis? (from [[Interview 018 — Hubertus von Huelsen (AWW, Germany)]])
 
@@ -136,6 +138,10 @@
 - [x] Should the product have two distinct outputs? **YES — two outputs.** (1) Structured report for buyer/board. (2) Queryable knowledge base for incoming CEO/team.
 - [x] Has anyone tried this before? **YES.** Life Book (story harvesting, now using AI). Management consultants (too expensive). ERP vendors (only digital layer). Nobody does exactly this at our price point for our ICP.
 - [x] In a digitally mature SME, the untouched layer is marketing, HR, creative, IT, and parts of sales — is this the right scope? **BROADER.** Pattern 22 sharpened: the untouched layer is judgment, relationships, and exception-handling regardless of ERP maturity.
+
+### Answered from Product & GTM
+- [x] Should "pre-transformation documentation" become a third application? **YES — adopted in Problem Statement v5 as Pivot 13.**
+- [x] What is the right framing for an internal Filigran exercise? **ANSWERED — co-development partner, delegation-first seminar approach ([[Standup — 2026-05-20]]).**
 
 ### Answered from Market & Economics
 - [x] Is the M&A buyer a more viable paying customer than the SME owner? **YES, for first 6 months.** Antonio (008), Armin (017), Lorenz (019) all confirm. But Lorenz challenges M&A-only: always-on monitoring may be the retention play.

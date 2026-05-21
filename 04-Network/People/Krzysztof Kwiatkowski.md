@@ -1,4 +1,4 @@
-# Krzysztow Kwiatkowski
+# Krzysztof Kwiatkowski
 
 **Role:** Industry contact — Leier Polska
 

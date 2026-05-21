@@ -105,7 +105,12 @@
 
 ### Audits
 
-[[Vault Audit — 2026-05-05]] — first audit created
+- [[Vault Audit — 2026-05-05]] — first audit created
+- [[Vault Audit — 2026-05-12]] — post-19-interview comprehensive audit
+- [[Vault Audit — 2026-05-20]] — deep forensic audit (Opus); Pattern 39 phantom + hidden connections
+
+### Network
+- [[Contact List]] — outreach pipeline, 45 contacts across 4 network clusters
 
 
 ---

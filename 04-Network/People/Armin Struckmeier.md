@@ -1,4 +1,4 @@
-# Armin Struckmier
+# Armin Struckmeier
 
 **Role:** CEO NUK / Novatex (baby products)
 
