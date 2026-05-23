@@ -11,7 +11,6 @@ Giuseppe + Wolf building **Solcus** (working name), an AI-powered "digital due d
   Market Intelligence/ → Desk research on second brain landscape, competitors, tech trends. Prefix: "MI —"
 03-Outreach/          → Email templates, outreach strategy
 04-Deliverables/      → Pitch deck, one-pager, council report
-04-Network/           → Contact List + per-person notes for outreach pipeline
 05-Open-Questions/    → Open Questions.md (living document)
 06 - 1 to 1s/         → Weekly mentor check-ins (filename: 1 to 1s — Week N.md)
 07-Daily-Standup/     → Daily co-founder standups (filename: Standup — YYYY-MM-DD.md)
