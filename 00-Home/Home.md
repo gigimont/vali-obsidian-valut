@@ -54,6 +54,8 @@
 - [[Interview 022 — Marco Nortmeier (Filigran, Germany)]] — internal IT lead; methodology-not-model framing independently confirmed; verbal yes to Filigran internal pilot start; Pattern 35 (three trust thresholds) now fully aligned at Filigran; Obsidian-as-demo externally validated; Pfingsten in-person meeting pending
 - [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]] — sell-side M&A Poland, deal-structure quantified, €20-40K/month advisory costs, 40-60x ROI case
 - [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] — 4th-gen eyewear Mittelstand (insolvent); knowledge hoarding as job security (Pattern 41); head-of-dept sweet spot cross-industry confirmed (Pattern 42); YNG intro via sons Moritz + Lucas
+- [[Interview 025 — David Richter (Suprima GmbH, Germany) — Follow-up]] — textile SME follow-up; independent architecture validation (Obsidian + Claude); shadowing > theoretical interviews; reinforces Patterns 35, 40, 41, 42
+- [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]] — second ESMT academic stress-test; reframes "brain" → "memory" (Pattern 43); two product modes — record vs act (Pattern 44); knowledge-work ICP counter-signal (Pattern 45); ONA + broker use-cases opened; objection cluster gains "replacement-framing" flavor
 - [[MI — Mem (a16z Podcast)]] — consumer second brain analysis, zero-organisation principle, personalisation
 - [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI maturity model; maps to Patterns 25, 29, 35; 40% productivity stat; free diagnostic tool at haicmm.com
 - [[MI — Second Brain Execution Layer (YouTube)]] — two-layer architecture (context + execution); "institutional inheritance" framing; Obsidian-as-demo confirmed
@@ -150,6 +152,7 @@
 | 7    | Standup: 8 interviews in 4 days, Solcus named, PoC roadmap (Filigran→AWW→FDU→scale), methodology = moat | ✅ Done |
 | 7    | Interview 024: Eberhard Müller-Menrad — knowledge hoarding as job security (Pattern 41); head-of-dept sweet spot cross-industry (Pattern 42); YNG intro; insolvency case confirms succession cliff | ✅ Done |
 | 7    | Standup May 20: YNG confirmed, Filigran seminar plan, delegation-first model, Ivor Fellowship deadline June 2 | ✅ Done |
+| 7    | Interview 026: Eric Quintane (ESMT, Organizational Behavior) — second academic stress-test; metaphor pivot (brain → memory, Pattern 43); two-mode product hypothesis (Pattern 44); knowledge-work ICP counter-signal (Pattern 45); ONA + broker adjacent surfaces; replacement-framing added to objection cluster | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

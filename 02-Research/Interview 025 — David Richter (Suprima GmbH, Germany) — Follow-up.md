@@ -80,5 +80,15 @@ David, a tech-savvy SME owner who is building prediction models himself, indepen
 ## Action Items
 
 - [ ] Update [[Product Methodology]] to explicitly include "Contextual Shadowing" alongside Campfire Storytelling.
+
+---
+
+## Related
+
+- [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]] — next in the chain; academic positioning stress-test after this technical/operational validation
+- [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] — preceding interview
+- [[Patterns From Fieldwork]] — Patterns 35, 40, 41, 42 reinforced here
+- [[Product Methodology]] — shadowing addition
+- [[ICP Definition]] — Planungsleiter / head-of-department wedge confirmed
 - [ ] Refine the GTM messaging to address the "Job Security Paradox" head-on (framing Solcus as a delegation enabler, not a replacement tool).
 - [ ] Keep David in the loop as a potential beta tester for the Phase 2 Obsidian+LLM architecture, given his explicit interest in this exact setup.

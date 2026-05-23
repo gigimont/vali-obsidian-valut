@@ -25,6 +25,12 @@
 - [ ] Where exactly is the line between "technical knowledge" (shareable) and "business-model knowledge" (protected)? Can we draw it cleanly enough to give technical-layer customers confidence? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
 - [ ] Is the "ecosystem foundation for further AI implementation" framing safe to lead with for technical buyers, even though it would be wrong for founder buyers? How do we tell which framing to use? (from [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]])
 - [ ] How do we operationally screen prospects on the Pattern 41 axis (expert career stage / retirement timing)? (from [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]])
+- [ ] Is "organizational memory" a stronger customer-facing frame than "second brain" / "organizational brain"? A/B candidate for the next outreach round. (from [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]])
+- [ ] Should the product be split into two modes — passive record (audit / regulatory) vs active in-the-moment retrieval (decision support) — as two tiers, two products, or one staged delivery? (from [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]])
+- [ ] Does the industrial-Mittelstand ICP put us in a structurally harder implementation context than knowledge-work verticals (consultancies, architects, virtual SaaS orgs)? Should we run one knowledge-work pilot in parallel? Tension with Pattern 42. (from [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]])
+- [ ] Could Organizational Network Analysis (people × knowledge dual layer) become a visible deliverable — both analytical output and a sales-demo visualization? (from [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]])
+- [ ] How do we frame the single-bottleneck Planungsleiter wedge so it does not read as "replacement of one person's job" and so it scales beyond that one person? (from [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]])
+- [ ] Is boundary-spanner / broker support (AI-assisted cross-departmental coordination) a distinct adjacent product on top of the memory + ONA substrate, or a feature inside the same offering? (from [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]])
 
 ## Knowledge Extraction
 

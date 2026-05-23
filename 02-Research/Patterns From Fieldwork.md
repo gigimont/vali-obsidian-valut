@@ -221,6 +221,23 @@ The "Planungsleiter level" — heads of logistics, sales, purchasing, planning, 
 
 > **Cross-reference:** Combined with Pattern 22 (ERP ceiling), Pattern 42 defines the precise ICP wedge: the head-of-department role layer inside companies that have hit the ERP ceiling, across industries. This should lead ICP Definition v3.
 
+### 43. "Memory" beats "brain" as positioning metaphor
+"Organizational brain" / "second brain" is too broad a metaphor and reads as cognition-replacement. "Organizational memory" is sharper: it implies augmentation, fidelity, and record, not substitution of human thinking. It also defuses the AI-replacement objection cluster (Patterns 21 / 37 / 39) without weakening the value proposition. Candidate metaphor pivot for [[Problem Statement]] and customer-facing materials.
+- **Source:** [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]]
+- **Strength:** Single source but from an organizational-behavior academic; testable in the next outreach round (A/B against current "second brain" frame)
+
+### 44. Two product modes — passive record vs active in-the-moment retrieval
+There are two distinct value propositions hiding in the same product: **(a) passive record** — document decisions / processes for audit, regulatory, "we agreed X on Y" purposes (lower urgency, lower stickiness, easier to sell); **(b) memory that acts** — surface the relevant context in the moment of decision, in the meeting where it matters (high-value, high-defensibility, harder to sell). May need to be split into two tiers, two products, or one staged delivery. The bulk of compound value sits in (b); (a) may be a natural entry tier or even a commodity layer.
+- **Source:** [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]]
+- **Strength:** Single source, but conceptually clean and pricing-actionable; needs Giuseppe / Wolf design session before next pitch round
+
+### 45. Knowledge-work is the easier context; manufacturing / construction is harder
+Counter-signal to the current Mittelstand industrial ICP wedge. Quintane's hierarchy of natural fit (easiest → hardest): fully virtual knowledge-work orgs (GitLab-style, all comms digital) → professional services (consultants, architects) → structured / digitalized mid-sized firms → less-digitalized SMEs → physical-interaction-heavy work (construction, factory floor, where capturing the interaction itself is unsolved). Physical work creates a recording-infrastructure problem before any of our methodology can run. In tension with Pattern 42 (head-of-department sweet spot, four-industry confirmed). The right resolution is probably: **start in Mittelstand for urgency + relationships + succession-cliff framing, but explicitly name the scope conditions and test one knowledge-work pilot in parallel**.
+- **Source:** [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]]
+- **Strength:** Strong-but-contested — single source, but from a relevant academic, and creates an explicit, testable tension with our most-validated cross-industry pattern. Must be carried into [[ICP Definition]] v3.
+
+> **Objection-cluster update (Patterns 21 + 37 + 39 + 45-adjacent):** Eric Quintane adds a fourth flavor to the cluster — **replacement-framing risk**. The single-bottleneck Planungsleiter wedge "sounds a lot like replacement" and is scale-limited if read as "do that one person's job." The unified response now needs to handle: feasibility (Newton), atrophy (Roland), partial-capture honesty (Francis), AND replacement-framing (Eric). Draft response: "We capture transferable frameworks, surface them at the moment of decision, and reduce single-point-of-failure dependency — we do not replace the expert and we do not promise total capture."
+
 ---
 
 ## Emerging Hypotheses (need more data)
