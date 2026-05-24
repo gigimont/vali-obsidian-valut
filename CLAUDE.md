@@ -14,6 +14,7 @@ Giuseppe + Wolf building **Solcus** (working name), an AI-powered "digital due d
 05-Open-Questions/    → Open Questions.md (living document)
 06 - 1 to 1s/         → Weekly mentor check-ins (filename: 1 to 1s — Week N.md)
 07-Daily-Standup/     → Daily co-founder standups (filename: Standup — YYYY-MM-DD.md)
+08-Mentors/           → Mentor council strategy and candidate evaluations
 99-Audit/             → Vault audit reports
 Files/                → Static assets (pitch decks, one-pagers as PDF)
 Templates/            → Meeting Notes Template.md, Daily Standup Template.md

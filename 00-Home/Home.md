@@ -105,6 +105,9 @@
 ### Open Questions
 - [[Open Questions]] — what we need the next 15 interviews to answer
 
+### Mentors
+- [[Mentor Council Strategy]] — top 3 candidates ranked by complementarity to Oliver von Quast; 13-profile evaluation; Italy gap flagged
+
 ### Audits
 
 - [[Vault Audit — 2026-05-05]] — first audit created
