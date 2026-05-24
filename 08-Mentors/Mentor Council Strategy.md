@@ -17,7 +17,7 @@
 2. **Simon Kozlik** — AI consulting practice operator (Solcus model fit)
 3. **Joachim Behrendt** — CFO / financial DD + embedded at Vali Berlin
 
-All three are Berlin-based. **Italy network remains an unsolved gap** in the candidate pool — none of the 13 covers Italian Mittelstand. Flag for separate outreach (consider Mittelstandsverbund Italia / Confindustria channel or Italian search-fund operators).
+All three are Berlin-based and Vali-adjacent — institutional warm path lowers friction on the ask.
 
 ---
 
@@ -26,7 +26,7 @@ All three are Berlin-based. **Italy network remains an unsolved gap** in the can
 ### Oliver von Quast's profile (existing mentor)
 
 - **Strengths:** mid-cap M&A and PMI (HOCHTIEF Development, 6+ yrs), energy/cleantech VC (Sarvovelo Capital, 11+ yrs), German startup ecosystem (WISTA Adlershof Accelerator), corporate-development side of dealmaking, smart-city / construction industry overlap with [[Interview 012 — Stefan Weiler (Filigran, Germany)]] and [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]]
-- **Gaps:** not a hands-on AI builder, not a consulting-practice operator, no Italian network, light on financial-DD / CFO mechanics, corporate-dev (buy-side / in-house) bias rather than sell-side advisory channel
+- **Gaps:** not a hands-on AI builder, not a consulting-practice operator, light on financial-DD / CFO mechanics, corporate-dev (buy-side / in-house) bias rather than sell-side advisory channel
 
 ### Cross-reference against Solcus v6 thesis ([[Problem Statement]])
 
@@ -96,7 +96,7 @@ Sorted by Solcus-fit signal.
 
 - **Oliver Kranz** — PACE Aerospace founder→exit + BACB deeptech lead + active business angel (30+ deals). Sustainability / hard-tech credibility. Strong technical complement, but sector-specific (aerospace) and overlapping angel-investor profile with Joachim. Verdict: keep as future portfolio-company technical advisor.
 - **Burak Adali** — Global Domain Leader at Niterra Ventures (Japanese Tier-1 CVC) covering Physical AI / IoT / Robotics. 15+ startups co-founded. Hardware-software PM. Verdict: excellent industrial-CVC mentor for portfolio diligence, but no M&A / SME-restructuring experience and emerging-markets tilt (Turkey) rather than DACH Mittelstand.
-- **Agnieszka Michalik** — CEO/CTO at Checkturio (AI-driven SaaS, transportation). 20+ years tech leadership, ESMT MBA, HERE Technologies. Verdict: strong operational / scaling mentor for tech-forward Mittelstand but no M&A or Italy.
+- **Agnieszka Michalik** — CEO/CTO at Checkturio (AI-driven SaaS, transportation). 20+ years tech leadership, ESMT MBA, HERE Technologies. Verdict: strong operational / scaling mentor for tech-forward Mittelstand but no M&A exposure.
 - **Patrick Kilian** — CPO at acto + ESMT TA. PE at D.U.H. family office (4y) + Trana pre-seed GTM + P3 automotive. Verdict: dual PE + GTM exposure useful, but too junior for Mittelstand seniority signal.
 
 ### Weak fit (decline politely or park)
@@ -106,15 +106,14 @@ Sorted by Solcus-fit signal.
 - **Joshua Müller-Meerkatz** — GP at ICBF + JMM Capital. Junior (2-3y VC). Too early-stage and venture-focused for Solcus credibility.
 - **Juanjiangmeng Du, PhD MBA** — Co-Founder Molecular Garden (biotech incubation). Too junior + biotech niche.
 - **Mali M Baum** — EIC Board + WLOUNGE ecosystem builder. Excellent ecosystem / policy connector but lacks M&A / operations depth.
-- **Dr. Tonino Greco** — Sony / LG R&D. Corporate deep-tech, no consulting / M&A / Mittelstand fit. **Italian-named but profile is corporate R&D, not Italian Mittelstand network — does NOT close the Italy gap.**
+- **Dr. Tonino Greco** — Sony / LG R&D. Corporate deep-tech, no consulting / M&A / Mittelstand fit.
 
 ---
 
 ## Gaps Not Covered by Any Candidate
 
-1. **Italian Mittelstand network.** Zero candidates among the 13 cover Italian SME ownership channels. Possible remediation paths: Confindustria local chambers, Italian search-fund operators (Newton Campos network from [[Interview 010 — Newton Campos (Search Fund)]]), Italian commercialisti channel, ESMT Italian alumni.
-2. **Family-business governance specialists.** Roland Wübbe ([[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]) flagged Peter May / Hamburg Family Summit as the institutional hub for German family-business succession. Not a candidate among the 13 but a separate channel to pursue.
-3. **Qualitative-research / knowledge-elicitation methodology expert.** Eric Quintane ([[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]]) and Francis de Vericourt ([[Interview 020 — Francis de Vericourt (ESMT Professor)]]) cover this academically through interviews; not yet a formal mentor role. Consider promoting one to advisor relationship.
+1. **Family-business governance specialists.** Roland Wübbe ([[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]) flagged Peter May / Hamburg Family Summit as the institutional hub for German family-business succession. Not a candidate among the 13 but a separate channel to pursue.
+2. **Qualitative-research / knowledge-elicitation methodology expert.** Eric Quintane ([[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]]) and Francis de Vericourt ([[Interview 020 — Francis de Vericourt (ESMT Professor)]]) cover this academically through interviews; not yet a formal mentor role. Consider promoting one to advisor relationship.
 
 ---
 
@@ -122,8 +121,7 @@ Sorted by Solcus-fit signal.
 
 1. Approach Helmut Kranzmaier and Joachim Behrendt directly through Vali (already inside the institution)
 2. Approach Simon Kozlik through Vali mentor network
-3. Open a separate Italy-network workstream — does not block the top 3
-4. Decide whether to formalise Francis de Vericourt or Eric Quintane as academic advisors alongside the three operational mentors
+3. Decide whether to formalise Francis de Vericourt or Eric Quintane as academic advisors alongside the three operational mentors
 
 ---
 
@@ -136,7 +134,7 @@ Sorted by Solcus-fit signal.
 - **Domain:** energy / cleantech / utilities, smart city, M&A and PMI (small / mid-cap), IoT and big data, construction (HOCHTIEF)
 - **Geography:** Berlin, Germany
 - **Why he fits Solcus:** M&A mid-cap experience overlaps directly with Solcus M&A wedge; construction industry overlap with Patterns 22 / 42 (Filigran, BWB cases); accelerator role at WISTA provides ecosystem warm-intro density; strategist / networker self-identification matches Solcus need for trust-channel access
-- **What he does NOT cover:** Italian network, AI-builder credibility, consulting-practice operations, financial-DD discipline, sell-side M&A advisory channel — hence the three picks above
+- **What he does NOT cover:** AI-builder credibility, consulting-practice operations, financial-DD discipline, sell-side M&A advisory channel — hence the three picks above
 
 ---
 
