@@ -100,6 +100,8 @@
 - [[Standup — 2026-05-14]] — week recap (8 interviews!), Solcus name, PoC roadmap, governance principle, three business rhythms
 - [[Standup — 2026-05-19]] — Obsidian + Claude automation confirmed; Filigran training session Friday; accelerator application priority; voice interface as investor demo vision
 - [[Standup — 2026-05-20]] — YNG membership confirmed; Filigran Friday seminar plan; delegation-first methodology; slope of traction as operating principle; Ivor Fellowship deadline June 2
+- [[Standup — 2026-05-24]] — Mentor Day pitch structure locked; vault-as-proof-of-concept; four-domain mentor ask (AI eng / cybersec / data protection / legal)
+- [[Standup — 2026-05-25]] — four-email Filigran PoC outreach plan; Marco as Kotter coalition lead; Word-dictation data-security wedge; atomization as innovation frontier
 - [[Daily Standup Template]] — template standard for the following meetings
 
 ### Open Questions
