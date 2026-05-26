@@ -138,6 +138,7 @@ Smaller orgs (no recording infrastructure) = more value-add but harder implement
 
 ## Related
 
+- [[Interview 027 — Sebastian Gras (FDU, Germany)]] — next interview in the chain; customer-side Geschäftsführer at 30-plant precast group; independently confirms Pattern 44 (active retrieval) with three concrete use-case framings.
 - [[Interview 025 — David Richter (Suprima GmbH, Germany) — Follow-up]] — previous interview in the chain; David validated architecture, Eric pressure-tested positioning.
 - [[Interview 020 — Francis de Vericourt (ESMT Professor)]] — first ESMT academic feedback; together with Eric forms the academic stress-test pair.
 - [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] — framing-too-narrow signal #1.

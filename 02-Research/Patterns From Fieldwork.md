@@ -238,6 +238,18 @@ Counter-signal to the current Mittelstand industrial ICP wedge. Quintane's hiera
 
 > **Objection-cluster update (Patterns 21 + 37 + 39 + 45-adjacent):** Eric Quintane adds a fourth flavor to the cluster — **replacement-framing risk**. The single-bottleneck Planungsleiter wedge "sounds a lot like replacement" and is scale-limited if read as "do that one person's job." The unified response now needs to handle: feasibility (Newton), atrophy (Roland), partial-capture honesty (Francis), AND replacement-framing (Eric). Draft response: "We capture transferable frameworks, surface them at the moment of decision, and reduce single-point-of-failure dependency — we do not replace the expert and we do not promise total capture."
 
+### 46. Cross-site knowledge silos in multi-site Mittelstand groups
+Multi-plant Mittelstand groups (FDU runs ~30 Betonwerke across Germany) have recurring problems show up independently in each plant — Öhringen, Kopp near Kiel, Velten near Berlin — with **no mandatory horizontal exchange** between sites. Each plant solves the same problem afresh. Distinct value-creation logic from single-site succession: cross-plant aggregation of pattern libraries vs single-bottleneck preservation. Larger deal sizes; harder relationship building (multi-stakeholder); clearer ROI story (one site's solved pattern replicates to 29 others). Candidate new ICP segment for [[ICP Definition]] v3.
+- **Source:** [[Interview 027 — Sebastian Gras (FDU, Germany)]]
+- **Strength:** Single source, but volunteered without prompting by a Geschäftsführer running the structure; needs one more multi-site interview to confirm.
+
+### 47. Self-quantified recurring-process rate (~85-90%) as ROI anchor
+Heads-of-department in process-driven Mittelstand can quantify the share of work that is pattern-recurrent rather than genuinely novel. Gras at FDU volunteered "85 bis 90% wiederkehrende Prozesse" without prompting. This is a pitch-grade ROI anchor: if 85-90% of work is pattern-matched, a queryable pattern layer that returns prior-solution context with named authors compounds across the full workforce. Test this question in future interviews — if it holds at 70-90% across industries, it becomes a deck-level claim.
+- **Source:** [[Interview 027 — Sebastian Gras (FDU, Germany)]]
+- **Strength:** Single source so far; specific, testable, and quantifiable. Worth pursuing aggressively in the next 5 interviews.
+
+> **Pattern 44 hardening note (added 2026-05-26):** The two-modes hypothesis (passive record vs memory-that-acts) now has three independent voices: Eric Quintane (academic, Interview 026), Marco Nortmeier (operational, Interview 022), Sebastian Gras (customer-side leadership, Interview 027). Gras articulated the active-retrieval mode — Q&A returning prior-project answers with named authors, temporal decoupling at 07:00 with no contact person until 08:30 — completely unprompted. Pattern 44 is no longer single-source; it is the most rapidly hardening product-mode insight in the dataset.
+
 ---
 
 ## Emerging Hypotheses (need more data)

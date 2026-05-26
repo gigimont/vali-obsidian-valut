@@ -56,6 +56,7 @@
 - [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]] — 4th-gen eyewear Mittelstand (insolvent); knowledge hoarding as job security (Pattern 41); head-of-dept sweet spot cross-industry confirmed (Pattern 42); YNG intro via sons Moritz + Lucas
 - [[Interview 025 — David Richter (Suprima GmbH, Germany) — Follow-up]] — textile SME follow-up; independent architecture validation (Obsidian + Claude); shadowing > theoretical interviews; reinforces Patterns 35, 40, 41, 42
 - [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]] — second ESMT academic stress-test; reframes "brain" → "memory" (Pattern 43); two product modes — record vs act (Pattern 44); knowledge-work ICP counter-signal (Pattern 45); ONA + broker use-cases opened; objection cluster gains "replacement-framing" flavor
+- [[Interview 027 — Sebastian Gras (FDU, Germany)]] — first customer-side voice; 30-plant precast Mittelstand group; independently confirms Pattern 44 (active retrieval, temporal decoupling); 85-90% recurring-process self-quantification (Pattern 47); cross-site silos as new ICP vector (Pattern 46); Pattern 31 €20K story validated unprompted
 - [[MI — Mem (a16z Podcast)]] — consumer second brain analysis, zero-organisation principle, personalisation
 - [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI maturity model; maps to Patterns 25, 29, 35; 40% productivity stat; free diagnostic tool at haicmm.com
 - [[MI — Second Brain Execution Layer (YouTube)]] — two-layer architecture (context + execution); "institutional inheritance" framing; Obsidian-as-demo confirmed
@@ -155,6 +156,7 @@
 | 7    | Interview 024: Eberhard Müller-Menrad — knowledge hoarding as job security (Pattern 41); head-of-dept sweet spot cross-industry (Pattern 42); YNG intro; insolvency case confirms succession cliff | ✅ Done |
 | 7    | Standup May 20: YNG confirmed, Filigran seminar plan, delegation-first model, Ivor Fellowship deadline June 2 | ✅ Done |
 | 7    | Interview 026: Eric Quintane (ESMT, Organizational Behavior) — second academic stress-test; metaphor pivot (brain → memory, Pattern 43); two-mode product hypothesis (Pattern 44); knowledge-work ICP counter-signal (Pattern 45); ONA + broker adjacent surfaces; replacement-framing added to objection cluster | ✅ Done |
+| 7    | Interview 027: Sebastian Gras (FDU 30-plant precast) — first customer-side voice; Pattern 44 third confirmation (active retrieval, temporal decoupling, named-author Q&A); Pattern 46 (cross-site silos in multi-site Mittelstand); Pattern 47 (85-90% recurring-process self-quantification); Pattern 31 €20K story validated unprompted | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 
