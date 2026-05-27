@@ -111,6 +111,9 @@
 ### Mentors
 - [[Mentor Council Strategy]] — top 3 candidates ranked by complementarity to Oliver von Quast; 13-profile evaluation
 
+### Pilots
+- [[_Methodology-Summary]] — Filigran pilot: living methodology synthesis; per-domain Layer-2 learning + Layer-1 meeting records under `09-Pilots/Filigran/`
+
 ### Audits
 
 - [[Vault Audit — 2026-05-05]] — first audit created
