@@ -74,3 +74,39 @@ When asked a question about the project, research, or strategy:
 1. Read relevant files (use index in Home.md to find them)
 2. Synthesise an answer with wikilinks to sources
 3. If the answer is substantial enough to be reusable, suggest creating a new vault page for it
+
+## SOLCO Pilot — Transcript Summarization
+
+When asked to summarize a pilot meeting transcript, follow this exactly.
+
+**Output:** English. Translate from German as needed. Preserve in original language: project vocabulary (Atomisierung, Wissensbausteine, Wissensarchivierung, Erkundungs-Phase, Second Brain, MVP), Filigran-internal terms (Bautechnik, Produktionsplanung, Maschinenzuteilung, etc.), and direct quotes used for tacit-knowledge signals. Gloss unfamiliar terms in parentheses on first use.
+
+**Input:** Plain text or Microsoft Teams export (timestamped, speaker-labeled). Do not invent speaker attributions; mark "unattributed" if unclear.
+
+**Attached materials:** PDFs, slides, sketches, spreadsheets shared in connection with the meeting are *context*, not separate documents to summarize. Read them to disambiguate references and pull facts only when they inform what was discussed. Treat their existence and shape as a tacit-knowledge signal (a homemade workaround = missing formal documentation).
+
+**Sections to produce, in order, with these exact headings:**
+
+1. **Metadata** — date, participants, duration, format, primary domain(s), source transcript filename.
+2. **Attached materials inventory** — per file: name, what it is, how referenced, role (context / tacit-knowledge evidence / source of facts), notable form. Else "No attached materials."
+3. **Executive summary** — one-liner (max 2 sentences) + full paragraph (5–8 sentences).
+4. **Thematic breakdown** — themes emerge from the meeting, not from a fixed taxonomy. Per theme: key information, specific details, action items (owner + deadline or "unclear"/"none stated"). Order by importance to the project, not order of discussion.
+5. **Decisions made** — what, who, rationale, what it supersedes. If none: "No formal decisions reached."
+6. **Open questions and unresolved items** — distinct from action items. Things nobody knows yet.
+7. **Tacit-knowledge signals** — flag moments of "you just know," "ask [person]," "we never wrote that down," etc. Per signal: brief quote (≤15 words), speaker, domain/process, why it matters.
+8. **Vocabulary watch** — partner-specific terms (with gloss) and which project-vocabulary terms appeared.
+9. **Methodological observations** — (a) extraction-methodology learnings, (b) vault/structural implications. If neither: "No methodological observations."
+10. **Operational hand-off** — Filigran-side actionables and SOLCO-side actionables, each with owner + deadline.
+11. **Cross-references and gaps** — continues from / revises prior sessions; notable absences.
+
+**Discipline:**
+- Do not invent. Mark "not stated" rather than guess.
+- Quote sparingly; synthesize.
+- Mark inference vs. report ("appears to suggest" vs. "stated that").
+- Note unclear transcript passages rather than smoothing over.
+- No tonal/relational substance in the record. If something tonal seems important, flag at the very end under "Notes for content-side review" without recording substance.
+- Distinguish transcript facts from attachment-derived facts ("per the attached template").
+- Do not bloat the summary with attachment content. The summary is about the *meeting*.
+- Self-contained: a reader who hasn't seen the transcript should understand what happened.
+
+**File placement:** Raw transcripts and attachments → `09-Pilots/Filigran/_Raw/` with the naming convention `JJJJ-MM-TT_Bereich_Initialen_Kurzthema`. Meeting-record summaries → `09-Pilots/Filigran/<Domain>/Layer-1-Meeting-Records/`, named `JJJJ-MM-TT_<Bereich>_Meeting-Record.md`.
