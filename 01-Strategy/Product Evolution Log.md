@@ -160,6 +160,15 @@ Vague: "small and medium enterprises going through succession." No size range, n
 - **Scope:** Vault-wide rename across all strategy, research, deliverables, standups, mentor, and audit notes. Raw transcripts in 00-Raw/ left untouched (immutable).
 - **Status:** ADOPTED across all material going forward.
 
+### Pivot 21 — Filigran pilot kickoff sharpens the product thesis (May 22–27, 2026)
+- **Trigger:** Filigran internal pilot — cross-domain kickoff (2026-05-22) + Bautechnik Session 1 (2026-05-27). Full records in `09-Pilots/Filigran/`.
+- **What changed / was confirmed:**
+  - **Atomisierung is the moat — proven by a failure, not a claim.** Bauermeister built a working local LLM chat (Ollama + Llama 3 8B / Mistral) but failed at vector-DB ingest of real Filigran documents (LlamaIndex "Schritt 5"). The exact point where a capable internal expert gives up is exactly where Solco's value begins: context-rich chunking + retrieval over mixed formats (text, drawings, tables, photos). Brute-force file dumping ≈ a searchable folder, and is explicitly *not* the product.
+  - **Data protection is the binding adoption constraint in regulated Mittelstand.** Default-deny IT posture ("alles was nicht erlaubt ist, ist verboten"), AI transcription already banned, and a multi-step approval chain (internal coordinator → external DPO "Scope and Focus" → Geschäftsleitung, 2–4 weeks; the AI policy itself took ~9 months). This **reinforces both the consulting-practice model (not SaaS) and the local / data-sovereign LLM angle** (Mistral, locally-hosted Ollama) as a deliberate competitive differentiator, not just a preference.
+  - **Documentation-first, defer-AI sequencing** independently endorsed by Filigran's IT lead (finish the concrete ingest, learn, then expand).
+- **Status:** Pilot in execution. These are confirmations + sharpenings of the v6 thesis, not a new direction. Methodology detail lives in `09-Pilots/Filigran/_Methodology-Summary.md`.
+- **Candidate new pattern (to add to [[Patterns From Fieldwork]] in Obsidian):** *data-protection approval chain as a sales-cycle gate* in regulated Mittelstand.
+
 ---
 
 ## Current State (May 27, 2026)
