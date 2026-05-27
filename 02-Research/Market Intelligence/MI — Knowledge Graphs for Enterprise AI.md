@@ -14,11 +14,11 @@ created: 2026-05-16
 
 ## What This Is
 
-Three practitioner and research sources on knowledge graphs as the technical infrastructure for enterprise AI. These sources explain why flat document stores fail, what knowledge graphs add, and how LLMs can help build them. Directly relevant to Solcus Phase 2 architecture — the graph is the long-term technical substrate, not just a nice-to-have.
+Three practitioner and research sources on knowledge graphs as the technical infrastructure for enterprise AI. These sources explain why flat document stores fail, what knowledge graphs add, and how LLMs can help build them. Directly relevant to Solco Phase 2 architecture — the graph is the long-term technical substrate, not just a nice-to-have.
 
 ---
 
-## Key Insights Relevant to Solcus
+## Key Insights Relevant to Solco
 
 ### 1. Four context types enterprise AI needs (Atomicwork)
 
@@ -31,9 +31,9 @@ Modern enterprise AI agents need four types of context to function as "informed 
 | **Knowledge context** | Decisions, policies, processes, FAQs |
 | **Tribal context** | Unwritten rules, institutional memory, "how we do things here" |
 
-The tribal context is what document-first tools completely miss — and what Solcus specialises in capturing.
+The tribal context is what document-first tools completely miss — and what Solco specialises in capturing.
 
-**Solcus angle:** Our Phase 1 extraction directly targets the tribal context — the category AI agents need most and can get least from existing documents. This framing positions Solcus as "tribal context infrastructure" rather than document indexing.
+**Solco angle:** Our Phase 1 extraction directly targets the tribal context — the category AI agents need most and can get least from existing documents. This framing positions Solco as "tribal context infrastructure" rather than document indexing.
 
 ### 2. AI agents as "informed insiders, not external assistants"
 
@@ -41,7 +41,7 @@ Atomicwork: the difference between a useful AI agent and a generic chatbot is wh
 
 "When you onboard the knowledge graph, the agent becomes oriented" — same as a new employee who gets the full briefing.
 
-**Solcus angle:** Our product isn't just for the founder's memory — it's for training the AI agent that will work alongside the successor. The graph we build in Phase 1 is the agent's onboarding document. This is a strong Phase 2 pitch: "the knowledge we extract in Phase 1 becomes the brain of your AI assistant."
+**Solco angle:** Our product isn't just for the founder's memory — it's for training the AI agent that will work alongside the successor. The graph we build in Phase 1 is the agent's onboarding document. This is a strong Phase 2 pitch: "the knowledge we extract in Phase 1 becomes the brain of your AI assistant."
 
 ### 3. Knowledge graph structure: triplets (Glean)
 
@@ -56,7 +56,7 @@ This structure enables multi-hop reasoning: "Who knows how to handle clients in 
 
 Flat document stores can answer: "What does our CRM say about client X?" Knowledge graphs can answer: "What do we know about how we win in this kind of situation?"
 
-**Solcus angle:** Our extraction process should explicitly capture triplet-form relationships, not just narrative. The campfire method produces stories. The structured session should convert stories into (subject, predicate, object) triples — that's what makes the knowledge graph machine-queryable.
+**Solco angle:** Our extraction process should explicitly capture triplet-form relationships, not just narrative. The campfire method produces stories. The structured session should convert stories into (subject, predicate, object) triples — that's what makes the knowledge graph machine-queryable.
 
 ### 4. LLMs struggle with the queries knowledge graphs solve (Glean)
 
@@ -67,7 +67,7 @@ LLMs are trained for next-token prediction. They fail at:
 
 Knowledge graphs solve all three. The combination of LLM (for understanding language, generating responses) + knowledge graph (for structured, verifiable context) is now called **GraphRAG**.
 
-**Solcus angle:** Our Phase 2 architecture should be GraphRAG, not flat RAG. Flat RAG (Notion AI, Guru) works on documents but fails on relationships. GraphRAG works on relationships — which is exactly what founder knowledge is made of.
+**Solco angle:** Our Phase 2 architecture should be GraphRAG, not flat RAG. Flat RAG (Notion AI, Guru) works on documents but fails on relationships. GraphRAG works on relationships — which is exactly what founder knowledge is made of.
 
 ### 5. LLM-powered knowledge graph construction (Althire AI, arXiv 2503.07993)
 
@@ -78,7 +78,7 @@ Althire AI built a framework for automatically constructing activity-centric kno
 
 Pilot (finance + healthcare, 6 months): entity extraction at 92% accuracy. Used for expertise discovery, task prioritization, and team analytics.
 
-**Solcus angle:** This is the Phase 2 automated pipeline. Phase 1 = human-assisted extraction (our engagement). Phase 2 = Althire-style automated construction from ongoing organizational data (Slack, emails, call transcripts). The 92% accuracy stat means the automated layer needs human validation — we remain in the loop.
+**Solco angle:** This is the Phase 2 automated pipeline. Phase 1 = human-assisted extraction (our engagement). Phase 2 = Althire-style automated construction from ongoing organizational data (Slack, emails, call transcripts). The 92% accuracy stat means the automated layer needs human validation — we remain in the loop.
 
 ### 6. Enterprise privacy is a structural moat (Glean)
 
@@ -86,7 +86,7 @@ Public knowledge graphs (DBpedia, Wikidata) are built on open data. Enterprise k
 
 This creates a structural barrier: you can't just "plug in" a commodity graph service. Someone has to build the graph in a trust-first environment.
 
-**Solcus angle:** Our on-site engagement model (founder trusts us because we're present, not because we're a SaaS tool) is exactly right for the privacy-sensitive layer. The knowledge that matters most — who you fired and why, which deals you killed, how you actually structured that partnership — will never enter a cloud-based tool voluntarily. Our high-touch model is the privacy moat.
+**Solco angle:** Our on-site engagement model (founder trusts us because we're present, not because we're a SaaS tool) is exactly right for the privacy-sensitive layer. The knowledge that matters most — who you fired and why, which deals you killed, how you actually structured that partnership — will never enter a cloud-based tool voluntarily. Our high-touch model is the privacy moat.
 
 ---
 

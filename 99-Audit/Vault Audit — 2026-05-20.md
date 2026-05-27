@@ -18,7 +18,7 @@
 | `Interview 022 — Marco Nortmeier` | ⚠️ WARNING | Claims "Pattern 39 — Partial-capture honesty principle: Marco's '99,9999% aber nie 100%' framing is a practitioner's version of Francis's honesty principle" as CONFIRMED. Pattern 39 does not exist. Pattern 40 correctly added and well-sourced. All other refs (Patterns 2, 22, 25, 29, 35) valid. Wikilinks valid. |
 | `Interview 023 — Maciej Bogacz` | ✅ PASS | All pattern references (17, 18, 14, 16) match existing patterns. SHARPENS Pattern 17 (correctly identified as not adding a new pattern). All wikilinks valid. Date correct. Strong file. |
 | `Interview 024 — Eberhard Müller-Menrad` | ⚠️ WARNING | Cites Pattern 11 ("Self-preservation knowledge hoarding") confirmation but Pattern 11 is **renumbered to Pattern 25** in the patterns file (with explanatory note). Should reference Pattern 25, not Pattern 11. Patterns 41, 42 correctly added; Pattern 5, 14, 35 references valid. All wikilinks valid. **Note:** User-overwritten version replaced the original. Spelling typo "Armin Struckmier" appears in Action Items pointing to "Interview 017 — Armin Struckmeier" — wikilink is correct, prose spelling is the inconsistent one. |
-| All 18 MI notes | ✅ PASS (spot-checked) | Consistent frontmatter format (title, tags, created date); each has a Solcus-angle section and Related section. Wikilinks valid. The three latest (Silver Tsunami, Domain Expert, Expert Interview Design) follow the established template. No phantom links. |
+| All 18 MI notes | ✅ PASS (spot-checked) | Consistent frontmatter format (title, tags, created date); each has a Solco-angle section and Related section. Wikilinks valid. The three latest (Silver Tsunami, Domain Expert, Expert Interview Design) follow the established template. No phantom links. |
 | `1 to 1s — Week 6` | ✅ PASS | Chained to Week 5; references Standup 2026-05-19; new leads table populated. Mentor Feedback section empty (expected — not yet held at writing time). |
 | `Standup — 2026-05-14` | 🔴 FAIL (name accuracy) | Three name errors in the "Week Recap" interview table: (a) "Roland Werbe" should be **Roland Wübbe** (Interview 021), (b) "Michael Nordmeyer" should be **Marco Nortmeier** (Interview 022), (c) "Justus Müller-Menrad" — ambiguous: standup says "possibly in M&A in Dubai" but Interview 024 says Eberhard's Dubai son is **Lucas** (management consulting → INSEAD). One additional name in Outreach: "Johann Vermut" should be **Jochen Wermuth** (per Network folder + standup context). |
 | `Standup — 2026-05-19` | ✅ PASS | Properly chained. Concise. Open threads documented. |
@@ -221,8 +221,8 @@ The "OBJECTION CLUSTER (21 + 37 + 39)" entry repeats the Pattern 39 phantom refe
 4. **02-Research/ description:** *"All interviews (001-011+)"* — imprecise; bump to "001-024+".
 5. **ICP Definition note:** *"v1 created May 2026, covers Interviews 001–011. Needs v2 update."* — outdated; ICP Definition is already at v2 (covers 001–019). Should say: *"v2 created May 12 2026, covers Interviews 001–019. Needs v3 update to incorporate Interviews 020–024 + Pattern 41 timing axis + post-handover former CEO segment."*
 
-### No mentions of Solcus name
-The CLAUDE.md `## Project` line refers to *"an AI-powered 'digital due diligence' service"* — no mention that the project is named **Solcus** (decided 2026-05-14). Either update or note that "Solcus" is the working name.
+### No mentions of Solco name
+The CLAUDE.md `## Project` line refers to *"an AI-powered 'digital due diligence' service"* — no mention that the project is named **Solco** (decided 2026-05-14). Either update or note that "Solco" is the working name.
 
 ---
 
@@ -243,9 +243,9 @@ Per audit instructions, 00-Raw/ contents were NOT read. Cannot verify `[[RAW FIL
 
 | Doc | Last touched | Covers up to | Reflects post-May 12 work? |
 |---|---|---|---|
-| `Problem Statement.md` | May 12, v5 | Interviews 012–019 | ❌ No mention of Interviews 020–024, Patterns 40/41/42, methodology-not-model framing (020/022), Solcus name, closed-loop system, post-handover CEO segment |
+| `Problem Statement.md` | May 12, v5 | Interviews 012–019 | ❌ No mention of Interviews 020–024, Patterns 40/41/42, methodology-not-model framing (020/022), Solco name, closed-loop system, post-handover CEO segment |
 | `ICP Definition.md` | May 12, v2 | Interviews 001–019 | ❌ Missing post-handover CEO segment (021, 024), Pattern 41 timing axis, Pattern 42 cross-industry confirmation, "internal IT lead with operational authority" persona (022) |
-| `Product Evolution Log.md` | May 12 | Pivots 1–14 | ❌ Missing: Solcus name (Pivot 15+), two-track Filigran pilot (Pivot from 022), "consulting practice not tech company" identity reframe (Pivot from 020), closed-loop system (Pivot from Week 6), delegation-first scalability (Pivot from Standup 20), retirement-window timing (Pivot from 024) |
+| `Product Evolution Log.md` | May 12 | Pivots 1–14 | ❌ Missing: Solco name (Pivot 15+), two-track Filigran pilot (Pivot from 022), "consulting practice not tech company" identity reframe (Pivot from 020), closed-loop system (Pivot from Week 6), delegation-first scalability (Pivot from Standup 20), retirement-window timing (Pivot from 024) |
 | `Product Methodology.md` | Updated post-Pattern 28/34 | Pillars + Pattern 28, 34 | ❌ Missing Pattern 35 (three trust thresholds), Pattern 40 (documentation entropy → maintenance mechanism), Pattern 41 (timing), methodology-not-model framing |
 | `Competitors.md` | May 14 | Inc. Ontora (Week 6) | ❌ Missing: SAP-implementation knowledge-capture startup (€3.5M raised, mentioned in Interview 024); Pattern 41 timing dimension; "Armin Stuttmeyer" (Life Book section) — name still misspelled |
 | `Upstream vs Downstream.md` | May 12 | Through Interview 019 | ❌ Missing: post-handover Roland case (021) — the meta-witness; insolvent Eberhard case (024) — the cautionary tale |
@@ -259,7 +259,7 @@ Per audit instructions, 00-Raw/ contents were NOT read. Cannot verify `[[RAW FIL
 
 **Pitch Deck Slide 5** still says "What the First Interview Told Us" — narrative anchor is 23 interviews stale.
 
-**Pitch Deck Slide 1** still has `[Project Name]`, `[Names]`, `[Accelerator]`, `[Date]` placeholders. Solcus name not integrated.
+**Pitch Deck Slide 1** still has `[Project Name]`, `[Names]`, `[Accelerator]`, `[Date]` placeholders. Solco name not integrated.
 
 **Pitch Deck Q&A** says "19 interviews complete... 35 patterns surfaced." Now 24 interviews + 36 patterns + 5+ MI-validated insights.
 
@@ -278,7 +278,7 @@ Per audit instructions, 00-Raw/ contents were NOT read. Cannot verify `[[RAW FIL
 All 18 follow approximately the same template:
 - Sources block at top
 - "What This Is" framing paragraph
-- Key Insights Relevant to Solcus (numbered, with "Solcus angle" subsections)
+- Key Insights Relevant to Solco (numbered, with "Solco angle" subsections)
 - "What We Can Learn" / actionable summary
 - Related links
 
@@ -288,7 +288,7 @@ All 18 follow approximately the same template:
 Lists all 18 MI notes ✅. Updated through the most recent batch (2026-05-20).
 
 ### Cross-reference to product
-Every MI note has a "Solcus angle" or product-relevance section. ✅ Strong.
+Every MI note has a "Solco angle" or product-relevance section. ✅ Strong.
 
 ### Possible merges / overlaps
 
@@ -338,7 +338,7 @@ Industry tags (inconsistent): `#manufacturing`, `#construction`, `#eyewear`, `#f
 | `One-Pager.md` "within weeks" claim | Specific text undermines credibility per Interview 006 | EDIT (don't archive) |
 | 18 thin People notes | Aneta Sikora, MaCeVi, Oskar Gieburowski, etc. | KEEP as placeholders or COMPLETE — they are pre-interview contact stubs, intentional |
 | `Files/Future of European SME.pdf` | Unreferenced from any .md note | LINK from Market Data or Problem Statement if relevant; otherwise FLAG |
-| Pre-fieldwork Pitch Deck slide placeholders | `[Project Name]`, `[Co-founder]`, `[Names]`, `[Accelerator]`, `[Date]` | EDIT — fill with Solcus + Wolf+Giuseppe + Vali Entrepreneurship Hub + current date |
+| Pre-fieldwork Pitch Deck slide placeholders | `[Project Name]`, `[Co-founder]`, `[Names]`, `[Accelerator]`, `[Date]` | EDIT — fill with Solco + Wolf+Giuseppe + Vali Entrepreneurship Hub + current date |
 | "Flagged for Research" table in Competitors.md | 8 stubs (Remly, Noah, Runeform, etc.) without assessment | MERGE into a separate "Adjacent companies for monitoring" subsection or fully assess each |
 | Pre-Pattern-28 Product Methodology language ("structured interviews" relics) | Some inconsistency with current "campfire" framing | EDIT for consistency |
 
@@ -374,7 +374,7 @@ Order, naming, and emphasis differ across the three core docs. Reconciliation: P
 
 ### Vocabulary alignment
 
-- **"Solcus" name:** Used consistently in Standups (May 14+), Week 6 1:1, Competitors (Ontora response), Product Evolution Log entries since May 14, recent MI notes. NOT in Pitch Deck (still placeholder), NOT in Problem Statement v5, NOT in CLAUDE.md project description, NOT in One-Pager.
+- **"Solco" name:** Used consistently in Standups (May 14+), Week 6 1:1, Competitors (Ontora response), Product Evolution Log entries since May 14, recent MI notes. NOT in Pitch Deck (still placeholder), NOT in Problem Statement v5, NOT in CLAUDE.md project description, NOT in One-Pager.
 - **"Closed-loop system":** Introduced in Week 6 1:1 and Standup May 19. Not yet in Problem Statement, Product Methodology, or Pitch Deck.
 - **"Delegation-first methodology":** Standup May 20. Not yet in Product Methodology or Pitch Deck.
 - **"Judgment framework capture":** Consistent across Problem Statement v5, ICP Definition v2, Product Methodology. ✅
@@ -484,7 +484,7 @@ This is the most precise wedge definition possible. Neither pattern alone has th
 
 ### Theme: Life Book (Armin's lead) Is the External Validation of the MI — Storytelling SECI Externalization Quadrant
 
-**MEDIUM IMPORTANCE.** Life Book uses structured interview methodology, now AI-integrated, to harvest life stories — exactly the operation SECI model calls "Externalization" (tacit → explicit). They sell this service at $10-20K/book. Solcus does the same operation for business knowledge at $15-25K/engagement. The methodology equivalence is precise but not documented:
+**MEDIUM IMPORTANCE.** Life Book uses structured interview methodology, now AI-integrated, to harvest life stories — exactly the operation SECI model calls "Externalization" (tacit → explicit). They sell this service at $10-20K/book. Solco does the same operation for business knowledge at $15-25K/engagement. The methodology equivalence is precise but not documented:
 
 - Competitors.md describes Life Book as competitor/methodology source
 - MI — Storytelling describes SECI externalization quadrant
@@ -506,7 +506,7 @@ This is the most precise wedge definition possible. Neither pattern alone has th
 
 ### Theme: The MCP-First Phase 2 Architecture is Theoretically Grounded Across 4 MI Notes But Not in Product Methodology
 
-**MEDIUM IMPORTANCE.** Four MI notes (Context Engineering Platforms, The AI Operating Layer, Knowledge Graphs for Enterprise AI, Domain Expert Knowledge in AI Systems) together describe the technical architecture Solcus's Phase 2 should adopt: MCP standard, temporal knowledge graphs, vertical-AI expert-intelligence layer, governance. Product Methodology mentions none of these.
+**MEDIUM IMPORTANCE.** Four MI notes (Context Engineering Platforms, The AI Operating Layer, Knowledge Graphs for Enterprise AI, Domain Expert Knowledge in AI Systems) together describe the technical architecture Solco's Phase 2 should adopt: MCP standard, temporal knowledge graphs, vertical-AI expert-intelligence layer, governance. Product Methodology mentions none of these.
 
 **Recommendation:** Add a "Technical Architecture (Phase 2)" section to Product Methodology summarising the MCP-first / GraphRAG / Zep-temporal stack with citations to the four MI notes.
 
@@ -527,7 +527,7 @@ This is the most precise wedge definition possible. Neither pattern alone has th
 4. **Fix Pitch Deck factual errors:**
    - ICP revenue range: change €2-20M → €5-25M (align with ICP Definition).
    - Q&A stats: 19 interviews → 24; 35 patterns → 36 (+5 MI-validated insights).
-   - Replace `[Project Name]` placeholder with **Solcus** on Slide 1.
+   - Replace `[Project Name]` placeholder with **Solco** on Slide 1.
    - Replace `[Co-founder]` / `[Names]` placeholders on Slide 6 with Wolf + Giuseppe.
    - Rename Slide 5 ("What the First Interview Told Us" → "What 24 Interviews Told Us").
 
@@ -551,9 +551,9 @@ This is the most precise wedge definition possible. Neither pattern alone has th
 
 10. **Add 5 Interview 024 open questions to Open Questions.md.**
 
-11. **Update Product Evolution Log** — Add Pivots 15-19 covering Interviews 020-024, Solcus name, closed-loop system, delegation-first methodology, two-track Filigran pilot, retirement-window timing.
+11. **Update Product Evolution Log** — Add Pivots 15-19 covering Interviews 020-024, Solco name, closed-loop system, delegation-first methodology, two-track Filigran pilot, retirement-window timing.
 
-12. **Update Problem Statement to v6** — Reflect Interviews 020-024, Patterns 40/41/42, Solcus name, methodology-not-model framing.
+12. **Update Problem Statement to v6** — Reflect Interviews 020-024, Patterns 40/41/42, Solco name, methodology-not-model framing.
 
 13. **Update ICP Definition to v3** — Add post-handover former CEO segment (021, 024), Pattern 41 timing axis, Pattern 42 cross-industry confirmation, "internal IT lead with operational authority" persona.
 
@@ -611,23 +611,23 @@ This is the most precise wedge definition possible. Neither pattern alone has th
 
 36. **Standardise tag plural vs singular** — `#patterns` is used consistently; spot-check for `#interview` vs `#interviews` (none found inconsistent, but verify with mass-tag list).
 
-37. **Update CLAUDE.md project description** to mention "Solcus" as the working name.
+37. **Update CLAUDE.md project description** to mention "Solco" as the working name.
 
 ---
 
 ## 16. Compact Vault Summary
 
-**What the vault contains.** ~165 .md notes (excluding 00-Raw) representing the knowledge work of Wolf & Giuseppe at Vali Entrepreneurship Hub. Project: Solcus — an AI-powered service that extracts tacit, decision-making, and relational knowledge from organically grown Mittelstand SMEs in Germany/Italy/Poland. Customer-discovery phase. ~52 raw transcripts and source documents in 00-Raw; ~24 structured interview notes; 18 Market Intelligence notes synthesizing academic, industry, and practitioner research; 11 strategy docs; 8 standups; 4 weekly 1:1s; a 46-file Network folder with Contact List + per-person notes for the outreach pipeline; 2 prior audits + this one.
+**What the vault contains.** ~165 .md notes (excluding 00-Raw) representing the knowledge work of Wolf & Giuseppe at Vali Entrepreneurship Hub. Project: Solco — an AI-powered service that extracts tacit, decision-making, and relational knowledge from organically grown Mittelstand SMEs in Germany/Italy/Poland. Customer-discovery phase. ~52 raw transcripts and source documents in 00-Raw; ~24 structured interview notes; 18 Market Intelligence notes synthesizing academic, industry, and practitioner research; 11 strategy docs; 8 standups; 4 weekly 1:1s; a 46-file Network folder with Contact List + per-person notes for the outreach pipeline; 2 prior audits + this one.
 
-**State.** Methodologically converged, organisationally maturing, strategy docs lagging. The fieldwork data (24 interviews across 4 industries — eyewear, construction/precast, aluminium, textile) is rich and the 36 named patterns are well-sourced (with phantom Pattern 39 being the most consequential bug). The 18 MI notes provide strong academic backing for the methodology — three external angles (knowledge elicitation, knowledge graphs, context engineering / vertical AI) all converging on the Solcus thesis. The most important strategic ideas (Solcus name, closed-loop system, methodology-not-model identity, two-track Filigran pilot, retirement-window timing window) are documented in standups/1:1s/interviews but **not yet flowing into Problem Statement v6, ICP Definition v3, Product Methodology, or Pitch Deck.** The Pitch Deck in particular has factual placeholders and stale statistics that block external presentation.
+**State.** Methodologically converged, organisationally maturing, strategy docs lagging. The fieldwork data (24 interviews across 4 industries — eyewear, construction/precast, aluminium, textile) is rich and the 36 named patterns are well-sourced (with phantom Pattern 39 being the most consequential bug). The 18 MI notes provide strong academic backing for the methodology — three external angles (knowledge elicitation, knowledge graphs, context engineering / vertical AI) all converging on the Solco thesis. The most important strategic ideas (Solco name, closed-loop system, methodology-not-model identity, two-track Filigran pilot, retirement-window timing window) are documented in standups/1:1s/interviews but **not yet flowing into Problem Statement v6, ICP Definition v3, Product Methodology, or Pitch Deck.** The Pitch Deck in particular has factual placeholders and stale statistics that block external presentation.
 
-**What 24 interviews + 18 MI notes have taught us.** (a) The ICP is precisely the head-of-department role layer (Pattern 42) inside Mittelstand companies that have hit the ERP ceiling (Pattern 22) — cross-industry confirmed in 4 sectors. (b) The extraction methodology is the moat, not the AI — Francis, Marco, Roland, and Sundberg & Holmström all independently arrive at this. (c) The market is moving toward vertical AI / expert intelligence (400% YoY) and Solcus is structurally positioned at the front of this wave. (d) The Silver Tsunami is quantified — 43% of Germany's workforce retires by 2036, $31.5B Fortune 500 attrition, 20/80 explicit-vs-tacit split, 68% of industrial companies have no KM program. (e) Knowledge hoarding is real but timing-resolvable (Pattern 41 — the retirement window of openness). (f) Three GTM angles validated: succession (Preserve & Scale), M&A (Acquire & Exit, with quantified ROI from Maciej's data: 40-60× return on €15-25K fee), pre-transformation documentation. (g) The "always-on" / closed-loop system framing addresses Pattern 40 (documentation entropy) and is the Phase 2 product evolution beyond the initial 4-6 week engagement.
+**What 24 interviews + 18 MI notes have taught us.** (a) The ICP is precisely the head-of-department role layer (Pattern 42) inside Mittelstand companies that have hit the ERP ceiling (Pattern 22) — cross-industry confirmed in 4 sectors. (b) The extraction methodology is the moat, not the AI — Francis, Marco, Roland, and Sundberg & Holmström all independently arrive at this. (c) The market is moving toward vertical AI / expert intelligence (400% YoY) and Solco is structurally positioned at the front of this wave. (d) The Silver Tsunami is quantified — 43% of Germany's workforce retires by 2036, $31.5B Fortune 500 attrition, 20/80 explicit-vs-tacit split, 68% of industrial companies have no KM program. (e) Knowledge hoarding is real but timing-resolvable (Pattern 41 — the retirement window of openness). (f) Three GTM angles validated: succession (Preserve & Scale), M&A (Acquire & Exit, with quantified ROI from Maciej's data: 40-60× return on €15-25K fee), pre-transformation documentation. (g) The "always-on" / closed-loop system framing addresses Pattern 40 (documentation entropy) and is the Phase 2 product evolution beyond the initial 4-6 week engagement.
 
-**Direction.** Solcus is moving from research mode to delivery mode. Filigran is verbally-greenlit as the first internal proof-of-concept (Marco Nortmeier: "Also machen wir's"). AWW is the leading external beta candidate via Hubi's AI partner. Two-track approach (internal + external) is implicit but not yet formally documented. Mentor Day prep + Ivor Fellowship application deadline (June 2) are the immediate forcing functions for the strategy doc refresh and the Pitch Deck rebuild.
+**Direction.** Solco is moving from research mode to delivery mode. Filigran is verbally-greenlit as the first internal proof-of-concept (Marco Nortmeier: "Also machen wir's"). AWW is the leading external beta candidate via Hubi's AI partner. Two-track approach (internal + external) is implicit but not yet formally documented. Mentor Day prep + Ivor Fellowship application deadline (June 2) are the immediate forcing functions for the strategy doc refresh and the Pitch Deck rebuild.
 
 **Most urgent needs.**
 1. **Define or remove Pattern 39** — the phantom cascades through four files and undermines pattern integrity.
-2. **Refresh the Pitch Deck before Mentor Day (May 27)** — Solcus name, ICP revenue range, N=24, integrate two-pillar framing (broad applicability + narrow proof of concept).
+2. **Refresh the Pitch Deck before Mentor Day (May 27)** — Solco name, ICP revenue range, N=24, integrate two-pillar framing (broad applicability + narrow proof of concept).
 3. **Update Problem Statement to v6 and ICP Definition to v3** before the Ivor Fellowship application (deadline June 2).
 4. **Resolve the Pattern 41 + Pattern 22 + Pattern 42 cross-references** to give the ICP framing the precision the data supports.
 5. **Map the network clusters** (Polish / Filigran / YPO / Wübbe) so the outreach pipeline becomes navigable rather than just listable.
@@ -649,4 +649,4 @@ This is the most precise wedge definition possible. Neither pattern alone has th
 - [[Pitch Deck Content]] — multiple factual fixes needed before May 27
 - [[Competitors]] — Stuttmeyer typo, SAP-implementation startup missing
 - [[Interview Guide]] — phantom Pattern 9 + Pattern 10 references
-- [[CLAUDE.md]] — folder structure stale; pattern count stale; Solcus name missing
+- [[CLAUDE.md]] — folder structure stale; pattern count stale; Solco name missing

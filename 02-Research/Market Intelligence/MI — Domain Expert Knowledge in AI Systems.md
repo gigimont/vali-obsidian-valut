@@ -16,11 +16,11 @@ created: 2026-05-20
 
 ## What This Is
 
-Five sources from different disciplines all converging on one thesis: general AI without domain expert knowledge is insufficient for specific, high-stakes applications. The "end of theory" prediction — that big data would make human expertise obsolete — is empirically wrong. Expert knowledge is not just helpful but architecturally necessary for producing reliable, domain-specific AI. This directly underpins the Solcus thesis: the reason companies need to extract expert knowledge is not just for succession planning but because that knowledge is the input that makes their AI future-ready.
+Five sources from different disciplines all converging on one thesis: general AI without domain expert knowledge is insufficient for specific, high-stakes applications. The "end of theory" prediction — that big data would make human expertise obsolete — is empirically wrong. Expert knowledge is not just helpful but architecturally necessary for producing reliable, domain-specific AI. This directly underpins the Solco thesis: the reason companies need to extract expert knowledge is not just for succession planning but because that knowledge is the input that makes their AI future-ready.
 
 ---
 
-## Key Insights Relevant to Solcus
+## Key Insights Relevant to Solco
 
 ### 1. The "end of theory" myth debunked — expert knowledge is architecturally necessary
 
@@ -32,7 +32,7 @@ Hansen & Quinon (Synthese 2023): the popular belief that big data + ML can repla
 
 "The human contribution to scientific progress is deemed to be non-essential and replaceable" — this view is wrong, and they demonstrate it.
 
-**Solcus angle:** The same argument applies to business AI. General LLMs can answer general questions. But a company's specific decision-making patterns, relational history, and operational judgment are NOT in the training data. Without extraction, the company's AI is generic. With extraction, it's specific. This is the fundamental "why" behind the product.
+**Solco angle:** The same argument applies to business AI. General LLMs can answer general questions. But a company's specific decision-making patterns, relational history, and operational judgment are NOT in the training data. Without extraction, the company's AI is generic. With extraction, it's specific. This is the fundamental "why" behind the product.
 
 ### 2. Vertical AI growing 400% YoY as general AI hits a plateau
 
@@ -42,7 +42,7 @@ The evolution of AI training: basic RLHF (any human feedback) → expert RLHF (e
 
 Intuit's $1.4B expert intelligence platform is the enterprise proof point. Google and Anthropic are partnering with Turing specifically for expert-trained specialised models.
 
-**Solcus angle:** The Solcus knowledge base is an expert intelligence layer — the same thing Intuit built for $1.4B, applied to Mittelstand SMEs. We're not building "AI for SMEs" in a generic sense; we're building the expert context layer that makes their AI useful. This is the right frame for any technical investor conversation.
+**Solco angle:** The Solco knowledge base is an expert intelligence layer — the same thing Intuit built for $1.4B, applied to Mittelstand SMEs. We're not building "AI for SMEs" in a generic sense; we're building the expert context layer that makes their AI useful. This is the right frame for any technical investor conversation.
 
 ### 3. Informed ML: prior knowledge compensates for small datasets
 
@@ -50,7 +50,7 @@ Lamarr Institute: "Informed Machine Learning" integrates prior expert knowledge 
 
 For SMEs with limited digital history: the Planungsleiter's 30 years of decision-making experience IS the prior knowledge. Encoded correctly, it allows an AI model to perform at near-expert level even when training data is sparse. This is the technical architecture argument for why knowledge extraction matters before AI deployment.
 
-**Solcus angle:** When a company asks "why do we need to extract knowledge before deploying AI?" — this is the answer. Without the prior, the model is generalised. With the prior (extracted via Solcus), the model is expert-calibrated. We're not competing with AI tools; we're the prerequisite for making AI tools actually work in their specific context.
+**Solco angle:** When a company asks "why do we need to extract knowledge before deploying AI?" — this is the answer. Without the prior, the model is generalised. With the prior (extracted via Solco), the model is expert-calibrated. We're not competing with AI tools; we're the prerequisite for making AI tools actually work in their specific context.
 
 ### 4. Domain knowledge + machine knowledge fusion requires process — not just data
 
@@ -61,7 +61,7 @@ Sundberg & Holmström (JSIS 2024) studied two Swedish public sector ML implement
 
 The paper makes a critical point: **AI initiatives fail to generate value not because the technology is wrong but because the processes of knowledge production are poorly understood.** Knowledge must be co-produced through conversation and iteration, not extracted in a one-off session.
 
-**Solcus angle:** The three-phase engagement model (campfire → structured extraction → validation) maps directly to consolidation → algorithmic mediation → naturalisation. This academic framing validates why a structured methodology and multiple sessions are required — not as a commercial convenience, but as a technical necessity.
+**Solco angle:** The three-phase engagement model (campfire → structured extraction → validation) maps directly to consolidation → algorithmic mediation → naturalisation. This academic framing validates why a structured methodology and multiple sessions are required — not as a commercial convenience, but as a technical necessity.
 
 ### 5. Human-in-the-loop expert feedback improves model quality measurably
 
@@ -69,16 +69,16 @@ ABLe framework (Kuusisto et al., clinical decision support): incorporating exper
 
 The framework is iterative: machine generates initial model → expert reviews and provides advice → machine generates revised model → expert refines advice → repeat. Each cycle improves the model's alignment with expert judgment.
 
-**Solcus angle:** This is the validation that human expert knowledge genuinely improves AI output quality — not as a general claim, but as a measurable empirical result. The "expert intelligence" is not optional decoration; it's the mechanism that achieves the last 20% performance gap general models can't close.
+**Solco angle:** This is the validation that human expert knowledge genuinely improves AI output quality — not as a general claim, but as a measurable empirical result. The "expert intelligence" is not optional decoration; it's the mechanism that achieves the last 20% performance gap general models can't close.
 
 ---
 
 ## What We Can Learn
 
-1. **Expert knowledge is not just succession-relevant — it's AI-prerequisite.** For companies deploying AI, Solcus's extraction is the prerequisite step that makes their AI investments work. This expands the sales conversation from "succession planning" to "AI readiness."
-2. **The vertical AI frame (Virtasant) reframes the Solcus value proposition.** We're building the expert intelligence layer, not a documentation service. This is the $1.4B Intuit comparison.
+1. **Expert knowledge is not just succession-relevant — it's AI-prerequisite.** For companies deploying AI, Solco's extraction is the prerequisite step that makes their AI investments work. This expands the sales conversation from "succession planning" to "AI readiness."
+2. **The vertical AI frame (Virtasant) reframes the Solco value proposition.** We're building the expert intelligence layer, not a documentation service. This is the $1.4B Intuit comparison.
 3. **Knowledge co-production requires multiple sessions** (Sundberg & Holmström). The three mechanisms (consolidation → algorithmic mediation → naturalisation) map to our session sequence. This validates our multi-session model as technically necessary, not commercially inflated.
-4. **Informed ML = the technical architecture of what Solcus builds.** The extracted expert knowledge is the prior. The knowledge base is the informed ML input layer. This is the technical pitch for CTOs and AI-literate buyers.
+4. **Informed ML = the technical architecture of what Solco builds.** The extracted expert knowledge is the prior. The knowledge base is the informed ML input layer. This is the technical pitch for CTOs and AI-literate buyers.
 
 ---
 

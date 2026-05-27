@@ -61,7 +61,7 @@ Two new data points expand the framework beyond the upstream/downstream/always-o
 
 - Recognise the value of pre-handover knowledge extraction in retrospect
 - Are over-represented in family business networks (Peter May / Hamburg Family Summit, YPO, YNG)
-- Become advocates for upstream engagement, recommending Solcus to current CEOs in their peer group
+- Become advocates for upstream engagement, recommending Solco to current CEOs in their peer group
 - Create the network multiplier that direct outreach to active founders cannot
 
 **Implication for the framework:** Post-handover champions amplify the upstream pipeline. They turn the "no felt urgency" objection of upstream into "your friend Roland says you should do this before it's too late."

@@ -19,7 +19,7 @@ Directly applicable to: the Filigran session design, Interview Guide updates, an
 
 ---
 
-## Key Insights Relevant to Solcus
+## Key Insights Relevant to Solco
 
 ### 1. The interview guide is a roadmap, not a script
 
@@ -30,7 +30,7 @@ MAXQDA's central principle: semi-structured interviews are guided by a flexible 
 
 The error pattern in over-structured interviews: you get consistent data but miss the unexpected insights that often contain the most value. The error pattern in under-structured interviews: you get depth for one participant but can't compare across participants, and you may miss critical topics.
 
-**Solcus angle:** Our Interview Guide should be semi-structured by design. The campfire session is intentionally conversational, but there are specific knowledge categories we need to cover in every session (decision-making, key relationships, historical crises, rules of thumb). The guide defines the floor; the conversation determines the ceiling.
+**Solco angle:** Our Interview Guide should be semi-structured by design. The campfire session is intentionally conversational, but there are specific knowledge categories we need to cover in every session (decision-making, key relationships, historical crises, rules of thumb). The guide defines the floor; the conversation determines the ceiling.
 
 ### 2. Expert interview failure modes — and how to avoid them
 
@@ -47,7 +47,7 @@ Counter-strategies from both sources:
 - Build rapport explicitly — semi-structured interviews work better when the expert feels respected and understood
 - Document immediately — interpretation degrades rapidly after the interview
 
-**Solcus angle:** The campfire method already addresses most of these risks by design (storytelling = bypasses rationalisation; multiple sessions = builds rapport; co-founder present = cross-check interpretations). The specific counter-strategy we're missing: a post-session structured debrief protocol where we immediately document what was surprising, what contradicted our priors, and what questions we failed to ask. This prevents misinterpretation at the note-creation stage.
+**Solco angle:** The campfire method already addresses most of these risks by design (storytelling = bypasses rationalisation; multiple sessions = builds rapport; co-founder present = cross-check interpretations). The specific counter-strategy we're missing: a post-session structured debrief protocol where we immediately document what was surprising, what contradicted our priors, and what questions we failed to ask. This prevents misinterpretation at the note-creation stage.
 
 ### 3. Semi-structured interview design principles
 
@@ -64,7 +64,7 @@ For technical knowledge extraction specifically:
 - Ask for "typical day/process" walkthrough — exposes steps the expert considers too obvious to mention
 - Ask what they would teach a new hire in their first week — surfaces the tacit "essentials" that experts take for granted
 
-**Solcus angle:** Three prompts specifically validated for tacit knowledge extraction that we should add to the Interview Guide:
+**Solco angle:** Three prompts specifically validated for tacit knowledge extraction that we should add to the Interview Guide:
 1. "Tell me about the last time something went seriously wrong with [domain]. What happened and how did you handle it?"
 2. "Walk me through a typical [project/decision/client interaction]. What's happening at each step?"
 3. "If you were training someone to replace you in week one, what would you tell them that isn't in any manual?"
@@ -77,7 +77,7 @@ MAXQDA's survey of the literature: semi-structured interviews are "one of the mo
 - Combining consistency across participants with space for exploration
 - Programme evaluation and implementation analysis (which is what our methodology validation is)
 
-This is not just anecdotal — it is the methodological consensus of qualitative research across education, psychology, sociology, anthropology, and business strategy. The Solcus methodology isn't unusual; it's aligned with decades of validated practice.
+This is not just anecdotal — it is the methodological consensus of qualitative research across education, psychology, sociology, anthropology, and business strategy. The Solco methodology isn't unusual; it's aligned with decades of validated practice.
 
 ### 5. Expert selection is as important as question design
 
@@ -87,13 +87,13 @@ Maryayaqin on stakeholder analysis for expert interviews: the quality of an expe
 - **Publications or industry reputation** as a proxy for being at the frontier
 - **Willingness to reflect** — not all experts can articulate their knowledge; some just do it
 
-For Solcus, the relevant selection criteria for a Planungsleiter or equivalent:
+For Solco, the relevant selection criteria for a Planungsleiter or equivalent:
 - 10+ years in role (experience threshold)
 - Single point of contact for multiple junior staff (confirms bottleneck status)
 - Operationally active (not already in transition out)
 - Ideally: self-aware about what they know that others don't
 
-**Solcus angle:** Add an expert selection checklist to the Interview Guide — not just "who is the bottleneck" but "who has the profile to produce good tacit knowledge in a conversational format."
+**Solco angle:** Add an expert selection checklist to the Interview Guide — not just "who is the bottleneck" but "who has the profile to produce good tacit knowledge in a conversational format."
 
 ---
 

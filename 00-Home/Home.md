@@ -60,7 +60,7 @@
 - [[MI — Mem (a16z Podcast)]] — consumer second brain analysis, zero-organisation principle, personalisation
 - [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI maturity model; maps to Patterns 25, 29, 35; 40% productivity stat; free diagnostic tool at haicmm.com
 - [[MI — Second Brain Execution Layer (YouTube)]] — two-layer architecture (context + execution); "institutional inheritance" framing; Obsidian-as-demo confirmed
-- [[MI — Context Farming for Company Second Brain (YouTube)]] — automated context farming agents; maintenance layer post-extraction; "context compounds" flywheel; two-phase Solcus model
+- [[MI — Context Farming for Company Second Brain (YouTube)]] — automated context farming agents; maintenance layer post-extraction; "context compounds" flywheel; two-phase Solco model
 - [[MI — Three Ways a Business Functions Like the Human Brain (MIT)]] — succession = demyelination; cortisol kills innovation; brand etymology validated
 - [[MI — Company Brain Concept (Ability.ai, Falconer, YC)]] — enterprise AI validates our thesis; 4-property framework; YC missing primitive; land-and-expand PoC model
 - [[MI — Why Now Is the Knowledge Management Moment (Atlassian)]] — 25% of work week lost to search; AI amplifier argument; knowledge continuum framing
@@ -73,7 +73,7 @@
 - [[MI — Knowledge Graphs for Enterprise AI]] — tribal context; GraphRAG architecture; 92% entity extraction; privacy moat = trust-first model
 - [[MI — Computer-Use AI Agents (Clicky, Google DeepMind)]] — director-vs-doer framing; parallel background agents = Phase 2 architecture; YC funding signal; OpenClickie for EU deployments
 - [[MI — The AI Operating Layer (Anthropic, Google, VentureBeat)]] — Computer Use API; 82% orgs integrating agents within 3 years; platform war gap = SMEs underserved; privacy moat confirmed
-- [[MI — Context Engineering Platforms (Atlan 2026)]] — four context layers; "AI failures are context failures"; MCP standard; Zep temporal graphs; governance gap = Solcus role
+- [[MI — Context Engineering Platforms (Atlan 2026)]] — four context layers; "AI failures are context failures"; MCP standard; Zep temporal graphs; governance gap = Solco role
 - [[MI — Elicitation Methods in Qualitative Research (Vanessa May)]] — photo/object elicitation for embodied knowledge; artefacts as campfire upgrade; participant control = trust; practical Filigran session protocol
 - [[MI — Silver Tsunami and AI Knowledge Capture]] — 43% of Germany's workforce retires by 2036; $31.5B Fortune 500 knowledge attrition; 20/80 split; LLM interview findings (Kempten); three KM barriers; junior+veteran pairing
 - [[MI — Domain Expert Knowledge in AI Systems]] — vertical AI 400% YoY; expert knowledge architecturally necessary for AI; Informed ML; $1.4B Intuit expert intelligence benchmark
@@ -98,7 +98,7 @@
 - [[Standup — 2026-05-06]] — outreach coordination, Nora Fehlbaum strategy, pipeline updates
 - [[Standup — 2026-05-09]] — pitch deck planning, CTO search, 5 new outreach contacts, operational staff insight
 - [[Standup — 2026-05-11]] — week recap, packed Monday ahead, CTO search progressing, outreach delivering
-- [[Standup — 2026-05-14]] — week recap (8 interviews!), Solcus name, PoC roadmap, governance principle, three business rhythms
+- [[Standup — 2026-05-14]] — week recap (8 interviews!), Solco name, PoC roadmap, governance principle, three business rhythms
 - [[Standup — 2026-05-19]] — Obsidian + Claude automation confirmed; Filigran training session Friday; accelerator application priority; voice interface as investor demo vision
 - [[Standup — 2026-05-20]] — YNG membership confirmed; Filigran Friday seminar plan; delegation-first methodology; slope of traction as operating principle; Ivor Fellowship deadline June 2
 - [[Standup — 2026-05-24]] — Mentor Day pitch structure locked; vault-as-proof-of-concept; four-domain mentor ask (AI eng / cybersec / data protection / legal)
@@ -152,7 +152,7 @@
 | 6    | Interview 021: Roland Wübbe (post-handover CEO, H&W Tiefbau) — Patterns 37-38 (atrophy risk, ownership-operations separation); third framing-too-narrow signal; objection cluster (21+37+39) now complete; Peter May / Hamburg channel lead | ✅ Done |
 | 6    | Interview 022: Marco Nortmeier (Filigran IT lead) — Pattern 40 added (documentation entropy); Filigran becomes first fully-aligned Pattern 35 site; two-track pilot approach (Filigran internal + independent external beta) needs Giuseppe discussion; Pfingsten in-person meeting | ✅ Done |
 | 7    | Interview 023: Maciej / Translink — most detailed M&A deal mechanics, retention costs quantified, killer ROI case | ✅ Done |
-| 7    | Standup: 8 interviews in 4 days, Solcus named, PoC roadmap (Filigran→AWW→FDU→scale), methodology = moat | ✅ Done |
+| 7    | Standup: 8 interviews in 4 days, Solco named, PoC roadmap (Filigran→AWW→FDU→scale), methodology = moat | ✅ Done |
 | 7    | Interview 024: Eberhard Müller-Menrad — knowledge hoarding as job security (Pattern 41); head-of-dept sweet spot cross-industry (Pattern 42); YNG intro; insolvency case confirms succession cliff | ✅ Done |
 | 7    | Standup May 20: YNG confirmed, Filigran seminar plan, delegation-first model, Ivor Fellowship deadline June 2 | ✅ Done |
 | 7    | Interview 026: Eric Quintane (ESMT, Organizational Behavior) — second academic stress-test; metaphor pivot (brain → memory, Pattern 43); two-mode product hypothesis (Pattern 44); knowledge-work ICP counter-signal (Pattern 45); ONA + broker adjacent surfaces; replacement-framing added to objection cluster | ✅ Done |

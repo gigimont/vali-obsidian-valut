@@ -21,37 +21,37 @@ Three key takeaways from the Atlassian/Forrester webinar:
 
 ---
 
-## Key Insights Relevant to Solcus
+## Key Insights Relevant to Solco
 
 ### 1. "25% of the work week is spent tracking down information" = the cost of knowledge fragmentation
 
 Atlassian's 2025 State of Teams report: employees and executives estimate spending **25% of their work week** tracking down information. At a 10,000-person company, that equals **5 million hours per year** lost to fruitless searches.
 
-- **Solcus cross-reference:** Validates the "hidden reinvention" problem from the Mem podcast (searching + recreating = doubled cost). In an SME context, this is the successor who spends 2 years asking "why do we do it this way?" and getting partial answers. Our product eliminates that search cost by making the founder's knowledge queryable on Day 0.
+- **Solco cross-reference:** Validates the "hidden reinvention" problem from the Mem podcast (searching + recreating = doubled cost). In an SME context, this is the successor who spends 2 years asking "why do we do it this way?" and getting partial answers. Our product eliminates that search cost by making the founder's knowledge queryable on Day 0.
 
 ### 2. "AI is an amplifier — bad knowledge = bad AI" = the quality argument for our extraction methodology
 
 Forrester's Julie Mohr: *"What makes the LLM run is that knowledge. You don't get the power of the AI without the quality of the knowledge."* Feed AI bad input and you get hallucinations at scale.
 
-- **Solcus cross-reference:** Direct argument for why extraction methodology matters. The company that just dumps documents into a RAG system gets confidently wrong answers. Solcus's three-pillar extraction (campfire + tracking + documents) creates high-quality, context-rich knowledge that produces reliable AI output. Quality of extraction = quality of the intelligence layer.
+- **Solco cross-reference:** Direct argument for why extraction methodology matters. The company that just dumps documents into a RAG system gets confidently wrong answers. Solco's three-pillar extraction (campfire + tracking + documents) creates high-quality, context-rich knowledge that produces reliable AI output. Quality of extraction = quality of the intelligence layer.
 
 ### 3. "Knowledge is a continuum, not just documents" = why campfire method is right
 
 Mohr: *"Knowledge is a continuum... they'll put it in a PowerPoint when it probably should have been in a document."* Real knowledge flows through Slack messages, Zoom calls, informal conversations — most of it never makes it into a formalized knowledge base.
 
-- **Solcus cross-reference:** Pattern 28 ([[Interview 013 — David (Textile Manufacturing, Germany)]]). The campfire method captures precisely this — the conversational, informal knowledge that never gets written down. Our extraction is superior to documentation because we capture the continuum, not just the document-shaped parts. Forrester's language gives us a credible academic frame for the campfire approach.
+- **Solco cross-reference:** Pattern 28 ([[Interview 013 — David (Textile Manufacturing, Germany)]]). The campfire method captures precisely this — the conversational, informal knowledge that never gets written down. Our extraction is superior to documentation because we capture the continuum, not just the document-shaped parts. Forrester's language gives us a credible academic frame for the campfire approach.
 
 ### 4. "People prefer to talk to their buddy" = why AI can't replace human extraction
 
 Mohr: *"People still prefer to talk to their buddy. Conversations are active, engaging, and memorable. But unless we capture those insights somewhere accessible, they'll vanish the second the conversation ends."*
 
-- **Solcus cross-reference:** This is why our methodology starts with human conversations (campfire interviews), not with document ingestion. The highest-value knowledge lives in conversations that have never been recorded. We ARE the capture mechanism for those conversations. No AI tool does this automatically — it requires a human-led extraction process.
+- **Solco cross-reference:** This is why our methodology starts with human conversations (campfire interviews), not with document ingestion. The highest-value knowledge lives in conversations that have never been recorded. We ARE the capture mechanism for those conversations. No AI tool does this automatically — it requires a human-led extraction process.
 
 ### 5. "Knowledge-hoarding as job security" = the cultural barrier we face in SMEs
 
 Atlassian notes that breaking the knowledge-hoarding habit requires a cultural shift: *"The idea that hoarding information creates job security."* This resistance is real in organizations.
 
-- **Solcus cross-reference:** The emotional dimension of succession (Patterns 6-8). Founders who haven't psychologically decided to let go resist knowledge transfer not just emotionally but sometimes strategically — unconsciously feeling that their indispensability is their security. Our methodology must create a psychologically safe environment (campfire, not interrogation) and work through the successor as client, not the founder.
+- **Solco cross-reference:** The emotional dimension of succession (Patterns 6-8). Founders who haven't psychologically decided to let go resist knowledge transfer not just emotionally but sometimes strategically — unconsciously feeling that their indispensability is their security. Our methodology must create a psychologically safe environment (campfire, not interrogation) and work through the successor as client, not the founder.
 
 ---
 
@@ -65,7 +65,7 @@ Combined with the Mem stat (2.5 hours/day), HAIC-MM (40% productivity gains from
 
 ## What We Can Learn
 
-1. **"AI amplifier" framing** — position Solcus as the quality layer that makes AI investment pay off. "You can't unlock AI without quality knowledge."
+1. **"AI amplifier" framing** — position Solco as the quality layer that makes AI investment pay off. "You can't unlock AI without quality knowledge."
 2. **Campfire = knowledge continuum capture** — Forrester validates that non-document knowledge is where the real value lives.
 3. **"Knowledge at Day 0" pitch line** — the new hire (or successor) should access organizational knowledge from Day 0, not after 2 years of informal learning.
 4. **Culture precedes technology** — build trust with the founder before the extraction starts. The hoarding instinct must be addressed, not fought.

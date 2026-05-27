@@ -128,7 +128,7 @@ Smaller orgs (no recording infrastructure) = more value-add but harder implement
 
 ## Strategic Implications
 
-1. **Metaphor pivot candidate.** "Solcus = organizational memory" is testable in the next outreach round. If it lands better with operators *and* with academic/investor audiences, adopt.
+1. **Metaphor pivot candidate.** "Solco = organizational memory" is testable in the next outreach round. If it lands better with operators *and* with academic/investor audiences, adopt.
 2. **Two-product hypothesis.** Passive record vs active retrieval may be a clean pricing-tier split: "record" as entry-level / commodity, "act" as the value-capturing tier. Needs a Giuseppe-Wolf design session.
 3. **ICP tension to surface in v3.** [[ICP Definition]] v3 should explicitly state why we are starting in industrial Mittelstand despite Eric's counter-signal (closer relationships, urgency, less competition, succession-cliff framing) — and what we would need to see to expand into knowledge-work verticals.
 4. **PoC of broader idea.** Eric's framing — "good as a PoC of a broader idea" — is the cleanest articulation we have for talking to both narrow- and broad-thinking audiences. Encode in pitch.

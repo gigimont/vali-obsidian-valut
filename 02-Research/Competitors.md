@@ -187,7 +187,7 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 - **Threat level:** Low as direct competitor (they make books for individuals, not business knowledge systems). High as methodology source or partner.
 - **Source:** [[Interview 017 — Armin Struckmeier (NUK Novatex, Germany)]]
 
-**Methodology equivalence:** Life Book is the for-profit operationalisation of what knowledge management theory calls "SECI Externalization" (tacit → explicit). They sell this at $10-20K/book. Solcus does the same operation for business knowledge at €15-25K/engagement. The methodological parallel is precise — both use structured interviews to harvest experiential knowledge. The difference: Life Book captures life stories; Solcus captures business judgment frameworks. (See [[MI — Storytelling and Tacit Knowledge Capture]] for SECI model context.)
+**Methodology equivalence:** Life Book is the for-profit operationalisation of what knowledge management theory calls "SECI Externalization" (tacit → explicit). They sell this at $10-20K/book. Solco does the same operation for business knowledge at €15-25K/engagement. The methodological parallel is precise — both use structured interviews to harvest experiential knowledge. The difference: Life Book captures life stories; Solco captures business judgment frameworks. (See [[MI — Storytelling and Tacit Knowledge Capture]] for SECI model context.)
 
 ---
 
@@ -197,7 +197,7 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 - **What they do:** Deploy AI agents that interview every employee simultaneously, then synthesise the results into an operational knowledge base — a live map of how work actually happens, where it breaks, and what to fix first. Deliverable includes themed insights, process maps, and an automation roadmap with ROI prioritisation.
 - **YC-backed:** Yes — listed on YC launch page (W/S 2025 or S2026 cohort based on discovery date)
 - **Model:** AI-led interviews at scale (all employees, parallel); emphasis on speed ("within hours"); focus on operational workflow visibility and automation readiness — not succession
-- **How they differ from Solcus:**
+- **How they differ from Solco:**
   - They interview ALL employees (breadth); we go deep on the founder/expert (depth)
   - Their output is a process/automation map; ours is a queryable knowledge brain with tacit context
   - Their AI leads the interviews; ours uses human facilitation (campfire method) because tacit knowledge requires trust and narrative, not structured Q&A
@@ -234,15 +234,15 @@ Search terms to investigate: **"Institutional memory"**, **"AIOS" system**
 
 ## Convergent Pressure: Vertical AI / Expert Intelligence Platforms
 
-The most strategically important market signal from MI research: **vertical AI solutions are growing 400% YoY** ([[MI — Domain Expert Knowledge in AI Systems]]). Companies like Intuit's $1.4B expert intelligence platform, Anthropic's Claude Use API ([[MI — The AI Operating Layer (Anthropic, Google, VentureBeat)]]), and the context engineering platform category ([[MI — Context Engineering Platforms (Atlan 2026)]]) are all converging toward the same insight Solcus is built on: **domain expertise + AI architecture > general-purpose models.**
+The most strategically important market signal from MI research: **vertical AI solutions are growing 400% YoY** ([[MI — Domain Expert Knowledge in AI Systems]]). Companies like Intuit's $1.4B expert intelligence platform, Anthropic's Claude Use API ([[MI — The AI Operating Layer (Anthropic, Google, VentureBeat)]]), and the context engineering platform category ([[MI — Context Engineering Platforms (Atlan 2026)]]) are all converging toward the same insight Solco is built on: **domain expertise + AI architecture > general-purpose models.**
 
 **Where competition is coming from:**
-- **Enterprise AI infrastructure (Atlan, Zep, Mem0, Letta)** — context engineering platforms that assume the company already has digital data to ingest. They don't extract from people; they organise what's already digital. Solcus operates upstream of where they start.
-- **Computer-use AI (Anthropic Computer Use, Google DeepMind, Clicky YC):** screen-resident agents that observe workflows. Parallel to our Pillar 2 (computer-use tracking) but they aim at task execution, not knowledge extraction. Will eventually overlap with Solcus's Phase 2 (always-on observation).
-- **Big 4 AI consulting practices:** McKinsey/BCG/Deloitte/EY/PwC are all building "AI for Mittelstand" lines. Their disadvantage (per Francis de Vericourt's argument): they cannot get the trust of a Mittelstand founder. Solcus's moat is access + methodology, not technology.
+- **Enterprise AI infrastructure (Atlan, Zep, Mem0, Letta)** — context engineering platforms that assume the company already has digital data to ingest. They don't extract from people; they organise what's already digital. Solco operates upstream of where they start.
+- **Computer-use AI (Anthropic Computer Use, Google DeepMind, Clicky YC):** screen-resident agents that observe workflows. Parallel to our Pillar 2 (computer-use tracking) but they aim at task execution, not knowledge extraction. Will eventually overlap with Solco's Phase 2 (always-on observation).
+- **Big 4 AI consulting practices:** McKinsey/BCG/Deloitte/EY/PwC are all building "AI for Mittelstand" lines. Their disadvantage (per Francis de Vericourt's argument): they cannot get the trust of a Mittelstand founder. Solco's moat is access + methodology, not technology.
 
 **Positioning:**
-Solcus is structurally positioned at the front of the vertical AI wave but addresses the layer that pure AI infrastructure cannot reach — the human expert whose knowledge has never been digitised. The vertical AI category is the rising tide that lifts our boat; the enterprise AI platforms are not direct competitors but the architecture we will eventually integrate with.
+Solco is structurally positioned at the front of the vertical AI wave but addresses the layer that pure AI infrastructure cannot reach — the human expert whose knowledge has never been digitised. The vertical AI category is the rising tide that lifts our boat; the enterprise AI platforms are not direct competitors but the architecture we will eventually integrate with.
 
 ---
 

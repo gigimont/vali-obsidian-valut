@@ -97,12 +97,12 @@ Added from desk research synthesis ([[MI — Silver Tsunami and AI Knowledge Cap
 ### The knowledge-search productivity drain
 - **Knowledge workers spend ~2.5 hours per day searching for information** ([[MI — Mem (a16z Podcast)]])
 - A 5-person team loses ~12.5 hours/day = 1.5 FTE equivalent purely to search overhead
-- The same MI confirms: organisation-at-creation-time fails; AI-at-retrieval-time succeeds — validates the Solcus methodology (don't ask experts to categorise; extract first, structure via AI later)
+- The same MI confirms: organisation-at-creation-time fails; AI-at-retrieval-time succeeds — validates the Solco methodology (don't ask experts to categorise; extract first, structure via AI later)
 
 ### Vertical AI market signal
 - **Vertical AI solutions growing 400% YoY** ([[MI — Domain Expert Knowledge in AI Systems]]; Bessemer Venture Partners thesis)
 - Intuit's expert intelligence platform: **$1.4B valuation** — the enterprise proof point that domain expertise + AI = vertical winner
-- Solcus is structurally positioned at the front of this wave for Mittelstand SMEs
+- Solco is structurally positioned at the front of this wave for Mittelstand SMEs
 
 ---
 

@@ -3,7 +3,7 @@
 #strategy #product #core #living-document
 
 > **Status:** Working definition — updated May 20, 2026 to reflect Interviews 020-024 and Patterns 35, 40, 41
-> **Project name:** Solcus
+> **Project name:** Solco
 > **Purpose:** Formalizes how we extract, structure, and deliver operational knowledge
 
 ---

@@ -19,7 +19,7 @@ Four independent sources converging on the same crisis: the demographic retireme
 
 ---
 
-## Key Insights Relevant to Solcus
+## Key Insights Relevant to Solco
 
 ### 1. The retirement crisis is quantified — and worse than most presentations suggest
 
@@ -29,7 +29,7 @@ Four independent sources converging on the same crisis: the demographic retireme
 - **Fortune 500 companies lose approximately $31.5 billion annually** due to knowledge attrition (Deloitte via eGain), expected to **double by 2030**
 - **57% of institutional knowledge** in established industrial sectors (manufacturing, energy, utilities) is at risk in the coming decade (McKinsey via eGain)
 
-**Solcus angle:** These numbers are pitch-deck-ready. The Germany-specific stat (19.5M retirements by 2036) is the most directly relevant. "43% of Germany's employed workforce will retire in the next 10 years" is a headline number. Cross-reference with [[Market Data]] for country-level succession statistics.
+**Solco angle:** These numbers are pitch-deck-ready. The Germany-specific stat (19.5M retirements by 2036) is the most directly relevant. "43% of Germany's employed workforce will retire in the next 10 years" is a headline number. Cross-reference with [[Market Data]] for country-level succession statistics.
 
 ### 2. The 20/80 knowledge split is a widely-cited reference point
 
@@ -37,7 +37,7 @@ MIT research (via eGain): formal documentation covers only **~20% of what employ
 
 **68% of industrial companies have no formal knowledge transfer program in place** (American Society for Training and Development via eGain).
 
-**Solcus angle:** This 20/80 split is the foundational market argument. Not "we should document more" but "the documenting you've done only covers a fifth of what matters." The 68% stat confirms that even awareness of the problem doesn't produce action — which is why the problem persists and why a service model is needed.
+**Solco angle:** This 20/80 split is the foundational market argument. Not "we should document more" but "the documenting you've done only covers a fifth of what matters." The 68% stat confirms that even awareness of the problem doesn't produce action — which is why the problem persists and why a service model is needed.
 
 ### 3. Knowledge flows naturally through conversation — the methodological validation
 
@@ -45,7 +45,7 @@ eGain's core insight: "knowledge flows naturally through conversation and collab
 
 This is the scientific/practitioner validation of why the campfire method works. People don't know what they know until they start talking. AI-led conversation (or human-facilitated campfire) surfaces knowledge that direct questioning and documentation cannot.
 
-**Solcus angle:** Direct confirmation that our extraction methodology is aligned with best practice. "Knowledge emerges organically through dialogue and problem-solving" — this is the scientific version of "stories capture what processes can't" (Pattern 28).
+**Solco angle:** Direct confirmation that our extraction methodology is aligned with best practice. "Knowledge emerges organically through dialogue and problem-solving" — this is the scientific version of "stories capture what processes can't" (Pattern 28).
 
 ### 4. LLM-led expert interviews: promising but incomplete (Kempten empirical result)
 
@@ -64,7 +64,7 @@ Kempten University (2025) ran a controlled empirical study: ChatGPT-5 as an inte
 - **Breadth weaker than depth** — chatbot asks deep follow-up questions well but may not cover all subtopics
 - **False statements pass through** — the chatbot collects without verification
 
-**Solcus angle:** This is the most directly relevant empirical finding in the dataset. LLM-as-interviewer works well for the conversation layer (atmosphere, depth) but fails at the summarisation and output-fidelity layer. This validates a human-in-the-loop approach for Solcus: AI conducts the interview efficiently, but a human curator (or a separate validation step) must review the output before committing it to the knowledge base. The summary step is the weak link — our current approach (human reviews structured note before commit) is the correct design.
+**Solco angle:** This is the most directly relevant empirical finding in the dataset. LLM-as-interviewer works well for the conversation layer (atmosphere, depth) but fails at the summarisation and output-fidelity layer. This validates a human-in-the-loop approach for Solco: AI conducts the interview efficiently, but a human curator (or a separate validation step) must review the output before committing it to the knowledge base. The summary step is the weak link — our current approach (human reviews structured note before commit) is the correct design.
 
 ### 5. Three organisational barriers to knowledge capture — and how to address them
 
@@ -73,9 +73,9 @@ Kempten identifies three categories of KM barriers in industrial practice:
 - **Technical:** no user-friendly, accessible systems for documenting and retrieving knowledge
 - **Organisational:** no strategic anchoring, no formal processes, no internal responsibility for knowledge retention
 
-This maps directly to the Solcus methodology challenge. The campfire method addresses the social barrier (psychological safety, storytelling, rapport). Claude Code + Obsidian addresses the technical barrier (low friction, conversational). The engagement model (dedicated session series, internal champion) addresses the organisational barrier.
+This maps directly to the Solco methodology challenge. The campfire method addresses the social barrier (psychological safety, storytelling, rapport). Claude Code + Obsidian addresses the technical barrier (low friction, conversational). The engagement model (dedicated session series, internal champion) addresses the organisational barrier.
 
-**Solcus angle:** Use this three-barrier framework when explaining why self-service KM initiatives fail and why a structured engagement (not a software purchase) is required.
+**Solco angle:** Use this three-barrier framework when explaining why self-service KM initiatives fail and why a structured engagement (not a software purchase) is required.
 
 ### 6. Junior + veteran complementarity for knowledge capture
 
@@ -85,17 +85,17 @@ Expert Network Calls framing: juniors and veterans are **complementary**, not in
 
 "Without juniors, AI models lack the precision of current systems. Without veterans, they lack the foresight to avoid past mistakes."
 
-**Solcus angle:** This maps directly to our engagement model. In a Filigran-type deployment: the senior Planungsleiter (veteran) is the extraction target; the junior team members are the eventual beneficiaries. But the extraction sessions should ideally include a junior as co-participant — they ask the questions that force the veteran to articulate what they usually just do. Pairs > solo extraction.
+**Solco angle:** This maps directly to our engagement model. In a Filigran-type deployment: the senior Planungsleiter (veteran) is the extraction target; the junior team members are the eventual beneficiaries. But the extraction sessions should ideally include a junior as co-participant — they ask the questions that force the veteran to articulate what they usually just do. Pairs > solo extraction.
 
 ### 7. Industrial AI knowledge transfer: a 4-step validation (Imubit)
 
-Imubit's industrial framework confirms the operational sequence Solcus implicitly follows:
+Imubit's industrial framework confirms the operational sequence Solco implicitly follows:
 1. **Assess knowledge gaps** — map who knows what, which expertise is thinning, where the single points of failure are
 2. **Integrate platforms** — conversational interfaces, dynamic (not static) knowledge bases, NLP for natural queries
 3. **Design AI-enhanced training** — structured elicitation sessions while veterans are available; version-controlled knowledge base; incentivise documentation
 4. **Monitor and improve continuously** — KPIs: % undocumented high-risk tasks; search success rates; content freshness; error rates
 
-Key KPI for Solcus reporting: **% of undocumented high-risk tasks** and **mean time to repair** (or equivalent onboarding metric). These are the numbers that make the ROI case objective.
+Key KPI for Solco reporting: **% of undocumented high-risk tasks** and **mean time to repair** (or equivalent onboarding metric). These are the numbers that make the ROI case objective.
 
 ---
 

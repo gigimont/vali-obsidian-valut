@@ -15,29 +15,29 @@ A forensic clinical psychologist presents a neurofeedback-based corporate wellne
 
 Primary audience: HR/leadership in organisations with mental health absenteeism and performance issues.
 
-**Direct Solcus relevance is limited** — this is about ongoing employee brain health, not knowledge capture. However, the neuroscience content has specific implications for understanding succession failure.
+**Direct Solco relevance is limited** — this is about ongoing employee brain health, not knowledge capture. However, the neuroscience content has specific implications for understanding succession failure.
 
 ---
 
-## Key Insights Relevant to Solcus
+## Key Insights Relevant to Solco
 
 ### 1. Fear-driven brain cannot process information = why succession stress blocks knowledge transfer
 
 When the amygdala is chronically activated (stress/threat), the brain enters a "fear-driven" default mode. In this state, *"they can't hear what you're saying to them because they're too emotionally disregulated."* Memory consolidation is also impaired — *"traumatic or stressful memories don't go to the front part of your brain."*
 
-- **Solcus cross-reference:** Pattern 6-8 (emotional dimension of succession). A founder under succession stress — especially one with identity tied to the business — is in a partially fear-activated state. This biologically impairs their ability to share knowledge effectively. A founder who hasn't psychologically decided to hand over is not just reluctant — they are neurologically less capable of structured knowledge transfer. Our campfire methodology (safe, conversational, not interrogative) directly reduces amygdala activation.
+- **Solco cross-reference:** Pattern 6-8 (emotional dimension of succession). A founder under succession stress — especially one with identity tied to the business — is in a partially fear-activated state. This biologically impairs their ability to share knowledge effectively. A founder who hasn't psychologically decided to hand over is not just reluctant — they are neurologically less capable of structured knowledge transfer. Our campfire methodology (safe, conversational, not interrogative) directly reduces amygdala activation.
 
 ### 2. "Calm brain is a creative brain" = psychological safety enables knowledge capture
 
 Don: *"It's very hard to create and problem solve when you're disregulated... a calm brain is a creative brain."* Neurofeedback calms the brain; calm brains communicate better, have higher emotional intelligence, and share knowledge more effectively.
 
-- **Solcus cross-reference:** Pattern 29 ([[Interview 013 — David (Textile Manufacturing, Germany)]]). Tech must not feel like tech — campfire method. The campfire interview is designed to activate the calm, storytelling brain, not the defensive, evaluative brain. Our methodology is implicitly neuroscience-informed even if we haven't named it that way.
+- **Solco cross-reference:** Pattern 29 ([[Interview 013 — David (Textile Manufacturing, Germany)]]). Tech must not feel like tech — campfire method. The campfire interview is designed to activate the calm, storytelling brain, not the defensive, evaluative brain. Our methodology is implicitly neuroscience-informed even if we haven't named it that way.
 
 ### 3. Cortisol impairs hippocampal memory consolidation = knowledge decay under stress
 
 *"High circulating levels of cortisol... leads to cell death."* The hippocampus (memory formation/consolidation) is directly suppressed by sustained cortisol. A founder under succession stress has impaired recall and memory organisation.
 
-- **Solcus cross-reference:** Extends the MIT neuroplasticity argument. Succession stress → cortisol → hippocampal suppression → the founder literally cannot access their knowledge as effectively as they can in a calm state. Time-sensitivity: capture knowledge BEFORE the succession stress peaks (i.e., as early preparation, not as a crisis response). This is our argument for starting the extraction engagement 2-3 years before the planned succession, not at the moment of handover.
+- **Solco cross-reference:** Extends the MIT neuroplasticity argument. Succession stress → cortisol → hippocampal suppression → the founder literally cannot access their knowledge as effectively as they can in a calm state. Time-sensitivity: capture knowledge BEFORE the succession stress peaks (i.e., as early preparation, not as a crisis response). This is our argument for starting the extraction engagement 2-3 years before the planned succession, not at the moment of handover.
 
 ---
 

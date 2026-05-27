@@ -7,15 +7,15 @@
 ## Current Thesis — v6 (May 20, 2026, post-Interviews 020–024 + 18 MI notes)
 
 ### One sentence
-**Solcus** is a specialised consulting practice with proprietary AI-enabled methodology that extracts judgment frameworks, relational knowledge, and technical intuition from organically grown SME experts at the optimal retirement window — and delivers a closed-loop knowledge system that compresses transitions, protects M&A deal value, and gives successors the knowledge they need to operate independently.
+**Solco** is a specialised consulting practice with proprietary AI-enabled methodology that extracts judgment frameworks, relational knowledge, and technical intuition from organically grown SME experts at the optimal retirement window — and delivers a closed-loop knowledge system that compresses transitions, protects M&A deal value, and gives successors the knowledge they need to operate independently.
 
 ### What changed from v5 → v6
 
 **Identity reframe: we are a consulting practice, not a tech company.**
-Francis de Vericourt ([[Interview 020 — Francis de Vericourt (ESMT Professor)]]) reframed the entire product: "You're a consulting company for small, middle, family-owned business. Your competitive advantage is access, not technology." Any consulting firm could deploy the same LLMs — they cannot get the trust of a 60-year-old Mittelstand founder. This is independently confirmed by Marco Nortmeier (Interview 022), who operationally demonstrated that the methodology is the moat ("die KI hat bei mir im Kopf angesetzt" — the AI starts in my head, not in the model), and academically by Sundberg & Holmström (see [[MI — Domain Expert Knowledge in AI Systems]]) whose three-mechanism framework (consolidation → algorithmic mediation → naturalization) describes exactly the work Solcus does. **Positioning shift:** from "AI startup" to "specialised consulting practice with proprietary AI-enabled methodology."
+Francis de Vericourt ([[Interview 020 — Francis de Vericourt (ESMT Professor)]]) reframed the entire product: "You're a consulting company for small, middle, family-owned business. Your competitive advantage is access, not technology." Any consulting firm could deploy the same LLMs — they cannot get the trust of a 60-year-old Mittelstand founder. This is independently confirmed by Marco Nortmeier (Interview 022), who operationally demonstrated that the methodology is the moat ("die KI hat bei mir im Kopf angesetzt" — the AI starts in my head, not in the model), and academically by Sundberg & Holmström (see [[MI — Domain Expert Knowledge in AI Systems]]) whose three-mechanism framework (consolidation → algorithmic mediation → naturalization) describes exactly the work Solco does. **Positioning shift:** from "AI startup" to "specialised consulting practice with proprietary AI-enabled methodology."
 
-**The Solcus name and brand identity (May 14, 2026):**
-From Latin *sulcus* (brain fold where knowledge is stored) + Italian *solco* (furrow — the trace left by decades of work). Captures both the second-brain concept and the organic, earthy SME context. Adopted across all material going forward.
+**The Solco name and brand identity (named May 14, 2026; shortened to "Solco" May 27, 2026):**
+From Latin *sulcus* (brain fold where knowledge is stored) and Italian *solco* (furrow — the trace left by decades of work). The name captures both the second-brain concept and the organic, earthy SME context. Originally styled "Solcus," now shortened to **Solco** — the Italian *solco* itself — adopted across all material going forward.
 
 **Closed-loop knowledge system (Phase 1 + Phase 2 product evolution):**
 The product is no longer a one-off engagement. Phase 1 is the 4-6 week extraction (campfire interviews + document ingestion + computer-use observation → structured report + queryable knowledge base). Phase 2 is the always-on monitoring layer: meeting transcription, decision logging, scheduled refresh interviews. This addresses Pattern 40 (documentation entropy under external system change, from [[Interview 022 — Marco Nortmeier (Filigran, Germany)]]) — the captured artifact decays without continuous input. Cross-referenced with [[MI — Context Farming for Company Second Brain (YouTube)]] and [[1 to 1s — Week 6]].
@@ -31,15 +31,15 @@ The M&A application now has hard numbers:
 - Earn-out / deferred payment: 10-20% of deal price
 - Advisory agreements: €20-40K/month for 12-24 months
 - DD timelines: 2-2.5 months standard, extending under knowledge gaps
-- Solcus fee: €15-25K vs potential savings of €1M+ per €20M deal = **40-60× ROI**
+- Solco fee: €15-25K vs potential savings of €1M+ per €20M deal = **40-60× ROI**
 - "Get documented before we list you" → sell-side advisor channel hypothesis
 This makes the M&A angle the most quantifiable GTM lane.
 
 **Partial-capture honesty principle (Pattern 39):**
-Capturing 100% of tacit knowledge is impossible. "99,9999% aber nie 100%" (Marco, Interview 022). Solcus promises judgment frameworks, not decision replication. Under-promise capture rate, over-deliver on usability. This honesty IS a selling point to PE investors and M&A professionals who distrust vendors claiming total solutions. Forms an objection cluster with Pattern 21 (Newton's feasibility) and Pattern 37 (Roland's atrophy).
+Capturing 100% of tacit knowledge is impossible. "99,9999% aber nie 100%" (Marco, Interview 022). Solco promises judgment frameworks, not decision replication. Under-promise capture rate, over-deliver on usability. This honesty IS a selling point to PE investors and M&A professionals who distrust vendors claiming total solutions. Forms an objection cluster with Pattern 21 (Newton's feasibility) and Pattern 37 (Roland's atrophy).
 
 **Post-handover former CEO as a new role profile:**
-Roland Wübbe ([[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]) is the first interviewee to have completed two full successions from opposite sides. He is not a paying customer but a high-value champion — over-represented in family business networks (Peter May / Hamburg Family Summit), reflective, capable of recommending Solcus to current CEOs in his peer group. Confirmed by Eberhard (post-insolvency former CEO, similar profile). Pattern 38 (structural separation of ownership and operational succession) emerges from this segment.
+Roland Wübbe ([[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]]) is the first interviewee to have completed two full successions from opposite sides. He is not a paying customer but a high-value champion — over-represented in family business networks (Peter May / Hamburg Family Summit), reflective, capable of recommending Solco to current CEOs in his peer group. Confirmed by Eberhard (post-insolvency former CEO, similar profile). Pattern 38 (structural separation of ownership and operational succession) emerges from this segment.
 
 **The delegation-first methodology framing (Standup 2026-05-20):**
 The product should be sold as enabling delegation, not as documenting knowledge. "We help your expert delegate more effectively" outperforms "we document what your expert knows" because delegation maps to a felt operational problem (the head of department is overloaded), while documentation maps to an abstract future risk. Internal application: the Filigran Friday seminar format is structured around delegation-first — give Marco the framework to set up Obsidian himself, leave Filigran with self-sufficient methodology.
@@ -54,7 +54,7 @@ The product should be sold as enabling delegation, not as documenting knowledge.
 - $31.5B annual Fortune 500 knowledge attrition; 20/80 explicit-vs-tacit split
 - 46% onboarding-time reduction when retiring experts' knowledge is captured (eGain) — quantifies Pattern 27
 - 2.5 hours/day spent by knowledge workers searching for information ([[MI — Mem (a16z Podcast)]])
-- Vertical AI growing 400% YoY ([[MI — Domain Expert Knowledge in AI Systems]]) — Solcus is structurally positioned at the front of this wave
+- Vertical AI growing 400% YoY ([[MI — Domain Expert Knowledge in AI Systems]]) — Solco is structurally positioned at the front of this wave
 - SECI Externalization model (Nonaka, [[MI — Storytelling and Tacit Knowledge Capture]]) is the academic backing for the campfire method (Pattern 28)
 
 ### Updated Deal-Breaker Hypotheses (v6)

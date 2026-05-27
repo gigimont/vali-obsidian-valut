@@ -1,7 +1,7 @@
 # CLAUDE.md — SME Succession Vault
 
 ## Project
-Giuseppe + Wolf building **Solcus** (working name), an AI-powered "digital due diligence" service for SME knowledge transfer. Pre-product, fieldwork phase. Target: family-owned SMEs Germany/Italy, €2-20M revenue. The customer is the successor, not the founder. Obsidian vault tracks all research, strategy, and operations.
+Giuseppe + Wolf building **Solco** (working name), an AI-powered "digital due diligence" service for SME knowledge transfer. Pre-product, fieldwork phase. Target: family-owned SMEs Germany/Italy, €2-20M revenue. The customer is the successor, not the founder. Obsidian vault tracks all research, strategy, and operations.
 
 ## Folder Structure
 00-Home/              → Home.md dashboard (entry point)

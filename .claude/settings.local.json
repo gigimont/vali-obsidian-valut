@@ -11,7 +11,13 @@
       "Bash(grep -v '^$')",
       "Bash(cat)",
       "Bash(chmod +x /tmp/check_phantoms.sh)",
-      "Bash(/tmp/check_phantoms.sh)"
+      "Bash(/tmp/check_phantoms.sh)",
+      "Bash(grep -nB2 -A8 \"20,000 forgotten\" \"02-Research/Patterns From Fieldwork.md\")",
+      "Bash(mkdir -p \"08-Mentors\" && ls -la \"08-Mentors/\")",
+      "Bash(grep -v \":0$\")"
+    ],
+    "additionalDirectories": [
+      "/Users/callmepio/Desktop/Vali_Project"
     ]
   }
 }

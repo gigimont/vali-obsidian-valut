@@ -14,7 +14,7 @@
 **Top 3 to pursue, ranked by complementarity to Oliver von Quast:**
 
 1. **Helmut Kranzmaier** — M&A / investment banking depth (sell-side angle)
-2. **Simon Kozlik** — AI consulting practice operator (Solcus model fit)
+2. **Simon Kozlik** — AI consulting practice operator (Solco model fit)
 3. **Joachim Behrendt** — CFO / financial DD + embedded at Vali Berlin
 
 All three are Berlin-based and Vali-adjacent — institutional warm path lowers friction on the ask.
@@ -28,20 +28,20 @@ All three are Berlin-based and Vali-adjacent — institutional warm path lowers 
 - **Strengths:** mid-cap M&A and PMI (HOCHTIEF Development, 6+ yrs), energy/cleantech VC (Sarvovelo Capital, 11+ yrs), German startup ecosystem (WISTA Adlershof Accelerator), corporate-development side of dealmaking, smart-city / construction industry overlap with [[Interview 012 — Stefan Weiler (Filigran, Germany)]] and [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]]
 - **Gaps:** not a hands-on AI builder, not a consulting-practice operator, light on financial-DD / CFO mechanics, corporate-dev (buy-side / in-house) bias rather than sell-side advisory channel
 
-### Cross-reference against Solcus v6 thesis ([[Problem Statement]])
+### Cross-reference against Solco v6 thesis ([[Problem Statement]])
 
-Solcus is a **specialised consulting practice with AI-enabled methodology**, targeting head-of-department layer at the ERP ceiling, with M&A as a quantified wedge (€15-25K fee → 40-60× ROI per €20M deal, per [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]]). The mentor council must cover four axes:
+Solco is a **specialised consulting practice with AI-enabled methodology**, targeting head-of-department layer at the ERP ceiling, with M&A as a quantified wedge (€15-25K fee → 40-60× ROI per €20M deal, per [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]]). The mentor council must cover four axes:
 
 | Axis                                  | Why it matters                                                                                    | Oliver vQ | Pick 1 (Helmut) | Pick 2 (Simon) | Pick 3 (Joachim) |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------- | --------- | --------------- | -------------- | ---------------- |
 | **M&A transaction / deal flow**       | Maciej wedge needs sell-side advisor channel + PE/search-fund warm intros                          | Strong (corp-dev) | Strong (banker, Drake Star + DB) | Weak | Moderate (CFO-DD) |
-| **AI consulting practice operations** | Solcus v6 = consulting, not tech co. Need pricing, scoping, methodology-IP playbook                | Weak      | Weak            | Strong (Heuristiq AI Studio = literal analogue) | Weak |
+| **AI consulting practice operations** | Solco v6 = consulting, not tech co. Need pricing, scoping, methodology-IP playbook                | Weak      | Weak            | Strong (Heuristiq AI Studio = literal analogue) | Weak |
 | **Financial / CFO discipline**        | PE-side deal protection requires financial credibility; Wolf+Giuseppe not finance-trained          | Moderate  | Strong (IB)     | Weak           | Strong (PhD Acct, 25y CFO) |
 | **Founder pattern recognition**       | Early commercial signals, pricing, fundraising path                                                | Strong (multi-co founder) | Strong (INRIGO exit) | Strong (3 co-founder roles) | Strong (30+ angel investments, "Angel of the Year" 2015) |
 
 **Result:** Oliver + Helmut covers M&A from both corp-dev and banking sides; Simon plugs the consulting-practice operating model that Oliver cannot; Joachim plugs CFO/financial-DD and is already inside Vali (zero coordination cost).
 
-**Risk: M&A overweight (Oliver + Helmut both M&A-heavy).** Mitigation: their channels are distinct (Oliver = strategic-acquirer / corp-dev networks; Helmut = sell-side advisors, PE, search funds via Drake Star + Bridgemaker). The overlap is acceptable because M&A is Solcus's most quantified GTM lane and warm-intro density is the moat.
+**Risk: M&A overweight (Oliver + Helmut both M&A-heavy).** Mitigation: their channels are distinct (Oliver = strategic-acquirer / corp-dev networks; Helmut = sell-side advisors, PE, search funds via Drake Star + Bridgemaker). The overlap is acceptable because M&A is Solco's most quantified GTM lane and warm-intro density is the moat.
 
 ---
 
@@ -51,16 +51,16 @@ Solcus is a **specialised consulting practice with AI-enabled methodology**, tar
 
 - **Why him:** 30+ years transaction experience across Deutsche Bank IB, Kekst CNC (M&A comms), Drake Star (tech investment bank). Founder side too: INRIGO co-founder (exited 2016), Bridgemaker partner. Senior Advisor at **Vali Berlin already** — insider proximity reduces ask friction.
 - **What he unlocks:**
-  - Sell-side M&A advisor channel (Maciej-style deals) — Solcus's most quantified GTM lane
+  - Sell-side M&A advisor channel (Maciej-style deals) — Solco's most quantified GTM lane
   - PE / search-fund warm intros (counter-side of Oliver's corp-dev side)
   - Communications angle for the founder-trust narrative (Kekst CNC heritage)
-  - Cap-table / funding-round mechanics if Solcus raises later
+  - Cap-table / funding-round mechanics if Solco raises later
 - **Complementarity:** Oliver vQ = corp-dev / strategic-buyer M&A. Helmut = banker / sell-side advisor M&A. Different networks, both relevant. Pairs cleanly.
 - **One-line ask framing:** "We have a quantified M&A wedge (€15-25K fee → 40-60× ROI per €20M deal) — we need a sell-side advisor network to validate channel velocity. Would you mentor us on transaction GTM?"
 
 ### 2. Simon Kozlik
 
-- **Why him:** Co-Founder & MD of **Heuristiq AI Studio** — AI strategy and implementation for SMEs and enterprise. This is the operating analogue to Solcus's v6 consulting-practice identity. Prior: Bridgemaker (venture building, 2.5y), Retail Capital Partners (mid-market commerce strategy), ATOLL (interim MD/CCO). **Vali mentor already** — institutional warm path.
+- **Why him:** Co-Founder & MD of **Heuristiq AI Studio** — AI strategy and implementation for SMEs and enterprise. This is the operating analogue to Solco's v6 consulting-practice identity. Prior: Bridgemaker (venture building, 2.5y), Retail Capital Partners (mid-market commerce strategy), ATOLL (interim MD/CCO). **Vali mentor already** — institutional warm path.
 - **What he unlocks:**
   - Productized-consulting playbook: pricing tiers, scoping discipline, methodology-as-IP packaging
   - Bridgemaker venture-building toolkit (relevant to Phase 2 closed-loop monitoring product)
@@ -73,8 +73,8 @@ Solcus is a **specialised consulting practice with AI-enabled methodology**, tar
 
 - **Why him:** Head of Advisory Board at **Vali Berlin** (highest institutional fit of any candidate). PhD Accounting/Taxation + Assistant Professor at Bogazici. Founding Partner Berlin Finance Crew (startup CFO services). 30+ angel investments via BIC Angel Investments Istanbul; "Angel of the Year" 2015. 25+ years finance / accounting / controlling.
 - **What he unlocks:**
-  - Financial-DD framework that buyers / PE side will accept (closes Solcus credibility gap on the buy-side of the M&A wedge)
-  - Startup CFO discipline as Solcus scales (Wolf and Giuseppe are not finance-trained)
+  - Financial-DD framework that buyers / PE side will accept (closes Solco credibility gap on the buy-side of the M&A wedge)
+  - Startup CFO discipline as Solco scales (Wolf and Giuseppe are not finance-trained)
   - Angel-investment deal pattern recognition (30+ deals across cycles)
   - Trusted ESMT / Vali / BACB peer network (low-friction warm intros across all three institutions)
 - **Complementarity:** Fills a hard skill (CFO / financial DD) neither Oliver vQ nor the founder team carries. Already inside Vali — zero coordination cost.
@@ -84,7 +84,7 @@ Solcus is a **specialised consulting practice with AI-enabled methodology**, tar
 
 ## Full Candidate Pool — Compact Summary (13 Profiles)
 
-Sorted by Solcus-fit signal.
+Sorted by Solco-fit signal.
 
 ### Strong fit (top 3 picks above)
 
@@ -103,7 +103,7 @@ Sorted by Solcus-fit signal.
 
 - **Abbas Adel Ibrahim** — CEO WeekOne (AI onboarding). Strong founder profile but startup / B2C bias, no Mittelstand credibility.
 - **Caroline Baltrusch** — XAnge VC investor. Excellent early-stage advisor but fundamentally venture, not consulting / Mittelstand ICP.
-- **Joshua Müller-Meerkatz** — GP at ICBF + JMM Capital. Junior (2-3y VC). Too early-stage and venture-focused for Solcus credibility.
+- **Joshua Müller-Meerkatz** — GP at ICBF + JMM Capital. Junior (2-3y VC). Too early-stage and venture-focused for Solco credibility.
 - **Juanjiangmeng Du, PhD MBA** — Co-Founder Molecular Garden (biotech incubation). Too junior + biotech niche.
 - **Mali M Baum** — EIC Board + WLOUNGE ecosystem builder. Excellent ecosystem / policy connector but lacks M&A / operations depth.
 - **Dr. Tonino Greco** — Sony / LG R&D. Corporate deep-tech, no consulting / M&A / Mittelstand fit.
@@ -133,14 +133,14 @@ Sorted by Solcus-fit signal.
 - **Past:** Head of BD at EDF Deutschland (1.5y); Head of BD at HOCHTIEF Development (6.5y — corporate strategy, M&A, e-Business, greenfield BD); Senior PM at Sony International Europe (4y — international R&D, plastics recycling, EHS)
 - **Domain:** energy / cleantech / utilities, smart city, M&A and PMI (small / mid-cap), IoT and big data, construction (HOCHTIEF)
 - **Geography:** Berlin, Germany
-- **Why he fits Solcus:** M&A mid-cap experience overlaps directly with Solcus M&A wedge; construction industry overlap with Patterns 22 / 42 (Filigran, BWB cases); accelerator role at WISTA provides ecosystem warm-intro density; strategist / networker self-identification matches Solcus need for trust-channel access
+- **Why he fits Solco:** M&A mid-cap experience overlaps directly with Solco M&A wedge; construction industry overlap with Patterns 22 / 42 (Filigran, BWB cases); accelerator role at WISTA provides ecosystem warm-intro density; strategist / networker self-identification matches Solco need for trust-channel access
 - **What he does NOT cover:** AI-builder credibility, consulting-practice operations, financial-DD discipline, sell-side M&A advisory channel — hence the three picks above
 
 ---
 
 ## Related
 
-- [[Problem Statement]] — Solcus v6 thesis, including consulting-practice identity reframe
+- [[Problem Statement]] — Solco v6 thesis, including consulting-practice identity reframe
 - [[ICP Definition]] — head-of-department / ERP-ceiling wedge
 - [[Council Verdict]] — earlier LLM-council pressure-test (Apr 2026, not the human mentor council)
 - [[Council Report]] — full HTML report from the council session

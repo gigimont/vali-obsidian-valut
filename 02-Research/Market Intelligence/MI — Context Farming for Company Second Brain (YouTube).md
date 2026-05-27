@@ -25,54 +25,54 @@ The result: a briefing on deals, decisions, and meetings you were never in — a
 
 ---
 
-## Key Insights Relevant to Solcus
+## Key Insights Relevant to Solco
 
 ### 1. "Things are just getting lost between the stakeholders" = the COO version of our problem
 
 The speaker quotes a COO at a multi-tool company: "It's not a lack of tools, it's a lack of connected context." Context farming solves this by creating one unified knowledge layer that pulls from all sources.
 
-- **Solcus cross-reference:** This is the SME succession problem stated in operational language. Our ICP founders don't have Slack and Fireflies — their context lives in their heads, not in digital tools. The problem is the same (knowledge lost between stakeholders, across time) but the source is different. Context farming is the digital-native equivalent of what we do with the campfire method. The hard problem — and our moat — is that we extract from PEOPLE, not from APIs.
+- **Solco cross-reference:** This is the SME succession problem stated in operational language. Our ICP founders don't have Slack and Fireflies — their context lives in their heads, not in digital tools. The problem is the same (knowledge lost between stakeholders, across time) but the source is different. Context farming is the digital-native equivalent of what we do with the campfire method. The hard problem — and our moat — is that we extract from PEOPLE, not from APIs.
 
-### 2. Context farming = the maintenance layer Solcus is missing
+### 2. Context farming = the maintenance layer Solco is missing
 
 After the initial extraction engagement, what keeps the knowledge base current? This video describes exactly that pattern: once the context layer is seeded, farming agents maintain and extend it automatically without human intervention. The system feeds itself.
 
-- **Solcus cross-reference:** Lorenz's "always-on monitoring" challenge ([[Interview 019 — Lorenz Essing (EMH Partners, Germany)]]). His objection was that a one-time extraction goes stale. Context farming is the technical answer: post-engagement, Solcus could deploy lightweight farming agents on whatever digital signals the SME does have (email threads, simple meeting notes, WhatsApp exports) to keep the knowledge base alive. This is a product evolution path — extraction engagement (Year 1) → farming agents as SaaS retention (Year 2+).
+- **Solco cross-reference:** Lorenz's "always-on monitoring" challenge ([[Interview 019 — Lorenz Essing (EMH Partners, Germany)]]). His objection was that a one-time extraction goes stale. Context farming is the technical answer: post-engagement, Solco could deploy lightweight farming agents on whatever digital signals the SME does have (email threads, simple meeting notes, WhatsApp exports) to keep the knowledge base alive. This is a product evolution path — extraction engagement (Year 1) → farming agents as SaaS retention (Year 2+).
 
 ### 3. "The system has started to feed itself" = flywheel that justifies SaaS pricing
 
 "Your context gets deeper and your agents get smarter... this is what context engineering looks like in practice." Once a critical mass of context exists, the value of adding more context compounds — each new piece connects to more prior knowledge.
 
-- **Solcus cross-reference:** This is the retention mechanism we need. The first engagement creates the context layer (via extraction). Every subsequent update via farming agents increases the value of the knowledge base — making it harder to cancel. This justifies a SaaS model on top of the service engagement. Aligns with the MI — Mem insight on cost trajectory: build the service now, evolve to always-on SaaS as costs drop.
+- **Solco cross-reference:** This is the retention mechanism we need. The first engagement creates the context layer (via extraction). Every subsequent update via farming agents increases the value of the knowledge base — making it harder to cancel. This justifies a SaaS model on top of the service engagement. Aligns with the MI — Mem insight on cost trajectory: build the service now, evolve to always-on SaaS as costs drop.
 
 ### 4. Proactive briefing without being in the meeting = our product's killer demo
 
 The speaker walks into a $280K customer renewal meeting fully briefed — without reading a single Slack message or watching any recording. Claude surfaces the full account context on demand.
 
-- **Solcus cross-reference:** Direct analogue to our product demo scenario. The Filigran successor (or new Planungsleiter) asks: "How do we handle customer complaints about delivery schedules?" and gets the founder's 30-year judgment on demand — without ever having been in the room. This is the demo we need to build for Pfingsten. The briefing use case is more visceral and immediate than the succession use case — consider leading with it.
+- **Solco cross-reference:** Direct analogue to our product demo scenario. The Filigran successor (or new Planungsleiter) asks: "How do we handle customer complaints about delivery schedules?" and gets the founder's 30-year judgment on demand — without ever having been in the room. This is the demo we need to build for Pfingsten. The briefing use case is more visceral and immediate than the succession use case — consider leading with it.
 
 ### 5. GitHub as the sync layer = what we already use
 
 Everything converges through GitHub: cloud farming agents push from outside, Obsidian syncs local edits, Claude Code reads and writes — all through one repo. This is exactly our current vault architecture.
 
-- **Solcus cross-reference:** Our vault already runs on this pattern (vault ↔ GitHub ↔ Claude Code). We're not building from scratch — we're extending an architecture we already have operational. For the Filigran PoC, the GitHub repo is already the right foundation. The farming agents would be additive, not a rebuild.
+- **Solco cross-reference:** Our vault already runs on this pattern (vault ↔ GitHub ↔ Claude Code). We're not building from scratch — we're extending an architecture we already have operational. For the Filigran PoC, the GitHub repo is already the right foundation. The farming agents would be additive, not a rebuild.
 
 ### 6. MCP as the universal integration standard
 
 "This works with any software that has an MCP." The pattern is: connect an MCP → run create farmer → schedule it → done. The same skill generates context farmers for any tool.
 
-- **Solcus cross-reference:** Product architecture implication. For SMEs that do have some digital touchpoints (email, basic CRM, simple project management), MCP-based farming agents could capture those signals automatically as part of the Solcus maintenance layer. We don't need to build custom integrations — MCP is the open standard that handles it.
+- **Solco cross-reference:** Product architecture implication. For SMEs that do have some digital touchpoints (email, basic CRM, simple project management), MCP-based farming agents could capture those signals automatically as part of the Solco maintenance layer. We don't need to build custom integrations — MCP is the open standard that handles it.
 
 ---
 
 ## What This Source Does NOT Solve
 
-- **The headspace extraction problem:** Brad's system assumes context already exists in digital tools. Filigran's knowledge is not in Slack. Armin's is not in Fireflies. The founding generation's judgment has never been typed into any system. Context farming can maintain and extend a knowledge base once it's seeded — but it cannot create the seed. That's what Solcus's extraction methodology does. The hard problem is still ours to own.
+- **The headspace extraction problem:** Brad's system assumes context already exists in digital tools. Filigran's knowledge is not in Slack. Armin's is not in Fireflies. The founding generation's judgment has never been typed into any system. Context farming can maintain and extend a knowledge base once it's seeded — but it cannot create the seed. That's what Solco's extraction methodology does. The hard problem is still ours to own.
 - **The SME user experience:** This system requires technical setup (GitHub, MCP, Claude Code). Our ICP (founders in their 50s-70s, non-technical successors) cannot and should not touch any of this. Our product must hide all of it.
 
 ---
 
-## Product Implication: Two-Phase Solcus Model
+## Product Implication: Two-Phase Solco Model
 
 This video, combined with the execution layer video, suggests a clear two-phase product architecture:
 

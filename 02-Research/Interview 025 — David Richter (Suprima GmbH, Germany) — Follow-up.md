@@ -7,16 +7,16 @@
 > **Sector:** Manufacturing (Textiles / Specialized apparel)
 > **Geography:** Germany
 > **Company Size:** ~60 employees total (15-20 in production)
-> **Context:** Follow-up meeting after ~2 weeks of sprint. Solcus team presented the updated methodology, new cross-industry patterns, and MVP concepts.
+> **Context:** Follow-up meeting after ~2 weeks of sprint. Solco team presented the updated methodology, new cross-industry patterns, and MVP concepts.
 > **Format:** Video call (transcript available)
 
 ---
 
 ## ⚠️ Significance of This Interview
 
-**David provided the strongest technical and operational validation of the Solcus MVP architecture and the "Planungsleiter" ICP.** As the leader of a 60-person manufacturing SME, he perfectly articulated the dual-threat of knowledge loss: the sudden departure (purchasing department) and the ticking clock of retirement (production planning). 
+**David provided the strongest technical and operational validation of the Solco MVP architecture and the "Planungsleiter" ICP.** As the leader of a 60-person manufacturing SME, he perfectly articulated the dual-threat of knowledge loss: the sudden departure (purchasing department) and the ticking clock of retirement (production planning). 
 
-Crucially, David independently arrived at the exact technical architecture Solcus is building (using Obsidian/Markdown as the normative knowledge layer with an LLM like Claude on top for the judgment layer). He also provided vital feedback on the [[Product Methodology]]: warning about the "job security paradox" (experts hoarding knowledge to remain valuable) and suggesting a "shadowing" approach to elicitation rather than purely theoretical interviews.
+Crucially, David independently arrived at the exact technical architecture Solco is building (using Obsidian/Markdown as the normative knowledge layer with an LLM like Claude on top for the judgment layer). He also provided vital feedback on the [[Product Methodology]]: warning about the "job security paradox" (experts hoarding knowledge to remain valuable) and suggesting a "shadowing" approach to elicitation rather than purely theoretical interviews.
 
 **Cross-reference with [[ICP Definition]]:** David confirmed that the "Planungsleiter" role is the universal bottleneck. Wolf cross-validated this during the call, noting that changing yarns in David's textile machines matches the exact complexity of changing steel products in the von Weiler family business. 
 
@@ -90,5 +90,5 @@ David, a tech-savvy SME owner who is building prediction models himself, indepen
 - [[Patterns From Fieldwork]] — Patterns 35, 40, 41, 42 reinforced here
 - [[Product Methodology]] — shadowing addition
 - [[ICP Definition]] — Planungsleiter / head-of-department wedge confirmed
-- [ ] Refine the GTM messaging to address the "Job Security Paradox" head-on (framing Solcus as a delegation enabler, not a replacement tool).
+- [ ] Refine the GTM messaging to address the "Job Security Paradox" head-on (framing Solco as a delegation enabler, not a replacement tool).
 - [ ] Keep David in the loop as a potential beta tester for the Phase 2 Obsidian+LLM architecture, given his explicit interest in this exact setup.

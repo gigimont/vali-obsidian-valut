@@ -13,7 +13,7 @@
 
 The strongest cross-industry pattern in the dataset (Pattern 42, confirmed across construction, aluminium, eyewear, and engineering) combined with the ERP-ceiling reality (Pattern 22) defines the ICP wedge with new precision:
 
-> **The Solcus ICP is the head-of-department role layer (Planungsleiter, head of logistics, head of purchasing/product planning, technical feasibility bridge) inside Mittelstand companies that have hit the ERP ceiling, across any industry.**
+> **The Solco ICP is the head-of-department role layer (Planungsleiter, head of logistics, head of purchasing/product planning, technical feasibility bridge) inside Mittelstand companies that have hit the ERP ceiling, across any industry.**
 
 Role profile matters more than industry. Size matters less than role.
 

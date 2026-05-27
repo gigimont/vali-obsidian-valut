@@ -4,7 +4,7 @@
 
 > **Purpose:** Chronological record of how the product thesis, ICP, and GTM strategy evolved through fieldwork. Each entry captures WHAT changed, WHY it changed, and WHAT triggered it.
 > **Status:** Living document. Update after any strategic pivot or major reframe.
-> **Last updated:** May 12, 2026
+> **Last updated:** May 27, 2026
 
 ---
 
@@ -125,9 +125,9 @@ Vague: "small and medium enterprises going through succession." No size range, n
 
 ## Phase 4 — Identity crystallization (Week 6, Interviews 020–024)
 
-### Pivot 15 — Solcus named (May 14, 2026)
+### Pivot 15 — Project named (May 14, 2026; shortened to "Solco" May 27)
 - **Trigger:** Brainstorming session ([[Standup — 2026-05-14]])
-- **What changed:** Project named **Solcus** — from Latin *sulcus* (brain fold where knowledge is stored) + Italian *solco* (furrow — the trace left by decades of work). Captures both the second-brain concept and the organic, earthy SME context.
+- **What changed:** Project named — from Latin *sulcus* (brain fold where knowledge is stored) + Italian *solco* (furrow — the trace left by decades of work). Captures both the second-brain concept and the organic, earthy SME context. Originally styled **Solcus**; shortened to **Solco** on May 27, 2026 (see Pivot 20).
 - **What survived:** Adopted across all material going forward (Standups, 1:1s, Competitors). Pitch Deck refreshed May 20 to integrate the name.
 
 ### Pivot 16 — "You're a consulting company" identity reframe (May 12)
@@ -151,14 +151,20 @@ Vague: "small and medium enterprises going through succession." No size range, n
 ### Pivot 19 — Delegation-first methodology framing (May 20)
 - **Trigger:** [[Standup — 2026-05-20]] (Filigran Friday seminar planning)
 - **What changed:** The product should be framed as enabling delegation, not as documenting knowledge. "We help your expert delegate more effectively" outperforms "we document what your expert knows" because delegation maps to a felt operational problem (the head of department is overloaded), while documentation maps to an abstract future risk. This is also the scalability model: leave the client with a self-sufficient framework rather than doing the work for them.
-- **Internal application:** The Filigran Friday seminar format is structured around delegation-first — give Marco the methodology and onboarding, then let Filigran run it themselves. Solcus provides framework + on-call support, not labour-as-a-service.
+- **Internal application:** The Filigran Friday seminar format is structured around delegation-first — give Marco the methodology and onboarding, then let Filigran run it themselves. Solco provides framework + on-call support, not labour-as-a-service.
 - **Status:** Adopted as the operational identity. Replaces "documentation service" framing in customer-facing language.
+
+### Pivot 20 — Name shortened "Solcus" → "Solco" (May 27, 2026)
+- **Trigger:** Founder decision (Giuseppe + Wolf)
+- **What changed:** The brand name is shortened from **Solcus** to **Solco**. The new name is the Italian word *solco* (furrow) itself, keeping the etymological root (Latin *sulcus* / Italian *solco*) while reading cleaner and more pronounceable in both German and Italian markets.
+- **Scope:** Vault-wide rename across all strategy, research, deliverables, standups, mentor, and audit notes. Raw transcripts in 00-Raw/ left untouched (immutable).
+- **Status:** ADOPTED across all material going forward.
 
 ---
 
-## Current State (May 20, 2026)
+## Current State (May 27, 2026)
 
-**Product:** **Solcus** — a specialised consulting practice with proprietary AI-enabled methodology. Phase 1 = 4-6 week engagement that captures context, culture, and decision logic from SME experts through three pillars (storytelling, computer tracking, document ingestion) and delivers a structured report + queryable knowledge base. Phase 2 = always-on closed-loop knowledge system that self-updates.
+**Product:** **Solco** — a specialised consulting practice with proprietary AI-enabled methodology. Phase 1 = 4-6 week engagement that captures context, culture, and decision logic from SME experts through three pillars (storytelling, computer tracking, document ingestion) and delivers a structured report + queryable knowledge base. Phase 2 = always-on closed-loop knowledge system that self-updates.
 
 **ICP:** Role-based (not size-based). Head-of-department / Planungsleiter layer inside Mittelstand companies that have hit the ERP ceiling. Timing axis: 2-5 years before key expert retirement. Cross-industry confirmed (construction, aluminium, eyewear, textile/manufacturing). See [[ICP Definition]] v3.
 
@@ -183,7 +189,7 @@ Sell-side advisor channel ("get documented before we list you") is a hypothesise
 **Open strategic questions:**
 1. **Closed-loop maintenance mechanism (Phase 2 design):** Passive AI-driven updates or scheduled re-validation? Hybrid? Must be answered before any paid recurring engagement.
 2. **Identity ambiguity:** Lucas Müller-Menrad (Interview 024) vs "Müller-Menrad PwC Dubai M&A" (Armin's offer, Interview 017) — same person or different?
-3. **Can we quantify "Solcus reduces earn-out from X% to Y%"?** This would be the killer M&A metric (Maciej's open question).
+3. **Can we quantify "Solco reduces earn-out from X% to Y%"?** This would be the killer M&A metric (Maciej's open question).
 4. **Should "stuck in the middle" consolidation pressure become a fourth urgency force** alongside succession, AI window, and talent scarcity? (Eberhard, Interview 024)
 5. Who is the technical co-founder? (Carried from v5.)
 

@@ -12,10 +12,10 @@
 
 ## ⚠️ Significance of This Interview
 
-First **customer-side / downstream-buyer voice** confirming the Solcus problem and the Solcus product surface from a 30-plant precast Mittelstand group. Three substantive contributions:
+First **customer-side / downstream-buyer voice** confirming the Solco problem and the Solco product surface from a 30-plant precast Mittelstand group. Three substantive contributions:
 
 1. **Independent confirmation of Pattern 44 (active retrieval).** Gras articulated the *memory-that-acts* product mode **unprompted** — Q&A interface that returns prior-project answers with named authors (Planungsleiter, Statiker, Architekt). Pattern 44 now has three independent voices: Eric Quintane (academic), Marco Nortmeier (operational), Sebastian Gras (customer leadership). The pattern is hardening fast.
-2. **Self-quantified recurring-process rate (~85-90%).** Gras volunteered the number without prompting. This is a Solcus-grade ROI anchor for the precast / construction vertical: 85-90% of work flows through patterns that can be matched, leaving 10-15% genuine exception load for human judgment. NEW Pattern 47.
+2. **Self-quantified recurring-process rate (~85-90%).** Gras volunteered the number without prompting. This is a Solco-grade ROI anchor for the precast / construction vertical: 85-90% of work flows through patterns that can be matched, leaving 10-15% genuine exception load for human judgment. NEW Pattern 47.
 3. **Cross-site knowledge silos as a new ICP vector.** FDU runs ~30 plants across Germany; identical problems recur in Öhringen, Kopp (near Kiel), and Velten (near Berlin) with **no mandatory cross-site exchange**. Multi-site Mittelstand groups have an additional product surface beyond single-site succession risk: a cross-plant knowledge layer. NEW Pattern 46.
 
 Also: Gras validates Bauermeister's €20K forgotten-experiment story unprompted ("es ist ja so erschreckend, wie wie einfach, nur wenn keiner weiß, dass das schon mal stattgefunden hat") — Pattern 31 lands across the customer-supplier boundary, which is a strong out-of-network confirmation signal.
@@ -51,7 +51,7 @@ A customer-side leader cross-validating a supplier-side pattern strengthens the 
 
 ### Articulated the active-retrieval product mode himself
 
-This is the single strongest moment in the interview. Gras described the use case Solcus is building **before Wolf described it**:
+This is the single strongest moment in the interview. Gras described the use case Solco is building **before Wolf described it**:
 
 > *"Eine Art Q&A... ich stelle die Frage und dann sagt er mir aus meiner Datenbank heraus: alles klar, in der Vergangenheit, das ist ein Beispielprojekt, das wurde von X.Y.Z. beantwortet oder bearbeitet, wurde es wie folgt gelöst — mit dem und dem Hinweis von einem Planungsleiter, von einem Statiker, vom Architekten. Das ist ja genau der Punkt, wo wir perspektivisch hinmüssen, damit man im Kern unabhängig von Ansprechpartnern wird."*
 > "A kind of Q&A — I ask the question and it answers from the database: this was a similar project, X.Y.Z. solved it like this, with these notes from the Planungsleiter, the structural engineer, the architect. That's exactly where we need to go perspectively — to be at the core independent of contact persons."
@@ -70,14 +70,14 @@ This is Pattern 44 made concrete: not abstract decision-support, but the literal
 > *"Wir machen, ist ja sehr individuell. Nichtsdestotrotz hat man ja gewisse Muster, die immer und immer und immer wieder auftreten... ich hoffe vielleicht etwas niedrigere Zahlen nennen, das kann sein, aber ich sag mal wahrscheinlich 85 bis 90% haben wir wiederkehrende Prozesse."*
 > "We're individual — but you have patterns that keep recurring. Maybe I'm being generous, but I'd say 85 to 90% of our processes are recurring."
 
-A head-of-department who quantifies the repetition rate himself is a head-of-department who can compute his own ROI on Solcus. NEW Pattern 47.
+A head-of-department who quantifies the repetition rate himself is a head-of-department who can compute his own ROI on Solco. NEW Pattern 47.
 
 ### Failure archive as adjacent value
 
 > *"Auch ehrlicherweise auch, wenn es nicht funktioniert hat oder beziehungsweise zu Problemen führte. Wie hat man es gemacht und wie sollte man es nicht wieder machen?"*
 > "Also honestly when something didn't work or led to problems. How was it done, and how should we not do it again?"
 
-Solcus deliverable expansion: not just "what to copy" but "what to never repeat." Negative-knowledge archive.
+Solco deliverable expansion: not just "what to copy" but "what to never repeat." Negative-knowledge archive.
 
 ### Cross-site silo as a multi-plant pain point (NEW)
 
@@ -152,11 +152,11 @@ Not a closed pilot lead, but a warm channel into a 30-site precast group — sig
 
 ## Strategic Implications
 
-1. **Customer-side validation closes the loop.** Solcus has now heard the same problem stated by: the technical insider (Bauermeister), the operational leader (Marco Nortmeier), the customer-side Planungsleiter (Bergerhoff), and the customer-side Geschäftsführer (Gras). Four layers of the same diagnosis. Pattern 44 (active retrieval) has been articulated by three of them without Wolf prompting. The thesis can be defended cold.
+1. **Customer-side validation closes the loop.** Solco has now heard the same problem stated by: the technical insider (Bauermeister), the operational leader (Marco Nortmeier), the customer-side Planungsleiter (Bergerhoff), and the customer-side Geschäftsführer (Gras). Four layers of the same diagnosis. Pattern 44 (active retrieval) has been articulated by three of them without Wolf prompting. The thesis can be defended cold.
 2. **Multi-site Mittelstand is a new ICP wedge candidate.** FDU's 30-plant structure makes cross-site aggregation more valuable than single-site succession. Larger deal sizes, harder relationship-building, but a clearer ROI story (replicate one site's pattern library across 29 others).
 3. **Lead-with-documentation, defer-AI is the right pitch sequence.** Wolf used it deliberately and Gras tracked smoothly. Pattern 28 (storytelling welcome, documentation resisted) was avoided by reframing documentation as recording + structuring, not as a compliance exercise.
 4. **Mistral / European-LLM angle is starting to matter.** First interview where Wolf used data-sovereignty as an active sales point. Worth formalising as a competitive differentiator vs US-only competitors.
-5. **The 85-90% number wants to be a pitch slide.** Single source so far, but Gras volunteered it. If it survives one or two more interviews, it goes on the deck as "85% of mid-market manufacturing work is pattern-recurrent — Solcus turns those patterns into a queryable layer."
+5. **The 85-90% number wants to be a pitch slide.** Single source so far, but Gras volunteered it. If it survives one or two more interviews, it goes on the deck as "85% of mid-market manufacturing work is pattern-recurrent — Solco turns those patterns into a queryable layer."
 
 ---
 

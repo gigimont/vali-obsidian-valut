@@ -9,7 +9,7 @@
 
 ## Slide 1 — Title
 **SME Succession** · Cohort Pitch
-Solcus · Wolf von Weiler & Giuseppe Montagner · Vali Entrepreneurship Hub, ESMT Berlin · Summer 2026
+Solco · Wolf von Weiler & Giuseppe Montagner · Vali Entrepreneurship Hub, ESMT Berlin · Summer 2026
 
 ## Slide 2 — Profitable Today. Fragile Tomorrow.
 - Knowledge lives in one head: 30+ years of supplier relationships, customer trust, judgment

@@ -12,11 +12,11 @@ created: 2026-05-19
 
 ## What This Is
 
-A 45-minute academic lecture by a leading qualitative methods scholar on elicitation interviews — specifically photo elicitation and object elicitation. This is a different discipline from the knowledge engineering KE literature (see [[MI — Classical Knowledge Elicitation Methods]]) but speaks directly to Solcus's extraction challenge: how do you get people to surface knowledge they can't easily verbalise? May's sociology-side research provides practical methodology insights the KE literature misses — particularly around embodied knowledge, emotional resonance, and participant control as a trust mechanism.
+A 45-minute academic lecture by a leading qualitative methods scholar on elicitation interviews — specifically photo elicitation and object elicitation. This is a different discipline from the knowledge engineering KE literature (see [[MI — Classical Knowledge Elicitation Methods]]) but speaks directly to Solco's extraction challenge: how do you get people to surface knowledge they can't easily verbalise? May's sociology-side research provides practical methodology insights the KE literature misses — particularly around embodied knowledge, emotional resonance, and participant control as a trust mechanism.
 
 ---
 
-## Key Insights Relevant to Solcus
+## Key Insights Relevant to Solco
 
 ### 1. Elicitation captures what direct questioning cannot
 
@@ -26,7 +26,7 @@ The core premise: certain types of knowledge are impossible to surface through s
 - **Tacit and automatised knowledge** — "so mundane that people don't think about them consciously" — the expert no longer knows how they do what they do
 - **Emotional content** — photographs and objects evoke feelings that direct questions suppress
 
-**Solcus angle:** The founder's competitive intuition, relationship instincts, and operational feel are all embodied and automatised. Standard interview questions ("how do you decide?") produce rationalised, safe answers. Elicitation produces lived, contextualised accounts. This is the scientific backing for why the campfire method works better than a structured questionnaire.
+**Solco angle:** The founder's competitive intuition, relationship instincts, and operational feel are all embodied and automatised. Standard interview questions ("how do you decide?") produce rationalised, safe answers. Elicitation produces lived, contextualised accounts. This is the scientific backing for why the campfire method works better than a structured questionnaire.
 
 ### 2. Elicitation breaks the strangeness of the interview
 
@@ -37,7 +37,7 @@ Elicitation changes this in three ways:
 - **Creates a familiar activity** — "looking through a photo album together is something people regularly do with others"; the interview stops feeling like an interview
 - **Shifts who controls the agenda** — the research participant chooses what to show, what order to discuss it, what to include or exclude. They become the guide, not the subject.
 
-**Solcus angle:** The Filigran session format should include a physical artefact component. Ask the founder to bring 3-5 photos or objects connected to the business's history before the session begins. This immediately shifts power to them and turns the extraction session into a "show and tell" rather than an interrogation. Founders who feel in control open up more.
+**Solco angle:** The Filigran session format should include a physical artefact component. Ask the founder to bring 3-5 photos or objects connected to the business's history before the session begins. This immediately shifts power to them and turns the extraction session into a "show and tell" rather than an interrogation. Founders who feel in control open up more.
 
 ### 3. Photo elicitation: practical protocol
 
@@ -51,7 +51,7 @@ Elicitation changes this in three ways:
 
 **Critical warning (the "unfinished business" trap):** Don't get too fixated on the elicitation tool itself. A researcher asked a woman with terminal cancer why she brought a piece of music, keep asking about the music — but the woman was trying to talk about unfulfilled potential as a musician. The photo or object is a door, not the destination. Once it opens the founder up, follow where they go.
 
-**Solcus angle:** After the founder shows a photo and starts talking, the follow-up should be: "What does this make you think about that we haven't talked about yet?" — not "tell me more about this specific photo." The artefact is a trigger, not the subject.
+**Solco angle:** After the founder shows a photo and starts talking, the follow-up should be: "What does this make you think about that we haven't talked about yet?" — not "tell me more about this specific photo." The artefact is a trigger, not the subject.
 
 ### 4. Object elicitation: even more powerful for tacit embodied knowledge
 
@@ -63,7 +63,7 @@ Effective prompts:
 
 Objects are "receptacles or anchors for memories and stories" — they allow the participant to revisit experiences that verbal questioning would never locate.
 
-**Solcus angle:** Before a Filigran or equivalent session, ask the founder to bring:
+**Solco angle:** Before a Filigran or equivalent session, ask the founder to bring:
 - One object that represents how the business started
 - One object from the most difficult period
 - One object that represents what makes the business different
@@ -76,7 +76,7 @@ When the participant selects the photos or objects, they implicitly reveal what'
 
 May notes participants sometimes choose objects they think the researcher wants to see (rationalisation risk — same as the KE literature warns). Counter-strategy: give broad framing ("bring what feels significant") rather than specific categories ("bring a photo of your production process").
 
-**Solcus angle:** Don't prescribe what type of object or photo to bring. Over-specification produces curated, safe choices. Broad framing produces genuine choices — and genuine choices tell you what the founder actually thinks matters.
+**Solco angle:** Don't prescribe what type of object or photo to bring. Over-specification produces curated, safe choices. Broad framing produces genuine choices — and genuine choices tell you what the founder actually thinks matters.
 
 ### 6. Multiple meetings are necessary — rapport precedes elicitation
 
@@ -84,7 +84,7 @@ May is explicit: "Usually we meet at least twice — once to explain, once to el
 
 Object elicitation in particular "feels strange" — participants are baffled about why you want to see a worn-out kitchen implement. Preparation and framing reduce resistance.
 
-**Solcus angle:** The Filigran methodology should have at least three sessions before deep elicitation:
+**Solco angle:** The Filigran methodology should have at least three sessions before deep elicitation:
 1. Introduction + trust building (current Week 1 campfire)
 2. Brief the founder on the photo/object exercise; give them a week to select artefacts
 3. Elicitation session using the artefacts they've chosen
@@ -97,7 +97,7 @@ Counterintuitively, elicitation works particularly well for sensitive subjects. 
 
 For succession topics — which are inherently emotionally loaded (mortality, legacy, letting go, fear of the business being destroyed) — elicitation allows the founder to approach the topic obliquely through memory and story rather than direct confrontation.
 
-**Solcus angle:** If a founder resists direct questions about succession ("I haven't really thought about it"), pivot to object elicitation: "Can you bring something that represents what you've built?" This opens the emotional content sideways, without triggering the defensiveness that direct succession questions produce.
+**Solco angle:** If a founder resists direct questions about succession ("I haven't really thought about it"), pivot to object elicitation: "Can you bring something that represents what you've built?" This opens the emotional content sideways, without triggering the defensiveness that direct succession questions produce.
 
 ---
 
