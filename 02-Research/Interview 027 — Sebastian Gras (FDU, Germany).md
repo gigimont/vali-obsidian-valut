@@ -184,6 +184,7 @@ Not a closed pilot lead, but a warm channel into a 30-site precast group — sig
 
 ## Related
 
+- [[Interview 028 — Benjamin Eckert (Libergy & BMV Energy, Germany)]] — next interview in the chain; first energy / family-business heir voice. Pattern 22 cross-industry confirmation (energy = sixth industry); Pattern 44 fourth confirmation; surfaces the Beirat / shareholder board as a new buyer audience and value-driver discovery as adjacent product surface.
 - [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]] — previous interview; introduced Pattern 44 (passive record vs active retrieval). Gras independently confirms.
 - [[Interview 016 — Stefan Bergerhoff (BWB-Gruppe, Germany)]] — the warm-intro source; Planungsleiter bottleneck pattern; Pattern 35 (three trust thresholds) origin.
 - [[Interview 014 — Ulrich Bauermeister (Filigran, Germany)]] — the €20K story Gras validated unprompted; original Pattern 31 source.

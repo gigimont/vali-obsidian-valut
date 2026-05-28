@@ -28,6 +28,7 @@
 - [[1 to 1s — Week 4]] — Poland fieldwork, M&A angle deepening, ICP parameters discussion
 - [[1 to 1s — Week 5]] — 3 interviews in one day, Life Book lead, always-on GTM challenge, three-pillar extraction, alpha client strategy
 - [[1 to 1s — Week 6]] — Poland expansion; Filigran PoC Thursday/Friday; closed loop system framing; Mentor Day prep; Ontora (YC) added as direct competitor; Lech Stahlwerke lead
+- [[1 to 1s — Week 7]] — Mentor Day debrief: CTO on critical path; monetization sharpening; "technical director" positioning test; Joachim portfolio-pilot offer; AI-consultancy partnership model (SAP/Signavio analogue); EWOR Florin Hubert track
 
 ### Research & Interviews
 - [[Interview 001 — Successor]] — first interview synthesis
@@ -57,6 +58,7 @@
 - [[Interview 025 — David Richter (Suprima GmbH, Germany) — Follow-up]] — textile SME follow-up; independent architecture validation (Obsidian + Claude); shadowing > theoretical interviews; reinforces Patterns 35, 40, 41, 42
 - [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]] — second ESMT academic stress-test; reframes "brain" → "memory" (Pattern 43); two product modes — record vs act (Pattern 44); knowledge-work ICP counter-signal (Pattern 45); ONA + broker use-cases opened; objection cluster gains "replacement-framing" flavor
 - [[Interview 027 — Sebastian Gras (FDU, Germany)]] — first customer-side voice; 30-plant precast Mittelstand group; independently confirms Pattern 44 (active retrieval, temporal decoupling); 85-90% recurring-process self-quantification (Pattern 47); cross-site silos as new ICP vector (Pattern 46); Pattern 31 €20K story validated unprompted
+- [[Interview 028 — Benjamin Eckert (Libergy & BMV Energy, Germany)]] — first energy / family-business-heir voice; Pattern 22 sixth industry (fuel / liquid energy); Pattern 42 articulated unprompted by an heir; Pattern 44 fourth confirmation; surfaces Beirat / shareholder board as new buyer audience and value-driver discovery as adjacent product surface; Daniel Dippold (EWOR) warm channel
 - [[MI — Mem (a16z Podcast)]] — consumer second brain analysis, zero-organisation principle, personalisation
 - [[MI — HAIC-MM (Ortolano & Gallegos, INCOSE 2026)]] — validated SME AI maturity model; maps to Patterns 25, 29, 35; 40% productivity stat; free diagnostic tool at haicmm.com
 - [[MI — Second Brain Execution Layer (YouTube)]] — two-layer architecture (context + execution); "institutional inheritance" framing; Obsidian-as-demo confirmed
@@ -160,6 +162,8 @@
 | 7    | Standup May 20: YNG confirmed, Filigran seminar plan, delegation-first model, Ivor Fellowship deadline June 2 | ✅ Done |
 | 7    | Interview 026: Eric Quintane (ESMT, Organizational Behavior) — second academic stress-test; metaphor pivot (brain → memory, Pattern 43); two-mode product hypothesis (Pattern 44); knowledge-work ICP counter-signal (Pattern 45); ONA + broker adjacent surfaces; replacement-framing added to objection cluster | ✅ Done |
 | 7    | Interview 027: Sebastian Gras (FDU 30-plant precast) — first customer-side voice; Pattern 44 third confirmation (active retrieval, temporal decoupling, named-author Q&A); Pattern 46 (cross-site silos in multi-site Mittelstand); Pattern 47 (85-90% recurring-process self-quantification); Pattern 31 €20K story validated unprompted | ✅ Done |
+| 7 | Mentor Day at Audi 4 — six-mentor pitch event; CTO need + monetization the two convergent feedback themes; "technical director" positioning candidate; Joachim portfolio-pilot offer; SAP/Signavio AI-consultancy distribution analogue | ✅ Done |
+| 7 | Interview 028: Benjamin Eckert (Libergy / BMV Energy) — first energy / heir voice; Pattern 22 sixth industry (fuel); Pattern 42 voiced by heir; Pattern 44 fourth confirmation; new Beirat / shareholder-board buyer audience; value-driver discovery adjacent surface; Daniel Dippold (EWOR) warm channel | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

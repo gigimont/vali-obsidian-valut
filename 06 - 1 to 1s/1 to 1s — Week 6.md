@@ -97,6 +97,7 @@ Week 6 marks the shift from fieldwork to execution. The Poland trip added geogra
 
 ## Related
 
+- [[1 to 1s — Week 7]] — next check-in; Mentor Day debrief, CTO recruitment on critical path, "technical director" positioning test, Joachim portfolio-pilot offer
 - [[1 to 1s — Week 5]] — previous check-in; validation saturation, alpha client strategy, Life Book lead
 - [[Standup — 2026-05-19]] — same-day standup; overlapping themes on Filigran and closed loop system
 - [[Product Evolution Log]] — closed loop system framing; voice interface vision
