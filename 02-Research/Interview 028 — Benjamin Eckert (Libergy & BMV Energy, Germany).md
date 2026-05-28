@@ -43,7 +43,7 @@ Tacit knowledge as physically co-located air-transfer — not a metaphor, a stat
 
 > *"I think if you are sha[dowing] what they're doing, you can really see how many cases there are and how they are handled."*
 
-When Giuseppe described Solco's three pillars (interviews + computer-use tracking / shadowing + document ingestion), Eckert independently confirmed that shadowing is the most important pillar. Third independent confirmation of the shadowing primacy claim (after David Richter Interview 025, and Marco Nortmeier Interview 022 / pilot session).
+When Wolf described Solco's three pillars (interviews + computer-use tracking / shadowing + document ingestion), Eckert independently confirmed that shadowing is the most important pillar. Third independent confirmation of the shadowing primacy claim (after David Richter Interview 025, and Marco Nortmeier Interview 022 / pilot session).
 
 ### ERP ceiling in energy — Pattern 22 cross-industry
 
@@ -97,9 +97,9 @@ Eckert: *"that is also, of course, interesting for the management, for the manag
 
 ---
 
-## How Giuseppe Pitched (and What Stuck)
+## How Wolf Pitched (and What Stuck)
 
-Giuseppe led with the lived-it framing from his Polish family-business digitalization experience (asking employees "how do you do this job?" and discovering the layered exceptions). Then walked through the three-pillar methodology, the aging-demographics context, the "not replacement, but quality-of-information" framing ("the quality of a decision is not defined by the outcome — it's defined by what you had at your availability when you made that decision"), the Filigran pilot positioning, the Bautechnik wedge choice, and the *electricity → Henry Ford production line* analogy for AI's current efficiency-conversion gap.
+Wolf led with the lived-it framing from his Polish family-business digitalization experience (asking employees "how do you do this job?" and discovering the layered exceptions). Then walked through the three-pillar methodology, the aging-demographics context, the "not replacement, but quality-of-information" framing ("the quality of a decision is not defined by the outcome — it's defined by what you had at your availability when you made that decision"), the Filigran pilot positioning, the Bautechnik wedge choice, and the *electricity → Henry Ford production line* analogy for AI's current efficiency-conversion gap.
 
 Eckert tracked all of it smoothly. The pitch sequence that landed best, by observable engagement:
 
@@ -108,7 +108,7 @@ Eckert tracked all of it smoothly. The pitch sequence that landed best, by obser
 3. The Henry Ford / electricity analogy (Eckert: *"absolutely agree"*).
 4. The *not-replacement* framing (no objection cluster triggered).
 
-Notable: Giuseppe explicitly named **Corello** (€3.5M pre-seed, SAP-implementation process-mapping) and the **Italian renewable-energy founder** (€1.7M pre-seed, second-brain for renewable plants) as adjacent reference points. Eckert: *"yeah, something is happening there"* — recognised the space.
+Notable: Wolf explicitly named Quorelo** (€3.5M pre-seed, SAP-implementation process-mapping) and the **Italian renewable-energy founder** (€1.7M pre-seed, second-brain for renewable plants) as adjacent reference points. Eckert: *"yeah, something is happening there"* — recognised the space.
 
 ---
 
