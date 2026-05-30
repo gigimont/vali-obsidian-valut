@@ -80,6 +80,7 @@
 - [[MI — Silver Tsunami and AI Knowledge Capture]] — 43% of Germany's workforce retires by 2036; $31.5B Fortune 500 knowledge attrition; 20/80 split; LLM interview findings (Kempten); three KM barriers; junior+veteran pairing
 - [[MI — Domain Expert Knowledge in AI Systems]] — vertical AI 400% YoY; expert knowledge architecturally necessary for AI; Informed ML; $1.4B Intuit expert intelligence benchmark
 - [[MI — Expert Interview Design and Semi-Structured Methods]] — semi-structured interviews; three extraction prompts; post-session debrief protocol; expert selection checklist
+- [[MI — AI-Powered Knowledge Management in AEC (Forbes)]] — Forbes / SAME workshop survey; AEC = 2nd-least-digital industry; 30% designer time on info search; AECOM internal knowledge system; education-first GTM endorsed by industry CEO; technical reference set (Autodesk, WSP daisy, ALICE, Revaka, DPR×Hypar)
 - [[Interview Guide]] — how to run founder/successor interviews
 - [[Patterns From Fieldwork]] — emerging patterns across interviews
 
@@ -164,6 +165,7 @@
 | 7    | Interview 027: Sebastian Gras (FDU 30-plant precast) — first customer-side voice; Pattern 44 third confirmation (active retrieval, temporal decoupling, named-author Q&A); Pattern 46 (cross-site silos in multi-site Mittelstand); Pattern 47 (85-90% recurring-process self-quantification); Pattern 31 €20K story validated unprompted | ✅ Done |
 | 7 | Mentor Day at Audi 4 — six-mentor pitch event; CTO need + monetization the two convergent feedback themes; "technical director" positioning candidate; Joachim portfolio-pilot offer; SAP/Signavio AI-consultancy distribution analogue | ✅ Done |
 | 7 | Interview 028: Benjamin Eckert (Libergy / BMV Energy) — first energy / heir voice; Pattern 22 sixth industry (fuel); Pattern 42 voiced by heir; Pattern 44 fourth confirmation; new Beirat / shareholder-board buyer audience; value-driver discovery adjacent surface; Daniel Dippold (EWOR) warm channel | ✅ Done |
+| 7 | Construction-vertical AI competitor scan — Klutch ($8M seed), Trunk Tools, KAI/Deep Space, Zepth AI added as adjacent / convergent-pressure references in [[Competitors]]; Forbes AEC survey added as [[MI — AI-Powered Knowledge Management in AEC (Forbes)]]; 25–30% knowledge-tax stat now triangulated across three sources | ✅ Done |
 | 5-6  | One manual transformation attempt                          | ⬜ Planned |
 | 6    | Sharpened problem statement + MVP wedge decision           | ⬜ Planned |
 

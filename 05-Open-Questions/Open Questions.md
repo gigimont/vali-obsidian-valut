@@ -73,6 +73,8 @@
 - [ ] Should we position to sell-side M&A advisors as a channel? "Get documented before you list." (from [[Interview 023 — Maciej Bogacz (Holon Translink, Poland)]])
 - [ ] Is the creative bottleneck (fashion/design) a future market worth naming in pitch materials? (from [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]])
 - [ ] Should "stuck in the middle" consolidation pressure become a fourth urgency force alongside succession + AI window + talent scarcity? (from [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]])
+- [ ] Construction-vertical AI pricing — what do Klutch / Trunk Tools / KAI/Deep Space / Zepth actually charge per project or per seat? Anchors our pricing range for the "construction brain" analogue. (from [[Competitors]] — Construction-Vertical AI Platforms)
+- [ ] Is the AECOM-style "search-with-citations + employee-name attribution" deliverable shape (per [[MI — AI-Powered Knowledge Management in AEC (Forbes)]]) the right MVP for a credibility-grade external pilot? Same architecture; SME-sized.
 
 ## Strategic
 
@@ -80,6 +82,7 @@
 - [ ] **OBJECTION CLUSTER (Patterns 21 + 37 + 39):** Unified positioning response required before next high-stakes conversation. Newton (Pattern 21): "Retroactive capture is not feasible." Roland (Pattern 37): "What you do capture risks atrophying the underlying human capability." Francis (Pattern 39 — partial-capture honesty principle, now defined in [[Patterns From Fieldwork]]): "The capture rate is partial; overclaiming damages credibility." Draft response: "We capture transferable frameworks, not full intuition. Our deliverable reduces bottleneck dependency and accelerates onboarding — it is designed to scaffold human judgment, not substitute for it." (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]] + cluster)
 - [ ] **POSITIONING DECISION:** Three independent prospects (016, 018, 021) say the succession framing is too narrow. Francis (020) says go narrower for proof of concept. Synthesis: broad applicability story + narrow proof of concept lead. How do we encode this dual framing explicitly in pitch materials? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])
 - [ ] Does Peter May / Hamburg Family Summit warrant a dedicated outreach strategy as a German family business network gateway? (from [[Interview 021 — Roland Wübbe (H&W Tiefbau, Germany)]])
+- [ ] Is there a Mittelstand-manufacturing equivalent of the SAME / AEC workshop circuit ([[MI — AI-Powered Knowledge Management in AEC (Forbes)]]) that we could use as an education-first GTM surface? If none exists, is it worth creating one (panel + invited speakers + Solco as host)?
 - [ ] How does Pattern 41 (retirement window) intersect with Pattern 37 (atrophy)? Does engaging at retirement partially resolve the atrophy concern? (from [[Interview 024 — Eberhard Müller-Menrad (Eyewear Mittelstand, Germany)]])
 - [ ] Is the AI-enabled virtual data room a product to build or a feature of the larger offering?
 - [ ] Can we quantify: "our product compresses the 3-5 year post-acquisition consulting agreement to X months"?

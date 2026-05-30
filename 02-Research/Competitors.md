@@ -246,6 +246,110 @@ Solco is structurally positioned at the front of the vertical AI wave but addres
 
 ---
 
+## Construction-Vertical AI Platforms (Adjacent / Convergent Signal)
+
+Four construction-vertical AI platforms surfaced in May 2026 desk research. None target SME succession or knowledge transfer — they are project management / document intelligence plays for the AEC industry. They matter to us as a **parallel-industry signal**: the same thesis (organisational knowledge trapped in fragmented tools → AI agents to extract and structure it) is being funded and shipped in a neighbouring vertical, with similar language ("AI brain", "Cognitive Intelligence Layer", "Knowledge and Insights"). Treat as convergent-pressure evidence, not direct competitors. Useful reference for: GTM patterns, agent architecture, pricing anchors, and the "vertical AI 400% YoY" trend ([[MI — Domain Expert Knowledge in AI Systems]]).
+
+### Klutch (Seattle, US)
+
+**Source:** GeekWire article (June 2025), `00-Raw/Klutch.md`. Website: klutch.ai.
+
+| Detail | Value |
+|---|---|
+| Founders | Xu Rui (CEO, ex-Stripe ML), Tanin Na Nakorn (ex-Stripe ML) |
+| Funding | $8M seed (June 2025) — Bling Capital + Bain Capital Ventures lead; Brick and Mortar Ventures, Original Capital, Anthology Fund, Autodesk + BuildZoom angels |
+| Team | 12-person team (software engineering + structural/civil engineering) |
+| Target customer | Mid-sized residential and commercial builders / GCs ($20–250M annual construction volume) |
+| Product | Named AI agents (Archie = permits/zoning, Bob = jobsite data capture, Petra = vendor scoring, Hailey = warranty). Standalone construction management system OR layer on top of existing PM tools. |
+| Distribution channel | WhatsApp, SMS, email — agents live in the interfaces field workers already use |
+| Output | "Ongoing company-wide knowledge vault based on information the agents gather" |
+| Positioning | "Compound startup" (Bling investor frame; Rippling / Palantir / Salesforce comparable) |
+
+**Why this matters to Solco:**
+- **Same thesis, different industry.** "Construction teams have huge amounts of data that isn't being used" → identical pattern to Pattern 31 (Bauermeister's failed self-build, €20K-per-forgotten-experiment) but applied to project-level construction data, not generational founder knowledge.
+- **Native-interface distribution.** WhatsApp/SMS/email as agent surface is the closest analogue we have seen to Pattern 22 (founder knowledge lives in informal channels). They built FOR that channel rather than trying to migrate users off it.
+- **Knowledge vault as side effect.** Their core product is workflow automation, but they generate a "knowledge vault" as a by-product. Mirror image of Solco, where knowledge extraction IS the product and workflow improvement is the by-product.
+- **Funding anchor.** $8M seed for "AI coworkers in construction" sets a vertical-AI seed benchmark for adjacent verticals (incl. ours).
+
+**Differentiation vs Solco:** Klutch optimises **active project execution**. Solco extracts **non-transferable expert judgment** before/during a generational handover. Different time horizon, different buyer (project manager vs founder/successor/PE/M&A), different deliverable.
+
+---
+
+### Trunk Tools (US)
+
+**Source:** trunktools.com landing page, `00-Raw/Trunk Tools.md`.
+
+| Detail | Value |
+|---|---|
+| Target customer | General contractors and their trade partners on large-scale projects |
+| Positioning | "The Brain Behind Construction" — "one giant construction brain dedicated to your workflows, your documents, your project" |
+| Product modules | TrunkSubmittal (discrepancy detection in spec/submittal review), TrunkReview (drawing revision agent — vision-language models), TrunkText (Q&A over project docs), TrunkRFI (RFI management + dedup), TrunkBid (bid analysis), Submittal Register |
+| Buyer pain | "Document hunt consumes a large portion of the workday for Project Managers and Superintendents" — same time-loss frame as [[MI — Why Now Is the Knowledge Management Moment (Atlassian)]] (25% of workweek lost to search) |
+| Pricing | Not public |
+| Free tool | "Contract Review Agent" as lead magnet |
+
+**Why this matters to Solco:**
+- **"Construction brain" is the strongest language convergence so far** with our Solco / "company brain" framing ([[MI — Company Brain Concept (Ability.ai, Falconer, YC)]]). Different vertical, same metaphor.
+- **Free contract review agent as wedge.** GTM lesson: a single high-value, low-risk free deliverable creates pull. Direct parallel to our possible Filigran-style first-deliverable wedge.
+- **Construction-centric AI vs general AI.** Explicit positioning: "Unlike broader AI tools, TrunkText is laser-focused on construction and trained specifically on your project's data." Same vertical-vs-general argument that [[MI — Domain Expert Knowledge in AI Systems]] makes.
+
+**Differentiation vs Solco:** Trunk Tools indexes already-digital construction documents and makes them queryable. Solco extracts knowledge that has never been written down. They start where digital documentation exists; Solco operates upstream of digital documentation.
+
+---
+
+### KAI / Deep Space (Australia / New Zealand)
+
+**Source:** deepspacegroup.ai/platform/kai, `00-Raw/KAI - AI Assistant for Construction Management.md`.
+
+| Detail | Value |
+|---|---|
+| Product name | KAI = "Knowledge and Insights" |
+| Parent platform | Deep Space — connected construction OS (programme, RFIs, site diaries, defects/safety, procurement, commercial, claims, reporting, client portals) |
+| Target customer | Project managers, commercial leads, site teams; mid-tier builders in Australia / NZ |
+| Positioning | "Not a chatbot. The AI brain that you need in your projects." Built-in, no-prompt assistant inside the Deep Space platform. |
+| Core capabilities | Flags delivery delays, surfaces risks (RFIs, SWMS, variation exposure), suggests actions, reduces noise. Background-resident, not query-driven. |
+| Sales motion | Demo via meetings.hubspot.com/deepspace |
+
+**Why this matters to Solco:**
+- **Embedded vs standalone.** KAI is not sold as a separate product — it is a layer inside an existing OS. Strong validation of the "second brain as feature, not standalone app" architecture debate ([[MI — Mem (a16z Podcast)]], [[MI — Second Brain Execution Layer (YouTube)]]).
+- **"No prompts. No setup. Just helpful signals when they matter most."** This is the **always-on observation** mode our Pillar 2 / Phase 2 is heading toward ([[MI — Computer-Use AI Agents (Clicky, Google DeepMind)]]). Confirms the bet that proactive surfacing beats reactive querying.
+- **PM testimonial language is highly transferable.** "It's like having a junior PM who doesn't take breaks." Direct analogue for the role-replacement framing flagged in [[Interview 026 — Eric Quintane (ESMT Professor, Organizational Behavior)]] (Pattern 45 objection cluster: "replacement-framing").
+
+**Differentiation vs Solco:** KAI is a project-execution copilot for builders already using Deep Space. It assumes the company has digital project data. Solco extracts knowledge from companies that don't.
+
+---
+
+### Zepth AI (UAE / India — construction, Dubai-focused)
+
+**Source:** zepth.com/ai, `00-Raw/Zepth AI.md`.
+
+| Detail | Value |
+|---|---|
+| Positioning | "The Cognitive Intelligence Layer" — proprietary AI orchestration engine; 100,000+ "decisions automated" headline |
+| Architecture | State-machine orchestration; multi-stage decision chains; parallel agent coordination; human-in-the-loop gates; workflow resume; iterative refinement loops |
+| Agent count | 11 specialised agents across Document Management, Review & Response, Compliance (Dubai-specific: Building Code, Safety Code, Green Building Code), and Analysis (Risk, Specification, Contract) |
+| Solutions | 12 production solutions — Co-Pilot, AI Control Room, Program Risk Assessment, Float Exhaustion & Delay Momentum, Submittal Review (95% time reduction claim, 98.5% accuracy claim), RFI Review, AI Nudges, AI Decision Acceleration, Compliance & Audit, Claims Review |
+| Integrations | Autodesk Construction Cloud, Oracle P6/Aconex, Procore, SharePoint, Google Drive, Dropbox |
+| Regulatory wedge | Dubai Municipality / Civil Defense / Green Building codes baked into dedicated agents — geographic moat through local regulatory specialisation |
+
+**Why this matters to Solco:**
+- **Most architecturally mature reference in the set.** 11-agent specialist mesh + state-machine orchestration is the closest published architecture to our Phase 2 vision (specialised extraction + governance agents over a knowledge graph). Useful technical reference for CTO conversations.
+- **Geographic regulatory moat as positioning.** Dubai-specific code agents are not portable to Saudi or Singapore. This is the inverse of our "methodology-not-model" moat ([[Interview 022 — Marco Nortmeier (Filigran, Germany)]]) but rhymes structurally: depth-in-one-context beats generality.
+- **"Stateful across hours, days, or weeks" is a knowledge-vault property.** Their orchestration engine retains context across long-running workflows — same architectural requirement as the Solco persistent knowledge base. Confirms that production-grade construction AI is already paying the engineering cost for state persistence, which de-risks our equivalent technical bet.
+
+**Differentiation vs Solco:** Zepth automates **construction project decisions** using already-digital project artefacts (drawings, specs, RFIs, submittals). Solco extracts **judgment frameworks** from human experts in companies whose project artefacts may not exist in digital form. Different inputs, different industry, but a shared bet on multi-agent orchestration.
+
+---
+
+### Cross-Cutting Observations from the Construction Set
+
+- **Industry-wide "AI brain" / "Cognitive Intelligence Layer" framing.** Four independent platforms in the same vertical converged on the same metaphor inside ~12 months. Strong signal that the metaphor is **stage-of-market**, not Solco-specific. We should expect the same language to appear in the Mittelstand AI consultancy space within 12–18 months.
+- **Vertical AI thesis validated by funding.** Klutch's $8M seed (Bling + Bain Capital Ventures) confirms the [[MI — Domain Expert Knowledge in AI Systems]] "400% YoY vertical AI growth" trend in a concrete deal. Anchors realistic seed-round expectations.
+- **All four platforms operate on already-digital project data.** None extract knowledge from human experts. The unsolved layer in construction (and in our Mittelstand market) remains tacit, undocumented founder/master-craftsman knowledge — confirming the Solco wedge.
+- **Forbes survey context.** Industry-wide framing in [[MI — AI-Powered Knowledge Management in AEC (Forbes)]] — Autodesk, WSP, AECOM, DPR Construction, ALICE Technologies, Revaka — confirms AEC is one of the most active proving grounds for the "knowledge management + AI" thesis. Two reasons this matters: (a) credibility anchor in pitches ("the AEC industry is already buying this thesis at $1.4B+ scale"), (b) ALICE and Hypar are useful technical reference points for our Phase-2 generative / optimisation layer.
+
+---
+
 ## Hubi's AI Consulting Partner (unnamed, near AWW)
 - **What they do:** Build custom AI tools for manufacturing use cases — databases, production-grade solutions
 - **Location:** ~100km from AWW, southern Germany
@@ -263,6 +367,8 @@ Solco is structurally positioned at the front of the vertical AI wave but addres
 - [ ] Is there a German-language equivalent to Clonable that already has Mittelstand traction?
 - [ ] Research and categorize all entries in the Flagged for Research table above — especially Memory intelligence and Runeform AI
 - [ ] Research Omnivisor (omnivisor.io / Radek Miszkont) — pricing, deliverables, close rate, deliverable type. Surfaced as the closest competitor via Interview 006.
+- [ ] Does any construction-vertical AI platform (Klutch / Trunk Tools / Deep Space / Zepth) sell into Mittelstand construction SMEs in DACH? If yes — direct competitor; if no — leave them as adjacent reference.
+- [ ] Is there a manufacturing-vertical equivalent of Klutch (named AI agents on WhatsApp/SMS for Mittelstand shop floors)? If yes — closer competitor; if no — wedge confirmed.
 
 ---
 
@@ -274,3 +380,5 @@ Solco is structurally positioned at the front of the vertical AI wave but addres
 - [[Interview 003 - Merih (Finance Professor)]] — Clonable and decision replication
 - [[Interview 006 - John Lynch (Lynka)]] — the ERP ceiling pattern
 - [[1 to 1s — Week 3]] — US competitor raising $5.4M flagged here
+- [[MI — Domain Expert Knowledge in AI Systems]] — vertical AI 400% YoY context for the construction-AI set
+- [[MI — AI-Powered Knowledge Management in AEC (Forbes)]] — Forbes survey of AEC + AI knowledge management; industry context for Klutch / Trunk Tools / KAI / Zepth
